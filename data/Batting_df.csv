@@ -1,0 +1,1130 @@
+Match_id,Team,Opposite_Team,Innings,Batsman,Dismissal Type,Fielder,Bowler,Runs,Balls,Boundaries,Sixes,StrikeRate
+1,RCB,CSK,1,Kohli,Catch,Rachin Ravindra,Mustafizur,21,20,0,1,105.00
+1,RCB,CSK,1,du Plessis (c),Catch,Rachin Ravindra,Mustafizur,35,23,8,0,152.17
+1,RCB,CSK,1,Rajat Patidar,Catch,Dhoni,Mustafizur,0,3,0,0,0.00
+1,RCB,CSK,1,Maxwell,Catch,Dhoni,D Chahar,0,1,0,0,0.00
+1,RCB,CSK,1,Green,Bowled,-,Mustafizur,18,22,1,0,81.82
+1,RCB,CSK,1,Anuj Rawat (wk),Run out,Dhoni,-,48,25,4,3,192.00
+1,RCB,CSK,1,Karthik,Not out,-,-,38,26,3,2,146.15
+2,DC,PK,1,Warner,Catch,Jitesh Sharma,Harshal Patel,29,21,3,2,138.10
+2,DC,PK,1,Mitchell Marsh,Catch,Rahul Chahar,Arshdeep Singh,20,12,2,2,166.67
+2,DC,PK,1,Shai Hope,Catch,Harpreet Brar,Rabada,33,25,2,2,132.00
+2,DC,PK,1,Pant (c & wk),Catch,Bairstow,Harshal Patel,18,13,2,0,138.46
+2,DC,PK,1,Bhui,Catch,Jitesh Sharma,Harpreet Brar,3,7,0,0,42.86
+2,DC,PK,1,Tristan Stubbs,Catch,Shashank Singh,Rahul Chahar,5,8,0,0,62.50
+2,DC,PK,1,Axar,Run out,(sub)T Thyagarajan/Jitesh Sharma,-,21,13,2,1,161.54
+2,DC,PK,1,Sumit Kumar,Catch,Jitesh Sharma,Arshdeep Singh,2,9,0,0,22.22
+2,DC,PK,1,Abishek Porel,Not out,-,-,32,10,4,2,320.00
+2,DC,PK,1,Kuldeep Yadav,Run out,Shashank Singh/Harshal Patel,-,1,2,0,0,50.00
+3,KKR,SH,1,Salt (wk),Catch,Marco Jansen,Markande,54,40,3,3,135.00
+3,KKR,SH,1,Narine,Run out,Shahbaz Ahmed,-,2,4,0,0,50.00
+3,KKR,SH,1,Venkatesh Iyer,Catch,Marco Jansen,T Natarajan,7,5,1,0,140.00
+3,KKR,SH,1,Shreyas Iyer (c),Catch,Cummins,T Natarajan,0,2,0,0,0.00
+3,KKR,SH,1,Nitish Rana,Catch,Tripathi,Markande,9,11,1,0,81.82
+3,KKR,SH,1,Ramandeep Singh,Catch,Markande,Cummins,35,17,1,4,205.88
+3,KKR,SH,1,Rinku Singh,Catch,Markram,T Natarajan,23,15,3,0,153.33
+3,KKR,SH,1,Russell,Not out,-,-,64,25,3,7,256.00
+3,KKR,SH,1,Starc,Not out,-,-,6,3,1,0,200.00
+4,RR,LSG,1,Yashasvi Jaiswal,Catch,Krunal Pandya,Mohsin Khan,24,12,3,1,200.00
+4,RR,LSG,1,Jos Buttler,Catch,Rahul,Naveen-ul-Haq,11,9,2,0,122.22
+4,RR,LSG,1,Samson (c & wk),Not out,-,-,82,52,3,6,157.69
+4,RR,LSG,1,Riyan Parag,Catch,Deepak Hooda,Naveen-ul-Haq,43,29,1,3,148.28
+4,RR,LSG,1,Hetmyer,Catch,Rahul,Ravi Bishnoi,5,7,0,0,71.43
+4,RR,LSG,1,Dhruv Jurel,Not out,-,-,20,12,1,1,166.67
+5,GT,M,1,W Saha (wk),Bowled,-,Bumrah,19,15,4,0,126.67
+5,GT,M,1,Shubman Gill (c),Catch,Rohit,Chawla,31,22,3,1,140.91
+5,GT,M,1,Sai Sudharsan,Catch,Tilak Varma,Bumrah,45,39,3,1,115.38
+5,GT,M,1,Azmatullah,Catch,Tilak Varma,Gerald Coetzee,17,11,1,1,154.55
+5,GT,M,1,David Miller,Catch,Hardik Pandya,Bumrah,12,11,1,0,109.09
+5,GT,M,1,Vijay Shankar,Not out,-,-,6,5,0,0,120.00
+5,GT,M,1,Rahul Tewatia,Catch,Naman Dhir,Gerald Coetzee,22,15,2,1,146.67
+5,GT,M,1,Rashid Khan,Not out,-,-,4,3,0,0,133.33
+6,PK,RCB,1,Dhawan (c),Catch,Kohli,Maxwell,45,37,5,1,121.62
+6,PK,RCB,1,Bairstow,Catch,Kohli,Siraj,8,6,2,0,133.33
+6,PK,RCB,1,Prabhsimran,Catch,Anuj Rawat,Maxwell,25,17,2,2,147.06
+6,PK,RCB,1,Livingstone,Catch,Anuj Rawat,Alzarri Joseph,17,13,1,1,130.77
+6,PK,RCB,1,Sam Curran,Catch,Anuj Rawat,Yash Dayal,23,17,3,0,135.29
+6,PK,RCB,1,Jitesh Sharma (wk),Catch,Anuj Rawat,Siraj,27,20,1,2,135.00
+6,PK,RCB,1,Shashank Singh,Not out,-,-,21,8,1,2,262.50
+6,PK,RCB,1,Harpreet Brar,Not out,-,-,2,2,0,0,100.00
+7,CSK,GT,1,Ruturaj Gaikwad (c),Catch,W Saha,Spencer Johnson,46,36,5,1,127.78
+7,CSK,GT,1,Rachin Ravindra,Stump,W Saha,Rashid Khan,46,20,6,3,230.00
+7,CSK,GT,1,Ajinkya Rahane,Stump,W Saha,Sai Kishore,12,12,0,0,100.00
+7,CSK,GT,1,Shivam Dube,Catch,Vijay Shankar,Rashid Khan,51,23,2,5,221.74
+7,CSK,GT,1,Daryl Mitchell,Not out,-,-,24,20,2,0,120.00
+7,CSK,GT,1,Sameer Rizvi,Catch,David Miller,Mohit Sharma,14,6,0,2,233.33
+7,CSK,GT,1,Ravindra Jadeja,Run out,Vijay Shankar/W Saha,-,7,3,1,0,233.33
+8,SH,M,1,Mayank Agarwal,Catch,Tim David,Hardik Pandya,11,13,1,0,84.62
+8,SH,M,1,Head,Catch,Naman Dhir,Gerald Coetzee,62,24,9,3,258.33
+8,SH,M,1,Abhishek Sharma,Catch,Naman Dhir,Chawla,63,23,3,7,273.91
+8,SH,M,1,Markram,Not out,-,-,42,28,2,1,150.00
+8,SH,M,1,Klaasen (wk),Not out,-,-,80,34,4,7,235.29
+9,RR,DC,1,Yashasvi Jaiswal,Bowled,-,Mukesh Kumar,5,7,1,0,71.43
+9,RR,DC,1,Jos Buttler,lbw,-,Kuldeep Yadav,11,16,0,0,68.75
+9,RR,DC,1,Samson (c & wk),Catch,Pant,Khaleel Ahmed,15,14,3,0,107.14
+9,RR,DC,1,Riyan Parag,Not out,-,-,84,45,7,6,186.67
+9,RR,DC,1,Ashwin,Catch,Tristan Stubbs,Axar,29,19,0,3,152.63
+9,RR,DC,1,Dhruv Jurel,Bowled,-,Nortje,20,12,3,0,166.67
+9,RR,DC,1,Hetmyer,Not out,-,-,14,7,1,1,200.00
+10,RCB,KKR,1,Kohli,Not out,-,-,83,59,4,4,140.68
+10,RCB,KKR,1,du Plessis (c),Catch,Starc,Harshit Rana,8,6,0,1,133.33
+10,RCB,KKR,1,Green,Bowled,-,Russell,33,21,4,2,157.14
+10,RCB,KKR,1,Maxwell,Catch,Rinku Singh,Narine,28,19,3,1,147.37
+10,RCB,KKR,1,Rajat Patidar,Catch,Rinku Singh,Russell,3,4,0,0,75.00
+10,RCB,KKR,1,Anuj Rawat (wk),Catch,Salt,Harshit Rana,3,3,0,0,100.00
+10,RCB,KKR,1,Karthik,Run out,Salt,-,20,8,0,3,250.00
+11,LSG,PK,1,de Kock (wk),Catch,Jitesh Sharma,Arshdeep Singh,54,38,5,2,142.11
+11,LSG,PK,1,Rahul,Catch,Bairstow,Arshdeep Singh,15,9,1,1,166.67
+11,LSG,PK,1,Padikkal,Catch,Dhawan,Sam Curran,9,6,2,0,150.00
+11,LSG,PK,1,Stoinis,Bowled,-,Rahul Chahar,19,12,0,2,158.33
+11,LSG,PK,1,Pooran (c),Bowled,-,Rabada,42,21,3,3,200.00
+11,LSG,PK,1,Ayush Badoni,Catch,Bairstow,Sam Curran,8,10,0,0,80.00
+11,LSG,PK,1,Krunal Pandya,Not out,-,-,43,22,4,2,195.45
+11,LSG,PK,1,Ravi Bishnoi,Catch,(sub)T Thyagarajan,Sam Curran,0,1,0,0,0.00
+11,LSG,PK,1,Mohsin Khan,Run out,Harshal Patel,-,2,1,0,0,200.00
+11,LSG,PK,1,Naveen-ul-Haq,Not out,-,-,0,0,0,0,0.00
+12,SH,GT,1,Mayank Agarwal,Catch,Darshan Nalkande,Azmatullah,16,17,2,0,94.12
+12,SH,GT,1,Head,Bowled,-,Noor Ahmad,19,14,3,0,135.71
+12,SH,GT,1,Abhishek Sharma,Catch,Shubman Gill,Mohit Sharma,29,20,2,2,145.00
+12,SH,GT,1,Markram,Catch,Rashid Khan,Umesh,17,19,0,0,89.47
+12,SH,GT,1,Klaasen (wk),Bowled,-,Rashid Khan,24,13,1,2,184.62
+12,SH,GT,1,Shahbaz Ahmed,Catch,Rahul Tewatia,Mohit Sharma,22,20,1,1,110.00
+12,SH,GT,1,Abdul Samad,Run out,Noor Ahmad/W Saha,-,29,14,3,1,207.14
+12,SH,GT,1,Washington Sundar,Catch,Rashid Khan,Mohit Sharma,0,1,0,0,0.00
+12,SH,GT,1,Cummins (c),Not out,-,-,2,2,0,0,100.00
+13,DC,CSK,1,Prithvi Shaw,Catch,Dhoni,Ravindra Jadeja,43,27,4,2,159.26
+13,DC,CSK,1,Warner,Catch,Matheesha Pathirana,Mustafizur,52,35,5,3,148.57
+13,DC,CSK,1,Pant (c & wk),Catch,Ruturaj Gaikwad,Matheesha Pathirana,51,32,4,3,159.38
+13,DC,CSK,1,Mitchell Marsh,Bowled,-,Matheesha Pathirana,18,12,2,1,150.00
+13,DC,CSK,1,Tristan Stubbs,Bowled,-,Matheesha Pathirana,0,2,0,0,0.00
+13,DC,CSK,1,Axar,Not out,-,-,7,8,0,0,87.50
+13,DC,CSK,1,Abishek Porel,Not out,-,-,9,6,1,0,150.00
+14,M,RR,1,Ishan Kishan (wk),Catch,Samson,Nandre Burger,16,14,2,1,114.29
+14,M,RR,1,Rohit,Catch,Samson,Boult,0,1,0,0,0.00
+14,M,RR,1,Naman Dhir,lbw,-,Boult,0,1,0,0,0.00
+14,M,RR,1,Dewald Brevis,Catch,Nandre Burger,Boult,0,1,0,0,0.00
+14,M,RR,1,Tilak Varma,Catch,Ashwin,Chahal,32,29,0,2,110.34
+14,M,RR,1,Hardik Pandya (c),Catch,(sub)Rovman Powell,Chahal,34,21,6,0,161.90
+14,M,RR,1,Chawla,Catch,Hetmyer,Avesh Khan,3,6,0,0,50.00
+14,M,RR,1,Tim David,Catch,Boult,Nandre Burger,17,24,1,0,70.83
+14,M,RR,1,Gerald Coetzee,Catch,Hetmyer,Chahal,4,9,0,0,44.44
+14,M,RR,1,Bumrah,Not out,-,-,8,9,1,0,88.89
+14,M,RR,1,Akash Madhwal,Not out,-,-,4,5,0,0,80.00
+15,LSG,RCB,1,de Kock,Catch,Mayank Dagar,R Topley,81,56,8,5,144.64
+15,LSG,RCB,1,Rahul (c & wk),Catch,Mayank Dagar,Maxwell,20,14,0,2,142.86
+15,LSG,RCB,1,Padikkal,Catch,Anuj Rawat,Siraj,6,11,0,0,54.55
+15,LSG,RCB,1,Stoinis,Catch,Mayank Dagar,Maxwell,24,15,1,2,160.00
+15,LSG,RCB,1,Pooran,Not out,-,-,40,21,1,5,190.48
+15,LSG,RCB,1,Ayush Badoni,Catch,du Plessis,Yash Dayal,0,3,0,0,0.00
+15,LSG,RCB,1,Krunal Pandya,Not out,-,-,0,0,0,0,0.00
+16,KKR,DC,1,Salt (wk),Catch,Tristan Stubbs,Nortje,18,12,4,0,150.00
+16,KKR,DC,1,Narine,Catch,Pant,Mitchell Marsh,85,39,7,7,217.95
+16,KKR,DC,1,Angkrish Raghuvanshi,Catch,Ishant,Nortje,54,27,5,3,200.00
+16,KKR,DC,1,Russell,Bowled,-,Ishant,41,19,4,3,215.79
+16,KKR,DC,1,Shreyas Iyer (c),Catch,Tristan Stubbs,Khaleel Ahmed,18,11,0,2,163.64
+16,KKR,DC,1,Rinku Singh,Catch,Warner,Nortje,26,8,1,3,325.00
+16,KKR,DC,1,Venkatesh Iyer,Not out,-,-,5,2,1,0,250.00
+16,KKR,DC,1,Ramandeep Singh,Catch,Prithvi Shaw,Ishant,2,2,0,0,100.00
+16,KKR,DC,1,Starc,Not out,-,-,1,1,0,0,100.00
+17,GT,PK,1,W Saha (wk),Catch,Dhawan,Rabada,11,13,2,0,84.62
+17,GT,PK,1,Shubman Gill (c),Not out,-,-,89,48,6,4,185.42
+17,GT,PK,1,Williamson,Catch,Bairstow,Harpreet Brar,26,22,4,0,118.18
+17,GT,PK,1,Sai Sudharsan,Catch,Jitesh Sharma,Harshal Patel,33,19,6,0,173.68
+17,GT,PK,1,Vijay Shankar,Catch,Harpreet Brar,Rabada,8,10,0,0,80.00
+17,GT,PK,1,Rahul Tewatia,Not out,-,-,23,8,3,1,287.50
+18,CSK,SH,1,Rachin Ravindra,Catch,Markram,Bhuvneshwar,12,9,2,0,133.33
+18,CSK,SH,1,Ruturaj Gaikwad (c),Catch,Abdul Samad,Shahbaz Ahmed,26,21,3,1,123.81
+18,CSK,SH,1,Ajinkya Rahane,Catch,Markande,Jaydev Unadkat,35,30,2,1,116.67
+18,CSK,SH,1,Shivam Dube,Catch,Bhuvneshwar,Cummins,45,24,2,4,187.50
+18,CSK,SH,1,Ravindra Jadeja,Not out,-,-,31,23,4,0,134.78
+18,CSK,SH,1,Daryl Mitchell,Catch,Abdul Samad,T Natarajan,13,11,1,0,118.18
+18,CSK,SH,1,Dhoni (wk),Not out,-,-,1,2,0,0,50.00
+19,RCB,RR,1,Kohli,Not out,-,-,113,72,12,4,156.94
+19,RCB,RR,1,du Plessis (c),Catch,Jos Buttler,Chahal,44,33,2,2,133.33
+19,RCB,RR,1,Maxwell,Bowled,-,Nandre Burger,1,3,0,0,33.33
+19,RCB,RR,1,Saurav Chauhan,Catch,Yashasvi Jaiswal,Chahal,9,6,0,1,150.00
+19,RCB,RR,1,Green,Not out,-,-,5,6,0,0,83.33
+20,M,DC,1,Rohit,Bowled,-,Axar,49,27,6,3,181.48
+20,M,DC,1,Ishan Kishan (wk),Caught and Bowled,-,Axar,42,23,4,2,182.61
+20,M,DC,1,Suryakumar Yadav,Catch,(sub)Jake Fraser-McGurk,Nortje,0,2,0,0,0.00
+20,M,DC,1,Hardik Pandya (c),Catch,(sub)Jake Fraser-McGurk,Nortje,39,33,3,1,118.18
+20,M,DC,1,Tilak Varma,Catch,Axar,Khaleel Ahmed,6,5,1,0,120.00
+20,M,DC,1,Tim David,Not out,-,-,45,21,2,4,214.29
+20,M,DC,1,Romario Shepherd,Not out,-,-,39,10,3,4,390.00
+21,LSG,GT,1,de Kock,Catch,Noor Ahmad,Umesh,6,4,0,1,150.00
+21,LSG,GT,1,Rahul (c & wk),Catch,Rahul Tewatia,Darshan Nalkande,33,31,3,0,106.45
+21,LSG,GT,1,Padikkal,Catch,Vijay Shankar,Umesh,7,7,1,0,100.00
+21,LSG,GT,1,Stoinis,Catch,Sharath BR,Darshan Nalkande,58,43,4,2,134.88
+21,LSG,GT,1,Pooran,Not out,-,-,32,22,0,3,145.45
+21,LSG,GT,1,Ayush Badoni,Catch,Umesh,Rashid Khan,20,11,3,0,181.82
+21,LSG,GT,1,Krunal Pandya,Not out,-,-,2,2,0,0,100.00
+22,KKR,CSK,1,Salt (wk),Catch,Ravindra Jadeja,Tushar Deshpande,0,1,0,0,0.00
+22,KKR,CSK,1,Narine,Catch,M Theekshana,Ravindra Jadeja,27,20,3,2,135.00
+22,KKR,CSK,1,Angkrish Raghuvanshi,lbw,-,Ravindra Jadeja,24,18,3,1,133.33
+22,KKR,CSK,1,Shreyas Iyer (c),Catch,Ravindra Jadeja,Mustafizur,34,32,3,0,106.25
+22,KKR,CSK,1,Venkatesh Iyer,Catch,Daryl Mitchell,Ravindra Jadeja,3,8,0,0,37.50
+22,KKR,CSK,1,Ramandeep Singh,Bowled,-,M Theekshana,13,12,0,1,108.33
+22,KKR,CSK,1,Rinku Singh,Bowled,-,Tushar Deshpande,9,14,0,0,64.29
+22,KKR,CSK,1,Russell,Catch,Daryl Mitchell,Tushar Deshpande,10,10,2,0,100.00
+22,KKR,CSK,1,Anukul Roy,Not out,-,-,3,3,0,0,100.00
+22,KKR,CSK,1,Starc,Catch,Rachin Ravindra,Mustafizur,0,3,0,0,0.00
+22,KKR,CSK,1,Vaibhav Arora,Not out,-,-,1,1,0,0,100.00
+23,SH,PK,1,Head,Catch,Dhawan,Arshdeep Singh,21,15,4,0,140.00
+23,SH,PK,1,Abhishek Sharma,Catch,Shashank Singh,Sam Curran,16,11,2,1,145.45
+23,SH,PK,1,Markram,Catch,Jitesh Sharma,Arshdeep Singh,0,2,0,0,0.00
+23,SH,PK,1,Nitish Reddy,Catch,Rabada,Arshdeep Singh,64,37,4,5,172.97
+23,SH,PK,1,Tripathi,Catch,Jitesh Sharma,Harshal Patel,11,14,1,0,78.57
+23,SH,PK,1,Klaasen (wk),Catch,Sam Curran,Harshal Patel,9,9,1,0,100.00
+23,SH,PK,1,Abdul Samad,Catch,Harshal Patel,Arshdeep Singh,25,12,5,0,208.33
+23,SH,PK,1,Shahbaz Ahmed,Not out,-,-,14,7,1,1,200.00
+23,SH,PK,1,Cummins (c),Bowled,-,Rabada,3,4,0,0,75.00
+23,SH,PK,1,Bhuvneshwar,Catch,Bairstow,Sam Curran,6,8,0,0,75.00
+23,SH,PK,1,Jaydev Unadkat,Not out,-,-,6,1,0,1,600.00
+24,RR,GT,1,Yashasvi Jaiswal,Catch,Wade,Umesh,24,19,5,0,126.32
+24,RR,GT,1,Jos Buttler,Catch,Rahul Tewatia,Rashid Khan,8,10,0,0,80.00
+24,RR,GT,1,Samson (c & wk),Not out,-,-,68,38,7,2,178.95
+24,RR,GT,1,Riyan Parag,Catch,Vijay Shankar,Mohit Sharma,76,48,3,5,158.33
+24,RR,GT,1,Hetmyer,Not out,-,-,13,5,1,1,260.00
+25,RCB,M,1,Kohli,Catch,Ishan Kishan,Bumrah,3,9,0,0,33.33
+25,RCB,M,1,du Plessis (c),Catch,Tim David,Bumrah,61,40,4,3,152.50
+25,RCB,M,1,Will Jacks,Catch,Tim David,Akash Madhwal,8,6,2,0,133.33
+25,RCB,M,1,Rajat Patidar,Catch,Ishan Kishan,Gerald Coetzee,50,26,3,4,192.31
+25,RCB,M,1,Maxwell,lbw,-,Shreyas Gopal,0,4,0,0,0.00
+25,RCB,M,1,Karthik (wk),Not out,-,-,53,23,5,4,230.43
+25,RCB,M,1,Lomror,lbw,-,Bumrah,0,1,0,0,0.00
+25,RCB,M,1,Saurav Chauhan,Catch,Akash Madhwal,Bumrah,9,8,1,0,112.50
+25,RCB,M,1,Vijaykumar Vyshak,Catch,Nabi,Bumrah,0,1,0,0,0.00
+25,RCB,M,1,Akash Deep,Not out,-,-,2,2,0,0,100.00
+26,LSG,DC,1,de Kock,lbw,-,Khaleel Ahmed,19,13,4,0,146.15
+26,LSG,DC,1,Rahul (c & wk),Catch,Pant,Kuldeep Yadav,39,22,5,1,177.27
+26,LSG,DC,1,Padikkal,lbw,-,Khaleel Ahmed,3,6,0,0,50.00
+26,LSG,DC,1,Stoinis,Catch,Ishant,Kuldeep Yadav,8,10,1,0,80.00
+26,LSG,DC,1,Pooran,Bowled,-,Kuldeep Yadav,0,1,0,0,0.00
+26,LSG,DC,1,Deepak Hooda,Catch,Warner,Ishant,10,13,0,0,76.92
+26,LSG,DC,1,Ayush Badoni,Not out,-,-,55,35,5,1,157.14
+26,LSG,DC,1,Krunal Pandya,Catch,Pant,Mukesh Kumar,3,4,0,0,75.00
+26,LSG,DC,1,Arshad Khan,Not out,-,-,20,16,2,0,125.00
+27,PK,RR,1,Atharva Taide,Catch,Kuldeep Sen,Avesh Khan,15,12,2,0,125.00
+27,PK,RR,1,Bairstow,Catch,Hetmyer,Maharaj,15,19,1,0,78.95
+27,PK,RR,1,Prabhsimran,Catch,Dhruv Jurel,Chahal,10,14,1,0,71.43
+27,PK,RR,1,Sam Curran (c),Catch,Dhruv Jurel,Maharaj,6,10,0,0,60.00
+27,PK,RR,1,Jitesh Sharma (wk),Catch,Riyan Parag,Avesh Khan,29,24,1,2,120.83
+27,PK,RR,1,Shashank Singh,Catch,Dhruv Jurel,Kuldeep Sen,9,9,1,0,100.00
+27,PK,RR,1,Livingstone,Run out,Tanush Kotian/Samson,-,21,14,2,1,150.00
+27,PK,RR,1,Ashutosh Sharma,Catch,Maharaj,Boult,31,16,1,3,193.75
+27,PK,RR,1,Harpreet Brar,Not out,-,-,3,3,0,0,100.00
+28,LSG,KKR,1,de Kock,Catch,Narine,Vaibhav Arora,10,8,2,0,125.00
+28,LSG,KKR,1,Rahul (c & wk),Catch,Ramandeep Singh,Russell,39,27,3,2,144.44
+28,LSG,KKR,1,Deepak Hooda,Catch,Ramandeep Singh,Starc,8,10,1,0,80.00
+28,LSG,KKR,1,Ayush Badoni,Catch,Angkrish Raghuvanshi,Narine,29,27,2,1,107.41
+28,LSG,KKR,1,Stoinis,Catch,Salt,Chakaravarthy,10,5,2,0,200.00
+28,LSG,KKR,1,Pooran,Catch,Salt,Starc,45,32,2,4,140.62
+28,LSG,KKR,1,Krunal Pandya,Not out,-,-,7,8,0,0,87.50
+28,LSG,KKR,1,Arshad Khan,Bowled,-,Starc,5,4,1,0,125.00
+29,CSK,M,1,Ajinkya Rahane,Catch,Hardik Pandya,Gerald Coetzee,5,8,1,0,62.50
+29,CSK,M,1,Rachin Ravindra,Catch,Ishan Kishan,Shreyas Gopal,21,16,2,1,131.25
+29,CSK,M,1,Ruturaj Gaikwad (c),Catch,Nabi,Hardik Pandya,69,40,5,5,172.50
+29,CSK,M,1,Shivam Dube,Not out,-,-,66,38,10,2,173.68
+29,CSK,M,1,Daryl Mitchell,Catch,Nabi,Hardik Pandya,17,14,1,0,121.43
+29,CSK,M,1,Dhoni (wk),Not out,-,-,20,4,0,3,500.00
+30,SH,RCB,1,Abhishek Sharma,Catch,Lockie Ferguson,R Topley,34,22,2,2,154.55
+30,SH,RCB,1,Head,Catch,du Plessis,Lockie Ferguson,102,41,9,8,248.78
+30,SH,RCB,1,Klaasen (wk),Catch,Vijaykumar Vyshak,Lockie Ferguson,67,31,2,7,216.13
+30,SH,RCB,1,Markram,Not out,-,-,32,17,2,2,188.24
+30,SH,RCB,1,Abdul Samad,Not out,-,-,37,10,4,3,370.00
+31,KKR,RR,1,Salt (wk),Caught and Bowled,-,Avesh Khan,10,13,1,0,76.92
+31,KKR,RR,1,Narine,Bowled,-,Boult,109,56,13,6,194.64
+31,KKR,RR,1,Angkrish Raghuvanshi,Catch,Ashwin,Kuldeep Sen,30,18,5,0,166.67
+31,KKR,RR,1,Shreyas Iyer (c),lbw,-,Chahal,11,7,1,1,157.14
+31,KKR,RR,1,Russell,Catch,Dhruv Jurel,Avesh Khan,13,10,2,0,130.00
+31,KKR,RR,1,Rinku Singh,Not out,-,-,20,9,1,2,222.22
+31,KKR,RR,1,Venkatesh Iyer,Catch,Dhruv Jurel,Kuldeep Sen,8,6,1,0,133.33
+31,KKR,RR,1,Ramandeep Singh,Not out,-,-,1,1,0,0,100.00
+32,GT,DC,1,W Saha (wk),Bowled,-,Mukesh Kumar,2,10,0,0,20.00
+32,GT,DC,1,Shubman Gill (c),Catch,Prithvi Shaw,Ishant,8,6,2,0,133.33
+32,GT,DC,1,Sai Sudharsan,Run out,Sumit Kumar,-,12,9,2,0,133.33
+32,GT,DC,1,David Miller,Catch,Pant,Ishant,2,6,0,0,33.33
+32,GT,DC,1,Abhinav Manohar,Stump,Pant,Tristan Stubbs,8,14,1,0,57.14
+32,GT,DC,1,Rahul Tewatia,lbw,-,Axar,10,15,1,0,66.67
+32,GT,DC,1,Shahrukh Khan,Stump,Pant,Tristan Stubbs,0,1,0,0,0.00
+32,GT,DC,1,Rashid Khan,Catch,Pant,Mukesh Kumar,31,24,2,1,129.17
+32,GT,DC,1,Mohit Sharma,Catch,Sumit Kumar,Khaleel Ahmed,2,14,0,0,14.29
+32,GT,DC,1,Noor Ahmad,Bowled,-,Mukesh Kumar,1,7,0,0,14.29
+32,GT,DC,1,Spencer Johnson,Not out,-,-,1,1,0,0,100.00
+33,M,PK,1,Ishan Kishan (wk),Catch,Harpreet Brar,Rabada,8,8,1,0,100.00
+33,M,PK,1,Rohit,Catch,Harpreet Brar,Sam Curran,36,25,2,3,144.00
+33,M,PK,1,Suryakumar Yadav,Catch,Prabhsimran,Sam Curran,78,53,7,3,147.17
+33,M,PK,1,Tilak Varma,Not out,-,-,34,18,2,2,188.89
+33,M,PK,1,Hardik Pandya (c),Catch,Harpreet Brar,Harshal Patel,10,6,0,1,166.67
+33,M,PK,1,Tim David,Catch,Sam Curran,Harshal Patel,14,7,2,1,200.00
+33,M,PK,1,Romario Shepherd,Catch,Shashank Singh,Harshal Patel,1,2,0,0,50.00
+33,M,PK,1,Nabi,Run out,Harshal Patel,-,0,1,0,0,0.00
+34,CSK,LSG,1,Ajinkya Rahane,Bowled,-,Krunal Pandya,36,24,5,1,150.00
+34,CSK,LSG,1,Rachin Ravindra,Bowled,-,Mohsin Khan,0,1,0,0,0.00
+34,CSK,LSG,1,Ruturaj Gaikwad (c),Catch,Rahul,Yash Thakur,17,13,1,0,130.77
+34,CSK,LSG,1,Ravindra Jadeja,Not out,-,-,57,40,5,1,142.50
+34,CSK,LSG,1,Shivam Dube,Catch,Rahul,Stoinis,3,8,0,0,37.50
+34,CSK,LSG,1,Sameer Rizvi,Stump,Rahul,Krunal Pandya,1,5,0,0,20.00
+34,CSK,LSG,1,Moeen,Catch,Ayush Badoni,Ravi Bishnoi,30,20,0,3,150.00
+34,CSK,LSG,1,Dhoni (wk),Not out,-,-,28,9,3,2,311.11
+35,SH,DC,1,Head,Catch,Tristan Stubbs,Kuldeep Yadav,89,32,11,6,278.12
+35,SH,DC,1,Abhishek Sharma,Catch,Axar,Kuldeep Yadav,46,12,2,6,383.33
+35,SH,DC,1,Markram,Catch,Axar,Kuldeep Yadav,1,3,0,0,33.33
+35,SH,DC,1,Klaasen (wk),Bowled,-,Axar,15,8,0,2,187.50
+35,SH,DC,1,Nitish Reddy,Catch,Warner,Kuldeep Yadav,37,27,2,2,137.04
+35,SH,DC,1,Shahbaz Ahmed,Not out,-,-,59,29,2,5,203.45
+35,SH,DC,1,Abdul Samad,Catch,Nortje,Mukesh Kumar,13,8,1,1,162.50
+35,SH,DC,1,Cummins (c),Run out,Tristan Stubbs/Mukesh Kumar,-,1,1,0,0,100.00
+35,SH,DC,1,Washington Sundar,Not out,-,-,0,0,0,0,0.00
+36,KKR,RCB,1,Salt (wk),Catch,Rajat Patidar,Siraj,48,14,7,3,342.86
+36,KKR,RCB,1,Narine,Catch,Kohli,Yash Dayal,10,15,2,0,66.67
+36,KKR,RCB,1,Angkrish Raghuvanshi,Catch,Green,Yash Dayal,3,4,0,0,75.00
+36,KKR,RCB,1,Venkatesh Iyer,Catch,Lomror,Green,16,8,3,0,200.00
+36,KKR,RCB,1,Shreyas Iyer (c),Catch,du Plessis,Green,50,36,7,1,138.89
+36,KKR,RCB,1,Rinku Singh,Catch,Yash Dayal,Lockie Ferguson,24,16,2,1,150.00
+36,KKR,RCB,1,Russell,Not out,-,-,27,20,4,0,135.00
+36,KKR,RCB,1,Ramandeep Singh,Not out,-,-,24,9,2,2,266.67
+37,PK,GT,1,Sam Curran (c),lbw,-,Rashid Khan,20,19,2,0,105.26
+37,PK,GT,1,Prabhsimran,Catch,W Saha,Mohit Sharma,35,21,3,3,166.67
+37,PK,GT,1,Rossouw,lbw,-,Noor Ahmad,9,7,2,0,128.57
+37,PK,GT,1,Jitesh Sharma (wk),Bowled,-,Sai Kishore,13,12,0,1,108.33
+37,PK,GT,1,Livingstone,Catch,Rahul Tewatia,Noor Ahmad,6,9,1,0,66.67
+37,PK,GT,1,Shashank Singh,Caught and Bowled,-,Sai Kishore,8,12,0,0,66.67
+37,PK,GT,1,Ashutosh Sharma,Catch,Mohit Sharma,Sai Kishore,3,8,0,0,37.50
+37,PK,GT,1,Harpreet Singh,Run out,Sai Sudharsan/W Saha,-,14,19,0,0,73.68
+37,PK,GT,1,Harpreet Brar,Catch,Shahrukh Khan,Sai Kishore,29,12,4,1,241.67
+37,PK,GT,1,Harshal Patel,Catch,Shahrukh Khan,Mohit Sharma,0,1,0,0,0.00
+37,PK,GT,1,Rabada,Not out,-,-,1,1,0,0,100.00
+38,M,RR,1,Rohit,Catch,Samson,Boult,6,5,1,0,120.00
+38,M,RR,1,Ishan Kishan (wk),Catch,Samson,Sandeep Sharma,0,3,0,0,0.00
+38,M,RR,1,Suryakumar Yadav,Catch,Rovman Powell,Sandeep Sharma,10,8,2,0,125.00
+38,M,RR,1,Tilak Varma,Catch,Rovman Powell,Sandeep Sharma,65,45,5,3,144.44
+38,M,RR,1,Nabi,Caught and Bowled,-,Chahal,23,17,2,1,135.29
+38,M,RR,1,Nehal Wadhera,Catch,Sandeep Sharma,Boult,49,24,3,4,204.17
+38,M,RR,1,Hardik Pandya (c),lbw,-,Avesh Khan,10,10,1,0,100.00
+38,M,RR,1,Tim David,Catch,Riyan Parag,Sandeep Sharma,3,5,0,0,60.00
+38,M,RR,1,Gerald Coetzee,Catch,Hetmyer,Sandeep Sharma,0,1,0,0,0.00
+38,M,RR,1,Chawla,Not out,-,-,1,1,0,0,100.00
+38,M,RR,1,Bumrah,Not out,-,-,2,1,0,0,200.00
+39,CSK,LSG,1,Ajinkya Rahane,Catch,Rahul,Matt Henry,1,3,0,0,33.33
+39,CSK,LSG,1,Ruturaj Gaikwad (c),Not out,-,-,108,60,12,3,180.00
+39,CSK,LSG,1,Daryl Mitchell,Catch,Deepak Hooda,Yash Thakur,11,10,1,0,110.00
+39,CSK,LSG,1,Ravindra Jadeja,Catch,Rahul,Mohsin Khan,16,19,2,0,84.21
+39,CSK,LSG,1,Shivam Dube,Run out,de Kock/Stoinis,-,66,27,3,7,244.44
+39,CSK,LSG,1,Dhoni (wk),Not out,-,-,4,1,1,0,400.00
+40,DC,GT,1,Prithvi Shaw,Catch,Noor Ahmad,Warrier,11,7,2,0,157.14
+40,DC,GT,1,Jake Fraser-McGurk,Catch,Noor Ahmad,Warrier,23,14,2,2,164.29
+40,DC,GT,1,Axar,Catch,Sai Kishore,Noor Ahmad,66,43,5,4,153.49
+40,DC,GT,1,Shai Hope,Catch,Rashid Khan,Warrier,5,6,1,0,83.33
+40,DC,GT,1,Pant (c & wk),Not out,-,-,88,43,5,8,204.65
+40,DC,GT,1,Tristan Stubbs,Not out,-,-,26,7,3,2,371.43
+41,RCB,SH,1,Kohli,Catch,Abdul Samad,Jaydev Unadkat,51,43,4,1,118.60
+41,RCB,SH,1,du Plessis (c),Catch,Markram,T Natarajan,25,12,3,1,208.33
+41,RCB,SH,1,Will Jacks,Bowled,-,Markande,6,9,0,0,66.67
+41,RCB,SH,1,Rajat Patidar,Catch,Abdul Samad,Jaydev Unadkat,50,20,2,5,250.00
+41,RCB,SH,1,Green,Not out,-,-,37,20,5,0,185.00
+41,RCB,SH,1,Lomror,Catch,Cummins,Jaydev Unadkat,7,4,1,0,175.00
+41,RCB,SH,1,Karthik (wk),Catch,Abdul Samad,Cummins,11,6,2,0,183.33
+41,RCB,SH,1,Swapnil Singh,Catch,Abhishek Sharma,T Natarajan,12,6,1,1,200.00
+42,KKR,PK,1,Salt (wk),Bowled,-,Sam Curran,75,37,6,6,202.70
+42,KKR,PK,1,Narine,Catch,Bairstow,Rahul Chahar,71,32,9,4,221.88
+42,KKR,PK,1,Venkatesh Iyer,Run out,Jitesh Sharma,-,39,23,3,2,169.57
+42,KKR,PK,1,Russell,Catch,Harshal Patel,Arshdeep Singh,24,12,2,2,200.00
+42,KKR,PK,1,Shreyas Iyer (c),Catch,Rabada,Arshdeep Singh,28,10,1,3,280.00
+42,KKR,PK,1,Rinku Singh,Catch,Ashutosh Sharma,Harshal Patel,5,4,1,0,125.00
+42,KKR,PK,1,Ramandeep Singh,Not out,-,-,6,3,0,1,200.00
+43,DC,M,1,Jake Fraser-McGurk,Catch,Nabi,Chawla,84,27,11,6,311.11
+43,DC,M,1,Abishek Porel,Catch,Ishan Kishan,Nabi,36,27,3,1,133.33
+43,DC,M,1,Shai Hope,Catch,Tilak Varma,Luke Wood,41,17,0,5,241.18
+43,DC,M,1,Pant (c & wk),Catch,Rohit,Bumrah,29,19,2,2,152.63
+43,DC,M,1,Tristan Stubbs,Not out,-,-,48,25,6,2,192.00
+43,DC,M,1,Axar,Not out,-,-,11,6,0,1,183.33
+44,LSG,RR,1,de Kock,Bowled,-,Boult,8,3,2,0,266.67
+44,LSG,RR,1,Rahul (c & wk),Catch,Boult,Avesh Khan,76,48,8,2,158.33
+44,LSG,RR,1,Stoinis,Bowled,-,Sandeep Sharma,0,4,0,0,0.00
+44,LSG,RR,1,Deepak Hooda,Catch,Rovman Powell,Ashwin,50,31,7,0,161.29
+44,LSG,RR,1,Pooran,Catch,Boult,Sandeep Sharma,11,11,1,0,100.00
+44,LSG,RR,1,Ayush Badoni,Not out,-,-,18,13,1,0,138.46
+44,LSG,RR,1,Krunal Pandya,Not out,-,-,15,11,1,0,136.36
+45,GT,RCB,1,W Saha (wk),Catch,Karn Sharma,Swapnil Singh,5,4,1,0,125.00
+45,GT,RCB,1,Shubman Gill (c),Catch,Green,Maxwell,16,19,1,0,84.21
+45,GT,RCB,1,Sai Sudharsan,Not out,-,-,84,49,8,4,171.43
+45,GT,RCB,1,Shahrukh Khan,Bowled,-,Siraj,58,30,3,5,193.33
+45,GT,RCB,1,David Miller,Not out,-,-,26,19,2,1,136.84
+46,CSK,SH,1,Ajinkya Rahane,Catch,Shahbaz Ahmed,Bhuvneshwar,9,12,1,0,75.00
+46,CSK,SH,1,Ruturaj Gaikwad (c),Catch,Nitish Reddy,T Natarajan,98,54,10,3,181.48
+46,CSK,SH,1,Daryl Mitchell,Catch,Nitish Reddy,Jaydev Unadkat,52,32,7,1,162.50
+46,CSK,SH,1,Shivam Dube,Not out,-,-,39,20,1,4,195.00
+46,CSK,SH,1,Dhoni (wk),Not out,-,-,5,2,1,0,250.00
+47,DC,KKR,1,Prithvi Shaw,Catch,Salt,Vaibhav Arora,13,7,3,0,185.71
+47,DC,KKR,1,Jake Fraser-McGurk,Catch,Venkatesh Iyer,Starc,12,7,1,1,171.43
+47,DC,KKR,1,Abishek Porel,Bowled,-,Harshit Rana,18,15,2,1,120.00
+47,DC,KKR,1,Shai Hope,Bowled,-,Vaibhav Arora,6,3,0,1,200.00
+47,DC,KKR,1,Pant (c & wk),Catch,Shreyas Iyer,Chakaravarthy,27,20,2,1,135.00
+47,DC,KKR,1,Axar,Bowled,-,Narine,15,21,2,0,71.43
+47,DC,KKR,1,Tristan Stubbs,Catch,Salt,Chakaravarthy,4,7,0,0,57.14
+47,DC,KKR,1,Kushagra,Catch,Salt,Chakaravarthy,1,3,0,0,33.33
+47,DC,KKR,1,Kuldeep Yadav,Not out,-,-,35,26,5,1,134.62
+47,DC,KKR,1,Rasikh Salam,Catch,Shreyas Iyer,Harshit Rana,8,10,1,0,80.00
+47,DC,KKR,1,Williams,Not out,-,-,1,2,0,0,50.00
+48,M,LSG,1,Ishan Kishan (wk),Catch,Mayank Yadav,Ravi Bishnoi,32,36,3,0,88.89
+48,M,LSG,1,Rohit,Catch,Stoinis,Mohsin Khan,4,5,1,0,80.00
+48,M,LSG,1,Suryakumar Yadav,Catch,Rahul,Stoinis,10,6,0,1,166.67
+48,M,LSG,1,Tilak Varma,Run out,Ravi Bishnoi,-,7,11,1,0,63.64
+48,M,LSG,1,Hardik Pandya (c),Catch,Rahul,Naveen-ul-Haq,0,1,0,0,0.00
+48,M,LSG,1,Nehal Wadhera,Bowled,-,Mohsin Khan,46,41,4,2,112.20
+48,M,LSG,1,Tim David,Not out,-,-,35,18,3,1,194.44
+48,M,LSG,1,Nabi,Bowled,-,Mayank Yadav,1,2,0,0,50.00
+48,M,LSG,1,Gerald Coetzee,Not out,-,-,1,2,0,0,50.00
+49,CSK,PK,1,Ajinkya Rahane,Catch,Rossouw,Harpreet Brar,29,24,5,0,120.83
+49,CSK,PK,1,Ruturaj Gaikwad (c),Bowled,-,Arshdeep Singh,62,48,5,2,129.17
+49,CSK,PK,1,Shivam Dube,lbw,-,Harpreet Brar,0,1,0,0,0.00
+49,CSK,PK,1,Ravindra Jadeja,lbw,-,Rahul Chahar,2,4,0,0,50.00
+49,CSK,PK,1,Sameer Rizvi,Catch,Harshal Patel,Rabada,21,23,1,0,91.30
+49,CSK,PK,1,Moeen,Bowled,-,Rahul Chahar,15,9,1,1,166.67
+49,CSK,PK,1,Dhoni (wk),Run out,Harshal Patel/Jitesh Sharma,-,14,11,1,1,127.27
+49,CSK,PK,1,Daryl Mitchell,Not out,-,-,1,1,0,0,100.00
+50,SH,RR,1,Head,Bowled,-,Avesh Khan,58,44,6,3,131.82
+50,SH,RR,1,Abhishek Sharma,Catch,Dhruv Jurel,Avesh Khan,12,10,0,1,120.00
+50,SH,RR,1,Anmolpreet Singh,Catch,Yashasvi Jaiswal,Sandeep Sharma,5,5,1,0,100.00
+50,SH,RR,1,Nitish Reddy,Not out,-,-,76,42,3,8,180.95
+50,SH,RR,1,Klaasen (wk),Not out,-,-,42,19,3,3,221.05
+51,KKR,M,1,Salt (wk),Catch,Tilak Varma,N Thushara,5,3,1,0,166.67
+51,KKR,M,1,Narine,Bowled,-,Hardik Pandya,8,8,0,1,100.00
+51,KKR,M,1,Angkrish Raghuvanshi,Catch,Suryakumar Yadav,N Thushara,13,6,0,2,216.67
+51,KKR,M,1,Shreyas Iyer (c),Catch,Tim David,N Thushara,6,4,1,0,150.00
+51,KKR,M,1,Venkatesh Iyer,Bowled,-,Bumrah,70,52,6,3,134.62
+51,KKR,M,1,Rinku Singh,Caught and Bowled,-,Chawla,9,8,2,0,112.50
+51,KKR,M,1,Manish Pandey,Catch,(sub)Dewald Brevis,Hardik Pandya,42,31,2,2,135.48
+51,KKR,M,1,Russell,Run out,N Thushara/Hardik Pandya,-,7,2,0,1,350.00
+51,KKR,M,1,Ramandeep Singh,Catch,Gerald Coetzee,Bumrah,2,4,0,0,50.00
+51,KKR,M,1,Starc,Bowled,-,Bumrah,0,2,0,0,0.00
+51,KKR,M,1,Vaibhav Arora,Not out,-,-,0,0,0,0,0.00
+52,GT,RCB,1,W Saha (wk),Catch,Karthik,Siraj,1,7,0,0,14.29
+52,GT,RCB,1,Shubman Gill (c),Catch,Vijaykumar Vyshak,Siraj,2,7,0,0,28.57
+52,GT,RCB,1,Sai Sudharsan,Catch,Kohli,Green,6,14,0,0,42.86
+52,GT,RCB,1,Shahrukh Khan,Run out,Kohli,-,37,24,5,1,154.17
+52,GT,RCB,1,David Miller,Catch,Maxwell,Karn Sharma,30,20,3,2,150.00
+52,GT,RCB,1,Rahul Tewatia,Catch,Vijaykumar Vyshak,Yash Dayal,35,21,5,1,166.67
+52,GT,RCB,1,Rashid Khan,Bowled,-,Yash Dayal,18,14,2,1,128.57
+52,GT,RCB,1,Vijay Shankar,Catch,Siraj,Vijaykumar Vyshak,10,7,2,0,142.86
+52,GT,RCB,1,Manav Suthar,Catch,Swapnil Singh,Vijaykumar Vyshak,1,2,0,0,50.00
+52,GT,RCB,1,Mohit Sharma,Run out,Karthik/Vijaykumar Vyshak,-,0,1,0,0,0.00
+52,GT,RCB,1,Noor Ahmad,Not out,-,-,0,0,0,0,0.00
+53,CSK,PK,1,Ajinkya Rahane,Catch,Rabada,Arshdeep Singh,9,7,1,0,128.57
+53,CSK,PK,1,Ruturaj Gaikwad (c),Catch,Jitesh Sharma,Rahul Chahar,32,21,4,1,152.38
+53,CSK,PK,1,Daryl Mitchell,lbw,-,Harshal Patel,30,19,2,1,157.89
+53,CSK,PK,1,Shivam Dube,Catch,Jitesh Sharma,Rahul Chahar,0,1,0,0,0.00
+53,CSK,PK,1,Moeen,Catch,Bairstow,Sam Curran,17,20,2,0,85.00
+53,CSK,PK,1,Ravindra Jadeja,Catch,Sam Curran,Arshdeep Singh,43,26,3,2,165.38
+53,CSK,PK,1,Santner,Catch,Sam Curran,Rahul Chahar,11,11,1,0,100.00
+53,CSK,PK,1,Thakur,Bowled,-,Harshal Patel,17,11,2,1,154.55
+53,CSK,PK,1,Dhoni (wk),Bowled,-,Harshal Patel,0,1,0,0,0.00
+53,CSK,PK,1,Tushar Deshpande,Not out,-,-,0,1,0,0,0.00
+53,CSK,PK,1,Richard Gleeson,Not out,-,-,2,2,0,0,100.00
+54,KKR,LSG,1,Salt (wk),Catch,Rahul,Naveen-ul-Haq,32,14,5,1,228.57
+54,KKR,LSG,1,Narine,Catch,(sub)Padikkal,Ravi Bishnoi,81,39,6,7,207.69
+54,KKR,LSG,1,Angkrish Raghuvanshi,Catch,Rahul,Yudhvir Singh,32,26,3,1,123.08
+54,KKR,LSG,1,Russell,Catch,(sub)K Gowtham,Naveen-ul-Haq,12,8,1,1,150.00
+54,KKR,LSG,1,Rinku Singh,Catch,Stoinis,Naveen-ul-Haq,16,11,2,0,145.45
+54,KKR,LSG,1,Shreyas Iyer (c),Catch,Rahul,Yash Thakur,23,15,3,0,153.33
+54,KKR,LSG,1,Ramandeep Singh,Not out,-,-,25,6,1,3,416.67
+54,KKR,LSG,1,Venkatesh Iyer,Not out,-,-,1,1,0,0,100.00
+55,SH,M,1,Head,Catch,Tilak Varma,Chawla,48,30,7,1,160.00
+55,SH,M,1,Abhishek Sharma,Catch,Ishan Kishan,Bumrah,11,16,0,1,68.75
+55,SH,M,1,Mayank Agarwal,Bowled,-,Anshul Kamboj,5,6,1,0,83.33
+55,SH,M,1,Nitish Reddy,Catch,Anshul Kamboj,Hardik Pandya,20,15,2,0,133.33
+55,SH,M,1,Klaasen (wk),Bowled,-,Chawla,2,4,0,0,50.00
+55,SH,M,1,Marco Jansen,Bowled,-,Hardik Pandya,17,12,1,1,141.67
+55,SH,M,1,Shahbaz Ahmed,Catch,Suryakumar Yadav,Hardik Pandya,10,12,0,0,83.33
+55,SH,M,1,Abdul Samad,lbw,-,Chawla,3,4,0,0,75.00
+55,SH,M,1,Cummins (c),Not out,-,-,35,17,2,2,205.88
+55,SH,M,1,Sanvir Singh,Not out,-,-,8,7,0,0,114.29
+56,DC,RR,1,Jake Fraser-McGurk,Catch,Donovan Ferreira,Ashwin,50,20,7,3,250.00
+56,DC,RR,1,Abishek Porel,Catch,Sandeep Sharma,Ashwin,65,36,7,3,180.56
+56,DC,RR,1,Shai Hope,Run out,Sandeep Sharma,-,1,1,0,0,100.00
+56,DC,RR,1,Axar,Catch,Riyan Parag,Ashwin,15,10,1,1,150.00
+56,DC,RR,1,Pant (c & wk),Catch,Boult,Chahal,15,13,0,1,115.38
+56,DC,RR,1,Tristan Stubbs,lbw,-,Sandeep Sharma,41,20,3,3,205.00
+56,DC,RR,1,Gulbadin,Catch,Ashwin,Boult,19,15,1,1,126.67
+56,DC,RR,1,Rasikh Salam,Run out,Shubham Dubey/Samson,-,9,3,2,0,300.00
+56,DC,RR,1,Kuldeep Yadav,Not out,-,-,5,2,1,0,250.00
+57,LSG,SH,1,Rahul (c & wk),Catch,T Natarajan,Cummins,29,33,1,1,87.88
+57,LSG,SH,1,de Kock,Catch,Nitish Reddy,Bhuvneshwar,2,5,0,0,40.00
+57,LSG,SH,1,Stoinis,Catch,Sanvir Singh,Bhuvneshwar,3,5,0,0,60.00
+57,LSG,SH,1,Krunal Pandya,Run out,Cummins,-,24,21,0,2,114.29
+57,LSG,SH,1,Pooran,Not out,-,-,48,26,6,1,184.62
+57,LSG,SH,1,Ayush Badoni,Not out,-,-,55,30,9,0,183.33
+58,RCB,PK,1,Kohli,Catch,Rossouw,Arshdeep Singh,92,47,7,6,195.74
+58,RCB,PK,1,du Plessis (c),Catch,Shashank Singh,Vidhwath Kaverappa,9,7,2,0,128.57
+58,RCB,PK,1,Will Jacks,Catch,Harshal Patel,Vidhwath Kaverappa,12,7,1,1,171.43
+58,RCB,PK,1,Rajat Patidar,Catch,Bairstow,Sam Curran,55,23,3,6,239.13
+58,RCB,PK,1,Green,Catch,Sam Curran,Harshal Patel,46,27,5,1,170.37
+58,RCB,PK,1,Karthik (wk),Catch,Sam Curran,Harshal Patel,18,7,1,2,257.14
+58,RCB,PK,1,Lomror,Bowled,-,Harshal Patel,0,2,0,0,0.00
+58,RCB,PK,1,Swapnil Singh,Not out,-,-,1,1,0,0,100.00
+59,GT,CSK,1,Sai Sudharsan,Catch,Shivam Dube,Tushar Deshpande,103,51,5,7,201.96
+59,GT,CSK,1,Shubman Gill (c),Catch,Ravindra Jadeja,Tushar Deshpande,104,55,9,6,189.09
+59,GT,CSK,1,David Miller,Not out,-,-,16,11,1,0,145.45
+59,GT,CSK,1,Shahrukh Khan,Run out,Rachin Ravindra/Simarjeet Singh,-,2,3,0,0,66.67
+60,KKR,M,1,Salt (wk),Catch,Anshul Kamboj,N Thushara,6,5,0,1,120.00
+60,KKR,M,1,Narine,Bowled,-,Bumrah,0,1,0,0,0.00
+60,KKR,M,1,Venkatesh Iyer,Catch,Suryakumar Yadav,Chawla,42,21,6,2,200.00
+60,KKR,M,1,Shreyas Iyer (c),Bowled,-,Anshul Kamboj,7,10,1,0,70.00
+60,KKR,M,1,Nitish Rana,Run out,Tilak Varma,-,33,23,4,1,143.48
+60,KKR,M,1,Russell,Catch,Anshul Kamboj,Chawla,24,14,2,2,171.43
+60,KKR,M,1,Rinku Singh,Catch,Ishan Kishan,Bumrah,20,12,0,2,166.67
+60,KKR,M,1,Ramandeep Singh,Not out,-,-,17,8,1,1,212.50
+60,KKR,M,1,Starc,Not out,-,-,2,2,0,0,100.00
+61,RR,CSK,1,Yashasvi Jaiswal,Catch,Ruturaj Gaikwad,Simarjeet Singh,24,21,3,1,114.29
+61,RR,CSK,1,Jos Buttler,Catch,Tushar Deshpande,Simarjeet Singh,21,25,2,0,84.00
+61,RR,CSK,1,Samson (c & wk),Catch,Ruturaj Gaikwad,Simarjeet Singh,15,19,0,0,78.95
+61,RR,CSK,1,Riyan Parag,Not out,-,-,47,35,1,3,134.29
+61,RR,CSK,1,Dhruv Jurel,Catch,Thakur,Tushar Deshpande,28,18,1,2,155.56
+61,RR,CSK,1,Shubham Dubey,Catch,Shivam Dube,Tushar Deshpande,0,1,0,0,0.00
+61,RR,CSK,1,Ashwin,Not out,-,-,1,1,0,0,100.00
+62,RCB,DC,1,Kohli,Catch,Abishek Porel,Ishant,27,13,1,3,207.69
+62,RCB,DC,1,du Plessis (c),Catch,Jake Fraser-McGurk,Mukesh Kumar,6,7,1,0,85.71
+62,RCB,DC,1,Will Jacks,Catch,Axar,Kuldeep Yadav,41,29,3,2,141.38
+62,RCB,DC,1,Rajat Patidar,Catch,Axar,Rasikh Salam,52,32,3,3,162.50
+62,RCB,DC,1,Green,Not out,-,-,32,24,1,2,133.33
+62,RCB,DC,1,Lomror,Catch,Abishek Porel,Khaleel Ahmed,13,8,0,1,162.50
+62,RCB,DC,1,Karthik (wk),Catch,Kuldeep Yadav,Khaleel Ahmed,0,2,0,0,0.00
+62,RCB,DC,1,Swapnil Singh,Catch,Kushagra,Rasikh Salam,0,1,0,0,0.00
+62,RCB,DC,1,Karn Sharma,Run out,Shai Hope/Mukesh Kumar,-,6,4,1,0,150.00
+62,RCB,DC,1,Siraj,Run out,Abishek Porel/Mukesh Kumar,-,0,0,0,0,0.00
+64,DC,LSG,1,Jake Fraser-McGurk,Catch,Naveen-ul-Haq,Arshad Khan,0,2,0,0,0.00
+64,DC,LSG,1,Abishek Porel,Catch,Pooran,Naveen-ul-Haq,58,33,5,4,175.76
+64,DC,LSG,1,Shai Hope,Catch,Rahul,Ravi Bishnoi,38,27,3,2,140.74
+64,DC,LSG,1,Pant (c & wk),Catch,Deepak Hooda,Naveen-ul-Haq,33,23,5,0,143.48
+64,DC,LSG,1,Tristan Stubbs,Not out,-,-,57,25,3,4,228.00
+64,DC,LSG,1,Axar,Not out,-,-,14,10,2,0,140.00
+65,RR,PK,1,Yashasvi Jaiswal,Bowled,-,Sam Curran,4,4,1,0,100.00
+65,RR,PK,1,Kohler-Cadmore,Catch,Jitesh Sharma,Rahul Chahar,18,23,2,1,78.26
+65,RR,PK,1,Samson (c & wk),Catch,Rahul Chahar,Nathan Ellis,18,15,3,0,120.00
+65,RR,PK,1,Riyan Parag,lbw,-,Harshal Patel,48,34,6,0,141.18
+65,RR,PK,1,Ashwin,Catch,Shashank Singh,Arshdeep Singh,28,19,3,1,147.37
+65,RR,PK,1,Dhruv Jurel,Catch,Harpreet Brar,Sam Curran,0,1,0,0,0.00
+65,RR,PK,1,Rovman Powell,Caught and Bowled,-,Rahul Chahar,4,5,1,0,80.00
+65,RR,PK,1,Donovan Ferreira,Catch,Rossouw,Harshal Patel,7,8,0,0,87.50
+65,RR,PK,1,Boult,Run out,Shashank Singh/Bairstow,-,12,9,2,0,133.33
+65,RR,PK,1,Avesh Khan,Not out,-,-,3,2,0,0,150.00
+67,LSG,M,1,Rahul (c & wk),Catch,N Thushara,Chawla,55,41,3,3,134.15
+67,LSG,M,1,Padikkal,lbw,-,N Thushara,0,1,0,0,0.00
+67,LSG,M,1,Stoinis,lbw,-,Chawla,28,22,5,0,127.27
+67,LSG,M,1,Deepak Hooda,Catch,Nehal Wadhera,Chawla,11,9,1,0,122.22
+67,LSG,M,1,Pooran,Catch,Suryakumar Yadav,N Thushara,75,29,5,8,258.62
+67,LSG,M,1,Arshad Khan,Catch,Nehal Wadhera,N Thushara,0,1,0,0,0.00
+67,LSG,M,1,Ayush Badoni,Not out,-,-,22,10,1,2,220.00
+67,LSG,M,1,Krunal Pandya,Not out,-,-,12,7,1,1,171.43
+68,RCB,CSK,1,Kohli,Catch,Daryl Mitchell,Santner,47,29,3,4,162.07
+68,RCB,CSK,1,du Plessis (c),Run out,Santner,-,54,39,3,3,138.46
+68,RCB,CSK,1,Rajat Patidar,Catch,Daryl Mitchell,Thakur,41,23,2,4,178.26
+68,RCB,CSK,1,Green,Not out,-,-,38,17,3,3,223.53
+68,RCB,CSK,1,Karthik (wk),Catch,Dhoni,Tushar Deshpande,14,6,1,1,233.33
+68,RCB,CSK,1,Maxwell,Catch,Dhoni,Thakur,16,5,2,1,320.00
+68,RCB,CSK,1,Lomror,Not out,-,-,0,1,0,0,0.00
+69,PK,SH,1,Atharva Taide,Catch,Sanvir Singh,T Natarajan,46,27,5,2,170.37
+69,PK,SH,1,Prabhsimran,Catch,Klaasen,V Viyaskanth,71,45,7,4,157.78
+69,PK,SH,1,Rossouw,Catch,Abdul Samad,Cummins,49,24,3,4,204.17
+69,PK,SH,1,Shashank Singh,Run out,Nitish Reddy/Klaasen,-,2,4,0,0,50.00
+69,PK,SH,1,Jitesh Sharma (c & wk),Not out,-,-,32,15,2,2,213.33
+69,PK,SH,1,Ashutosh Sharma,Catch,Sanvir Singh,T Natarajan,2,3,0,0,66.67
+69,PK,SH,1,Shivam Singh,Not out,-,-,2,3,0,0,66.67
+71,SH,KKR,1,Head,Bowled,-,Starc,0,2,0,0,0.00
+71,SH,KKR,1,Abhishek Sharma,Catch,Russell,Vaibhav Arora,3,4,0,0,75.00
+71,SH,KKR,1,Tripathi,Run out,Russell/Gurbaz,-,55,35,7,1,157.14
+71,SH,KKR,1,Nitish Reddy,Catch,Gurbaz,Starc,9,10,1,0,90.00
+71,SH,KKR,1,Shahbaz Ahmed,Bowled,-,Starc,0,1,0,0,0.00
+71,SH,KKR,1,Klaasen (wk),Catch,Rinku Singh,Chakaravarthy,32,21,3,1,152.38
+71,SH,KKR,1,Abdul Samad,Catch,Shreyas Iyer,Harshit Rana,16,12,0,2,133.33
+71,SH,KKR,1,Sanvir Singh,Bowled,-,Narine,0,1,0,0,0.00
+71,SH,KKR,1,Cummins (c),Catch,Gurbaz,Russell,30,24,2,2,125.00
+71,SH,KKR,1,Bhuvneshwar,lbw,-,Chakaravarthy,0,4,0,0,0.00
+71,SH,KKR,1,V Viyaskanth,Not out,-,-,7,5,0,0,140.00
+72,RCB,RR,1,Kohli,Catch,(sub)Donovan Ferreira,Chahal,33,24,3,1,137.50
+72,RCB,RR,1,du Plessis (c),Catch,Rovman Powell,Boult,17,14,2,1,121.43
+72,RCB,RR,1,Green,Catch,Rovman Powell,Ashwin,27,21,2,1,128.57
+72,RCB,RR,1,Rajat Patidar,Catch,Riyan Parag,Avesh Khan,34,22,2,2,154.55
+72,RCB,RR,1,Maxwell,Catch,Dhruv Jurel,Ashwin,0,1,0,0,0.00
+72,RCB,RR,1,Lomror,Catch,Rovman Powell,Avesh Khan,32,17,2,2,188.24
+72,RCB,RR,1,Karthik (wk),Catch,Yashasvi Jaiswal,Avesh Khan,11,13,1,0,84.62
+72,RCB,RR,1,Swapnil Singh,Not out,-,-,9,4,0,1,225.00
+72,RCB,RR,1,Karn Sharma,Catch,Rovman Powell,Sandeep Sharma,5,4,1,0,125.00
+73,SH,RR,1,Head,Catch,Ashwin,Sandeep Sharma,34,28,3,1,121.43
+73,SH,RR,1,Abhishek Sharma,Catch,Kohler-Cadmore,Boult,12,5,1,1,240.00
+73,SH,RR,1,Tripathi,Catch,Chahal,Boult,37,15,5,2,246.67
+73,SH,RR,1,Markram,Catch,Chahal,Boult,1,2,0,0,50.00
+73,SH,RR,1,Klaasen (wk),Bowled,-,Sandeep Sharma,50,34,0,4,147.06
+73,SH,RR,1,Nitish Reddy,Catch,Chahal,Avesh Khan,5,10,0,0,50.00
+73,SH,RR,1,Abdul Samad,Bowled,-,Avesh Khan,0,1,0,0,0.00
+73,SH,RR,1,Shahbaz Ahmed,Catch,Dhruv Jurel,Avesh Khan,18,18,0,1,100.00
+73,SH,RR,1,Cummins (c),Not out,-,-,5,5,1,0,100.00
+73,SH,RR,1,Jaydev Unadkat,Run out,Avesh Khan,-,5,2,1,0,250.00
+74,SH,KKR,1,Abhishek Sharma,Bowled,-,Starc,2,5,0,0,40.00
+74,SH,KKR,1,Head,Catch,Gurbaz,Vaibhav Arora,0,1,0,0,0.00
+74,SH,KKR,1,Tripathi,Catch,Ramandeep Singh,Starc,9,13,1,0,69.23
+74,SH,KKR,1,Markram,Catch,Starc,Russell,20,23,3,0,86.96
+74,SH,KKR,1,Nitish Reddy,Catch,Gurbaz,Harshit Rana,13,10,1,1,130.00
+74,SH,KKR,1,Klaasen (wk),Bowled,-,Harshit Rana,16,17,1,0,94.12
+74,SH,KKR,1,Shahbaz Ahmed,Catch,Narine,Chakaravarthy,8,7,0,1,114.29
+74,SH,KKR,1,Abdul Samad,Catch,Gurbaz,Russell,4,4,0,0,100.00
+74,SH,KKR,1,Cummins (c),Catch,Starc,Russell,24,19,2,1,126.32
+74,SH,KKR,1,Jaydev Unadkat,lbw,-,Narine,4,11,0,0,36.36
+74,SH,KKR,1,Bhuvneshwar,Not out,-,-,0,1,0,0,0.00
+1,CSK,RCB,2,Ruturaj Gaikwad (c),Catch,Green,Yash Dayal,15,15,3,0,100.00
+1,CSK,RCB,2,Rachin Ravindra,Catch,Rajat Patidar,Karn Sharma,37,15,3,3,246.67
+1,CSK,RCB,2,Ajinkya Rahane,Catch,Maxwell,Green,27,19,0,2,142.11
+1,CSK,RCB,2,Daryl Mitchell,Catch,Rajat Patidar,Green,22,18,0,2,122.22
+1,CSK,RCB,2,Shivam Dube,Not out,-,-,34,28,4,1,121.43
+1,CSK,RCB,2,Ravindra Jadeja,Not out,-,-,25,17,0,1,147.06
+2,PK,DC,2,Shikhar Dhawan (c),Bowled,-,Ishant,22,16,4,0,137.50
+2,PK,DC,2,Jonny Bairstow,Run out,Ishant,-,9,3,2,0,300.00
+2,PK,DC,2,Prabhsimran Singh,Catch,Warner,Kuldeep Yadav,26,17,5,0,152.94
+2,PK,DC,2,Sam Curran,Bowled,-,Khaleel Ahmed,63,47,6,1,134.04
+2,PK,DC,2,Jitesh Sharma (wk),Stump,Pant,Kuldeep Yadav,9,9,1,0,100.00
+2,PK,DC,2,Liam Livingstone,Not out,-,-,38,21,2,3,180.95
+2,PK,DC,2,Shashank Singh,Catch,Pant,Khaleel Ahmed,0,1,0,0,0.00
+2,PK,DC,2,Harpreet Brar,Not out,-,-,2,2,0,0,100.00
+3,SH,KKR,2,Mayank Agarwal,Catch,Rinku Singh,Harshit Rana,32,21,4,1,152.38
+3,SH,KKR,2,Abhishek Sharma,Catch,Chakaravarthy,Russell,32,19,4,2,168.42
+3,SH,KKR,2,Rahul Tripathi,Catch,Harshit Rana,Narine,20,20,0,1,100.00
+3,SH,KKR,2,Aiden Markram,Catch,Rinku Singh,Chakaravarthy,18,13,2,0,138.46
+3,SH,KKR,2,Heinrich Klaasen (wk),Catch,Suyash Sharma,Harshit Rana,63,29,0,8,217.24
+3,SH,KKR,2,Abdul Samad,Catch,Venkatesh Iyer,Russell,15,11,1,1,136.36
+3,SH,KKR,2,Shahbaz Ahmed,Catch,Shreyas Iyer,Harshit Rana,16,5,1,2,320.00
+3,SH,KKR,2,Marco Jansen,Not out,-,-,1,1,0,0,100.00
+3,SH,KKR,2,Pat Cummins (c),Not out,-,-,0,1,0,0,0.00
+4,LSG,RR,2,Quinton de Kock,Catch,Nandre Burger,Boult,4,5,1,0,80.00
+4,LSG,RR,2,KL Rahul (c & wk),Catch,Dhruv Jurel,Sandeep Sharma,58,44,4,2,131.82
+4,LSG,RR,2,Devdutt Padikkal,Bowled,-,Boult,0,3,0,0,0.00
+4,LSG,RR,2,Ayush Badoni,Catch,Jos Buttler,Nandre Burger,1,5,0,0,20.00
+4,LSG,RR,2,Deepak Hooda,Catch,Dhruv Jurel,Chahal,26,13,2,2,200.00
+4,LSG,RR,2,Nicholas Pooran,Not out,-,-,64,41,4,4,156.10
+4,LSG,RR,2,Marcus Stoinis,Catch,Dhruv Jurel,Ashwin,3,4,0,0,75.00
+4,LSG,RR,2,Krunal Pandya,Not out,-,-,3,5,0,0,60.00
+5,M,GT,2,Ishan Kishan (wk),Catch,W Saha,Azmatullah,0,4,0,0,0.00
+5,M,GT,2,Rohit Sharma,lbw,-,Sai Kishore,43,29,7,1,148.28
+5,M,GT,2,Naman Dhir,lbw,-,Azmatullah,20,10,3,1,200.00
+5,M,GT,2,Dewald Brevis,Caught and Bowled,-,Mohit Sharma,46,38,2,3,121.05
+5,M,GT,2,Tilak Varma,Catch,(sub)Abhinav Manohar,Spencer Johnson,25,19,1,1,131.58
+5,M,GT,2,Tim David,Catch,David Miller,Mohit Sharma,11,10,1,0,110.00
+5,M,GT,2,Hardik Pandya (c),Catch,Rahul Tewatia,Umesh,11,4,1,1,275.00
+5,M,GT,2,Gerald Coetzee,Caught and Bowled,-,Spencer Johnson,1,3,0,0,33.33
+5,M,GT,2,Shams Mulani,Not out,-,-,1,1,0,0,100.00
+5,M,GT,2,Piyush Chawla,Catch,Rashid Khan,Umesh,0,1,0,0,0.00
+5,M,GT,2,Jasprit Bumrah,Not out,-,-,1,1,0,0,100.00
+6,RCB,PK,2,Virat Kohli,Catch,Harpreet Brar,Harshal Patel,77,49,11,2,157.14
+6,RCB,PK,2,Faf du Plessis (c),Catch,Sam Curran,Rabada,3,7,0,0,42.86
+6,RCB,PK,2,Cameron Green,Catch,Jitesh Sharma,Rabada,3,5,0,0,60.00
+6,RCB,PK,2,Rajat Patidar,Bowled,-,Harpreet Brar,18,18,1,1,100.00
+6,RCB,PK,2,Glenn Maxwell,Bowled,-,Harpreet Brar,3,5,0,0,60.00
+6,RCB,PK,2,Anuj Rawat (wk),lbw,-,Sam Curran,11,14,1,0,78.57
+6,RCB,PK,2,Dinesh Karthik,Not out,-,-,28,10,3,2,280.00
+6,RCB,PK,2,Mahipal Lomror,Not out,-,-,17,8,2,1,212.50
+7,GT,CSK,2,Wriddhiman Saha (wk),Catch,Tushar Deshpande,D Chahar,21,17,4,0,123.53
+7,GT,CSK,2,Shubman Gill (c),lbw,-,D Chahar,8,5,0,1,160.00
+7,GT,CSK,2,Sai Sudharsan,Catch,Sameer Rizvi,Matheesha Pathirana,37,31,3,0,119.35
+7,GT,CSK,2,Vijay Shankar,Catch,Dhoni,Daryl Mitchell,12,12,0,1,100.00
+7,GT,CSK,2,David Miller,Catch,Ajinkya Rahane,Tushar Deshpande,21,16,3,0,131.25
+7,GT,CSK,2,Azmatullah Omarzai,Catch,Rachin Ravindra,Tushar Deshpande,11,10,1,0,110.00
+7,GT,CSK,2,Rahul Tewatia,Catch,Rachin Ravindra,Mustafizur,6,11,1,0,54.55
+7,GT,CSK,2,Rashid Khan,Catch,Rachin Ravindra,Mustafizur,1,2,0,0,50.00
+7,GT,CSK,2,Umesh Yadav,Not out,-,-,10,11,0,1,90.91
+7,GT,CSK,2,Spencer Johnson,Not out,-,-,5,5,1,0,100.00
+8,M,SH,2,Rohit Sharma,Catch,Abhishek Sharma,Cummins,26,12,1,3,216.67
+8,M,SH,2,Ishan Kishan (wk),Catch,Markram,Shahbaz Ahmed,34,13,2,4,261.54
+8,M,SH,2,Naman Dhir,Catch,Cummins,Jaydev Unadkat,30,14,2,2,214.29
+8,M,SH,2,Tilak Varma,Catch,Mayank Agarwal,Cummins,64,34,2,6,188.24
+8,M,SH,2,Hardik Pandya (c),Catch,Klaasen,Jaydev Unadkat,24,20,1,1,120.00
+8,M,SH,2,Tim David,Not out,-,-,42,22,2,3,190.91
+8,M,SH,2,Romario Shepherd,Not out,-,-,15,6,2,1,250.00
+9,DC,RR,2,David Warner,Catch,Sandeep Sharma,Avesh Khan,49,34,5,3,144.12
+9,DC,RR,2,Mitchell Marsh,Bowled,-,Nandre Burger,23,12,5,0,191.67
+9,DC,RR,2,Ricky Bhui,Catch,Samson,Nandre Burger,0,2,0,0,0.00
+9,DC,RR,2,Rishabh Pant (c & wk),Catch,Samson,Chahal,28,26,2,1,107.69
+9,DC,RR,2,Tristan Stubbs,Not out,-,-,44,23,2,3,191.30
+9,DC,RR,2,Abishek Porel,Catch,Jos Buttler,Chahal,9,10,0,0,90.00
+9,DC,RR,2,Axar Patel,Not out,-,-,15,13,1,0,115.38
+10,KKR,RCB,2,Philip Salt (wk),Catch,Green,Vijaykumar Vyshak,30,20,2,2,150.00
+10,KKR,RCB,2,Sunil Narine,Bowled,-,Mayank Dagar,47,22,2,5,213.64
+10,KKR,RCB,2,Venkatesh Iyer,Catch,Kohli,Yash Dayal,50,30,3,4,166.67
+10,KKR,RCB,2,Shreyas Iyer (c),Not out,-,-,39,24,2,2,162.50
+10,KKR,RCB,2,Rinku Singh,Not out,-,-,5,5,0,0,100.00
+11,PK,LSG,2,Shikhar Dhawan (c),Catch,de Kock,Mohsin Khan,70,50,7,3,140.00
+11,PK,LSG,2,Jonny Bairstow,Catch,Stoinis,Mayank Yadav,42,29,3,3,144.83
+11,PK,LSG,2,Prabhsimran Singh,Catch,Naveen-ul-Haq,Mayank Yadav,19,7,1,2,271.43
+11,PK,LSG,2,Jitesh Sharma (wk),Catch,Naveen-ul-Haq,Mayank Yadav,6,9,1,0,66.67
+11,PK,LSG,2,Liam Livingstone,Not out,-,-,28,17,2,2,164.71
+11,PK,LSG,2,Sam Curran,Catch,Pooran,Mohsin Khan,0,1,0,0,0.00
+11,PK,LSG,2,Shashank Singh,Not out,-,-,9,7,1,0,128.57
+12,GT,SH,2,Wriddhiman Saha (wk),Catch,Cummins,Shahbaz Ahmed,25,13,1,2,192.31
+12,GT,SH,2,Shubman Gill (c),Catch,Abdul Samad,Markande,36,28,2,1,128.57
+12,GT,SH,2,Sai Sudharsan,Catch,Abhishek Sharma,Cummins,45,36,4,1,125.00
+12,GT,SH,2,David Miller,Not out,-,-,44,27,4,2,162.96
+12,GT,SH,2,Vijay Shankar,Not out,-,-,14,11,2,0,127.27
+13,CSK,DC,2,Ruturaj Gaikwad (c),Catch,Pant,Khaleel Ahmed,1,2,0,0,50.00
+13,CSK,DC,2,Rachin Ravindra,Catch,Tristan Stubbs,Khaleel Ahmed,2,12,0,0,16.67
+13,CSK,DC,2,Ajinkya Rahane,Catch,Warner,Mukesh Kumar,45,30,5,2,150.00
+13,CSK,DC,2,Daryl Mitchell,Caught and Bowled,-,Axar,34,26,1,2,130.77
+13,CSK,DC,2,Shivam Dube,Catch,Tristan Stubbs,Mukesh Kumar,18,17,1,0,105.88
+13,CSK,DC,2,Sameer Rizvi,Catch,Khaleel Ahmed,Mukesh Kumar,0,1,0,0,0.00
+13,CSK,DC,2,Ravindra Jadeja,Not out,-,-,21,17,2,0,123.53
+13,CSK,DC,2,MS Dhoni (wk),Not out,-,-,37,16,4,3,231.25
+14,RR,M,2,Yashasvi Jaiswal,Catch,Tim David,Kwena Maphaka,10,6,2,0,166.67
+14,RR,M,2,Jos Buttler,Catch,Chawla,Akash Madhwal,13,16,2,0,81.25
+14,RR,M,2,Sanju Samson (c & wk),Bowled,-,Akash Madhwal,12,10,3,0,120.00
+14,RR,M,2,Riyan Parag,Not out,-,-,54,39,5,3,138.46
+14,RR,M,2,Ravichandran Ashwin,Catch,Tilak Varma,Akash Madhwal,16,16,1,0,100.00
+14,RR,M,2,Shubham Dubey,Not out,-,-,8,6,1,0,133.33
+15,RCB,LSG,2,Virat Kohli,Catch,Padikkal,M Siddharth,22,16,2,1,137.50
+15,RCB,LSG,2,Faf du Plessis (c),Run out,Padikkal,-,19,13,3,0,146.15
+15,RCB,LSG,2,Rajat Patidar,Catch,Padikkal,Mayank Yadav,29,21,2,2,138.10
+15,RCB,LSG,2,Glenn Maxwell,Catch,Pooran,Mayank Yadav,0,2,0,0,0.00
+15,RCB,LSG,2,Cameron Green,Bowled,-,Mayank Yadav,9,9,1,0,100.00
+15,RCB,LSG,2,Anuj Rawat (wk),Catch,Padikkal,Stoinis,11,21,0,0,52.38
+15,RCB,LSG,2,Mahipal Lomror,Catch,Pooran,Yash Thakur,33,13,3,3,253.85
+15,RCB,LSG,2,Dinesh Karthik,Catch,Rahul,Naveen-ul-Haq,4,8,0,0,50.00
+15,RCB,LSG,2,Mayank Dagar,Run out,Pooran,-,0,1,0,0,0.00
+15,RCB,LSG,2,Reece Topley,Not out,-,-,3,6,0,0,50.00
+15,RCB,LSG,2,Mohammed Siraj,Catch,Pooran,Naveen-ul-Haq,12,8,0,2,150.00
+16,DC,KKR,2,David Warner,Bowled,-,Starc,18,13,2,1,138.46
+16,DC,KKR,2,Prithvi Shaw,Catch,Chakaravarthy,Vaibhav Arora,10,7,2,0,142.86
+16,DC,KKR,2,Mitchell Marsh,Catch,Ramandeep Singh,Starc,0,2,0,0,0.00
+16,DC,KKR,2,Abishek Porel,Catch,Narine,Vaibhav Arora,0,5,0,0,0.00
+16,DC,KKR,2,Rishabh Pant (c & wk),Catch,Shreyas Iyer,Chakaravarthy,55,25,4,5,220.00
+16,DC,KKR,2,Tristan Stubbs,Catch,Starc,Chakaravarthy,54,32,4,4,168.75
+16,DC,KKR,2,Axar Patel,Catch,(sub)Manish Pandey,Chakaravarthy,0,1,0,0,0.00
+16,DC,KKR,2,Sumit Kumar,Catch,(sub)Manish Pandey,Narine,7,6,0,1,116.67
+16,DC,KKR,2,Rasikh Dar Salam,Catch,Salt,Vaibhav Arora,1,5,0,0,20.00
+16,DC,KKR,2,Anrich Nortje,Catch,Shreyas Iyer,Russell,4,6,0,0,66.67
+16,DC,KKR,2,Ishant Sharma,Not out,-,-,1,3,0,0,33.33
+17,PK,GT,2,Shikhar Dhawan (c),Bowled,-,Umesh,1,2,0,0,50.00
+17,PK,GT,2,Jonny Bairstow,Bowled,-,Noor Ahmad,22,13,4,0,169.23
+17,PK,GT,2,Prabhsimran Singh,Catch,Mohit Sharma,Noor Ahmad,35,24,5,1,145.83
+17,PK,GT,2,Sam Curran,Catch,Williamson,Azmatullah,5,8,0,0,62.50
+17,PK,GT,2,Sikandar Raza,Catch,W Saha,Mohit Sharma,15,16,0,0,93.75
+17,PK,GT,2,Shashank Singh,Not out,-,-,61,29,6,4,210.34
+17,PK,GT,2,Jitesh Sharma (wk),Catch,Darshan Nalkande,Rashid Khan,16,8,0,2,200.00
+17,PK,GT,2,Ashutosh Sharma,Catch,Rashid Khan,Darshan Nalkande,31,17,3,1,182.35
+17,PK,GT,2,Harpreet Brar,Not out,-,-,1,2,0,0,50.00
+18,SH,CSK,2,Travis Head,Catch,Rachin Ravindra,M Theekshana,31,24,3,1,129.17
+18,SH,CSK,2,Abhishek Sharma,Catch,Ravindra Jadeja,D Chahar,37,12,3,4,308.33
+18,SH,CSK,2,Aiden Markram,lbw,-,Moeen,50,36,4,1,138.89
+18,SH,CSK,2,Shahbaz Ahmed,lbw,-,Moeen,18,19,0,1,94.74
+18,SH,CSK,2,Heinrich Klaasen (wk),Not out,-,-,10,11,1,0,90.91
+18,SH,CSK,2,Nitish Reddy,Not out,-,-,14,8,1,1,175.00
+19,RR,RCB,2,Yashasvi Jaiswal,Catch,Maxwell,R Topley,0,2,0,0,0.00
+19,RR,RCB,2,Jos Buttler,Not out,-,-,100,58,9,4,172.41
+19,RR,RCB,2,Sanju Samson (c & wk),Catch,Yash Dayal,Siraj,69,42,8,2,164.29
+19,RR,RCB,2,Riyan Parag,Catch,Kohli,Yash Dayal,4,4,1,0,100.00
+19,RR,RCB,2,Dhruv Jurel,Catch,Karthik,R Topley,2,3,0,0,66.67
+19,RR,RCB,2,Shimron Hetmyer,Not out,-,-,11,6,2,0,183.33
+20,DC,M,2,Prithvi Shaw,Bowled,-,Bumrah,66,40,8,3,165.00
+20,DC,M,2,David Warner,Catch,Hardik Pandya,Romario Shepherd,10,8,1,1,125.00
+20,DC,M,2,Abishek Porel,Catch,Tim David,Bumrah,41,31,5,0,132.26
+20,DC,M,2,Tristan Stubbs,Not out,-,-,71,25,3,7,284.00
+20,DC,M,2,Rishabh Pant (c & wk),Catch,Hardik Pandya,Gerald Coetzee,1,3,0,0,33.33
+20,DC,M,2,Axar Patel,Run out,Nabi/Ishan Kishan,-,8,7,1,0,114.29
+20,DC,M,2,Lalit Yadav,Catch,Ishan Kishan,Gerald Coetzee,3,4,0,0,75.00
+20,DC,M,2,Kumar Kushagra,Catch,Tilak Varma,Gerald Coetzee,0,1,0,0,0.00
+20,DC,M,2,Jhye Richardson,Catch,Rohit,Gerald Coetzee,2,2,0,0,100.00
+21,GT,LSG,2,Sai Sudharsan,Catch,Ravi Bishnoi,Krunal Pandya,31,23,4,0,134.78
+21,GT,LSG,2,Shubman Gill (c),Bowled,-,Yash Thakur,19,21,2,0,90.48
+21,GT,LSG,2,Kane Williamson,Caught and Bowled,-,Ravi Bishnoi,1,5,0,0,20.00
+21,GT,LSG,2,Sharath BR (wk),Catch,Ayush Badoni,Krunal Pandya,2,5,0,0,40.00
+21,GT,LSG,2,Vijay Shankar,Catch,Rahul,Yash Thakur,17,17,0,1,100.00
+21,GT,LSG,2,Darshan Nalkande,Catch,Yash Thakur,Krunal Pandya,12,11,0,1,109.09
+21,GT,LSG,2,Rahul Tewatia,Catch,Pooran,Yash Thakur,30,25,2,2,120.00
+21,GT,LSG,2,Rashid Khan,Catch,(sub)Deepak Hooda,Yash Thakur,0,3,0,0,0.00
+21,GT,LSG,2,Umesh Yadav,Catch,de Kock,Naveen-ul-Haq,2,4,0,0,50.00
+21,GT,LSG,2,Spencer Johnson,Not out,-,-,0,1,0,0,0.00
+21,GT,LSG,2,Noor Ahmad,Catch,de Kock,Yash Thakur,4,2,1,0,200.00
+22,CSK,KKR,2,Rachin Ravindra,Catch,Chakaravarthy,Vaibhav Arora,15,8,3,0,187.50
+22,CSK,KKR,2,Ruturaj Gaikwad (c),Not out,-,-,67,58,9,0,115.52
+22,CSK,KKR,2,Daryl Mitchell,Bowled,-,Narine,25,19,1,1,131.58
+22,CSK,KKR,2,Shivam Dube,Bowled,-,Vaibhav Arora,28,18,1,3,155.56
+22,CSK,KKR,2,MS Dhoni (wk),Not out,-,-,1,3,0,0,33.33
+23,PK,SH,2,Shikhar Dhawan (c),Stump,Klaasen,Bhuvneshwar,14,16,2,0,87.50
+23,PK,SH,2,Jonny Bairstow,Bowled,-,Cummins,0,3,0,0,0.00
+23,PK,SH,2,Prabhsimran Singh,Catch,Nitish Reddy,Bhuvneshwar,4,6,1,0,66.67
+23,PK,SH,2,Sam Curran,Catch,Cummins,T Natarajan,29,22,2,2,131.82
+23,PK,SH,2,Sikandar Raza,Catch,Klaasen,Jaydev Unadkat,28,22,2,2,127.27
+23,PK,SH,2,Shashank Singh,Not out,-,-,46,25,6,1,184.00
+23,PK,SH,2,Jitesh Sharma (wk),Catch,Abhishek Sharma,Nitish Reddy,19,11,1,1,172.73
+23,PK,SH,2,Ashutosh Sharma,Not out,-,-,33,15,3,2,220.00
+24,GT,RR,2,Sai Sudharsan,lbw,-,Kuldeep Sen,35,29,3,1,120.69
+24,GT,RR,2,Shubman Gill (c),Stump,Samson,Chahal,72,44,6,2,163.64
+24,GT,RR,2,Matthew Wade (wk),Bowled,-,Kuldeep Sen,4,6,0,0,66.67
+24,GT,RR,2,Abhinav Manohar,Bowled,-,Kuldeep Sen,1,2,0,0,50.00
+24,GT,RR,2,Vijay Shankar,Bowled,-,Chahal,16,10,3,0,160.00
+24,GT,RR,2,Rahul Tewatia,Run out,Jos Buttler/Avesh Khan,-,22,11,3,0,200.00
+24,GT,RR,2,Shahrukh Khan,lbw,-,Avesh Khan,14,8,1,1,175.00
+24,GT,RR,2,Rashid Khan,Not out,-,-,24,11,4,0,218.18
+24,GT,RR,2,Noor Ahmad,Not out,-,-,0,0,0,0,0.00
+25,M,RCB,2,Ishan Kishan (wk),Catch,Kohli,Akash Deep,69,34,7,5,202.94
+25,M,RCB,2,Rohit Sharma,Catch,R Topley,Will Jacks,38,24,3,3,158.33
+25,M,RCB,2,Suryakumar Yadav,Catch,Lomror,Vijaykumar Vyshak,52,19,5,4,273.68
+25,M,RCB,2,Hardik Pandya (c),Not out,-,-,21,6,0,3,350.00
+25,M,RCB,2,Tilak Varma,Not out,-,-,16,10,3,0,160.00
+26,DC,LSG,2,Prithvi Shaw,Catch,Pooran,Ravi Bishnoi,32,22,6,0,145.45
+26,DC,LSG,2,David Warner,Bowled,-,Yash Thakur,8,9,1,0,88.89
+26,DC,LSG,2,Jake Fraser-McGurk,Catch,Arshad Khan,Naveen-ul-Haq,55,35,2,5,157.14
+26,DC,LSG,2,Rishabh Pant (c & wk),Stump,Rahul,Ravi Bishnoi,41,24,4,2,170.83
+26,DC,LSG,2,Tristan Stubbs,Not out,-,-,15,9,0,1,166.67
+26,DC,LSG,2,Shai Hope,Not out,-,-,11,10,1,0,110.00
+27,RR,PK,2,Yashasvi Jaiswal,Catch,Harshal Patel,Rabada,39,28,4,0,139.29
+27,RR,PK,2,Tanush Kotian,Bowled,-,Livingstone,24,31,3,0,77.42
+27,RR,PK,2,Sanju Samson (c & wk),lbw,-,Rabada,18,14,1,1,128.57
+27,RR,PK,2,Riyan Parag,Catch,Rabada,Arshdeep Singh,23,18,1,1,127.78
+27,RR,PK,2,Dhruv Jurel,Catch,Shashank Singh,Harshal Patel,6,11,0,0,54.55
+27,RR,PK,2,Shimron Hetmyer,Not out,-,-,27,10,1,3,270.00
+27,RR,PK,2,Rovman Powell,Catch,Jitesh Sharma,Sam Curran,11,5,2,0,220.00
+27,RR,PK,2,Keshav Maharaj,Catch,Livingstone,Sam Curran,1,2,0,0,50.00
+27,RR,PK,2,Trent Boult,Not out,-,-,0,0,0,0,0.00
+28,KKR,LSG,2,Philip Salt (wk),Not out,-,-,89,47,14,3,189.36
+28,KKR,LSG,2,Sunil Narine,Catch,Stoinis,Mohsin Khan,6,6,1,0,100.00
+28,KKR,LSG,2,Angkrish Raghuvanshi,Catch,Rahul,Mohsin Khan,7,6,0,1,116.67
+28,KKR,LSG,2,Shreyas Iyer (c),Not out,-,-,38,38,6,0,100.00
+29,M,CSK,2,Rohit Sharma,Not out,-,-,105,63,11,5,166.67
+29,M,CSK,2,Ishan Kishan (wk),Catch,Thakur,Matheesha Pathirana,23,15,3,1,153.33
+29,M,CSK,2,Suryakumar Yadav,Catch,Mustafizur,Matheesha Pathirana,0,2,0,0,0.00
+29,M,CSK,2,Tilak Varma,Catch,Thakur,Matheesha Pathirana,31,20,5,0,155.00
+29,M,CSK,2,Hardik Pandya (c),Catch,Ravindra Jadeja,Tushar Deshpande,2,6,0,0,33.33
+29,M,CSK,2,Tim David,Catch,Rachin Ravindra,Mustafizur,13,5,0,2,260.00
+29,M,CSK,2,Romario Shepherd,Bowled,-,Matheesha Pathirana,1,2,0,0,50.00
+29,M,CSK,2,Mohammad Nabi,Not out,-,-,4,7,0,0,57.14
+30,RCB,SH,2,Virat Kohli,Bowled,-,Markande,42,20,6,2,210.00
+30,RCB,SH,2,Faf du Plessis (c),Catch,Klaasen,Cummins,62,28,7,4,221.43
+30,RCB,SH,2,Will Jacks,Run out,Jaydev Unadkat,-,7,4,1,0,175.00
+30,RCB,SH,2,Rajat Patidar,Catch,Nitish Reddy,Markande,9,5,0,1,180.00
+30,RCB,SH,2,Saurav Chauhan,lbw,-,Cummins,0,1,0,0,0.00
+30,RCB,SH,2,Dinesh Karthik (wk),Catch,Klaasen,T Natarajan,83,35,5,7,237.14
+30,RCB,SH,2,Mahipal Lomror,Bowled,-,Cummins,19,11,0,2,172.73
+30,RCB,SH,2,Anuj Rawat,Not out,-,-,25,14,5,0,178.57
+30,RCB,SH,2,Vijaykumar Vyshak,Not out,-,-,1,2,0,0,50.00
+31,RR,KKR,2,Yashasvi Jaiswal,Catch,Venkatesh Iyer,Vaibhav Arora,19,9,3,1,211.11
+31,RR,KKR,2,Jos Buttler,Not out,-,-,107,60,9,6,178.33
+31,RR,KKR,2,Sanju Samson (c & wk),Catch,Narine,Harshit Rana,12,8,2,0,150.00
+31,RR,KKR,2,Riyan Parag,Catch,Russell,Harshit Rana,34,14,4,2,242.86
+31,RR,KKR,2,Dhruv Jurel,lbw,-,Narine,2,4,0,0,50.00
+31,RR,KKR,2,Ravichandran Ashwin,Catch,Angkrish Raghuvanshi,Chakaravarthy,8,11,1,0,72.73
+31,RR,KKR,2,Shimron Hetmyer,Catch,Shreyas Iyer,Chakaravarthy,0,1,0,0,0.00
+31,RR,KKR,2,Rovman Powell,lbw,-,Narine,26,13,1,3,200.00
+31,RR,KKR,2,Trent Boult,Run out,Shreyas Iyer/Starc,-,0,1,0,0,0.00
+31,RR,KKR,2,Avesh Khan,Not out,-,-,0,0,0,0,0.00
+32,DC,GT,2,Prithvi Shaw,Catch,Spencer Johnson,Warrier,7,6,1,0,116.67
+32,DC,GT,2,Jake Fraser-McGurk,Catch,Abhinav Manohar,Spencer Johnson,20,10,2,2,200.00
+32,DC,GT,2,Abishek Porel,Bowled,-,Warrier,15,7,2,1,214.29
+32,DC,GT,2,Shai Hope,Catch,Mohit Sharma,Rashid Khan,19,10,1,2,190.00
+32,DC,GT,2,Rishabh Pant (c & wk),Not out,-,-,16,11,1,1,145.45
+32,DC,GT,2,Sumit Kumar,Not out,-,-,9,9,2,0,100.00
+33,PK,M,2,Sam Curran (c),Catch,Ishan Kishan,Bumrah,6,7,1,0,85.71
+33,PK,M,2,Prabhsimran Singh,Catch,Ishan Kishan,Gerald Coetzee,0,1,0,0,0.00
+33,PK,M,2,Rilee Rossouw,Bowled,-,Bumrah,1,3,0,0,33.33
+33,PK,M,2,Liam Livingstone,Caught and Bowled,-,Gerald Coetzee,1,2,0,0,50.00
+33,PK,M,2,Harpreet Singh Bhatia,Caught and Bowled,-,Shreyas Gopal,13,15,2,0,86.67
+33,PK,M,2,Shashank Singh,Catch,Tilak Varma,Bumrah,41,25,2,3,164.00
+33,PK,M,2,Jitesh Sharma (wk),lbw,-,Akash Madhwal,9,9,1,0,100.00
+33,PK,M,2,Ashutosh Sharma,Catch,Nabi,Gerald Coetzee,61,28,2,7,217.86
+33,PK,M,2,Harpreet Brar,Catch,Nabi,Hardik Pandya,21,20,2,1,105.00
+33,PK,M,2,Harshal Patel,Not out,-,-,1,4,0,0,25.00
+33,PK,M,2,Kagiso Rabada,Run out,Nabi/Ishan Kishan,-,8,3,0,1,266.67
+34,LSG,CSK,2,Quinton de Kock,Catch,Dhoni,Mustafizur,54,43,5,1,125.58
+34,LSG,CSK,2,KL Rahul (c & wk),Catch,Ravindra Jadeja,Matheesha Pathirana,82,53,9,3,154.72
+34,LSG,CSK,2,Nicholas Pooran,Not out,-,-,23,12,3,1,191.67
+34,LSG,CSK,2,Marcus Stoinis,Not out,-,-,8,7,1,0,114.29
+35,DC,SH,2,Prithvi Shaw,Catch,Abdul Samad,Washington Sundar,16,5,4,0,320.00
+35,DC,SH,2,David Warner,Catch,Cummins,Bhuvneshwar,1,3,0,0,33.33
+35,DC,SH,2,Jake Fraser-McGurk,Catch,Klaasen,Markande,65,18,5,7,361.11
+35,DC,SH,2,Abishek Porel,Stump,Klaasen,Markande,42,22,7,1,190.91
+35,DC,SH,2,Tristan Stubbs,Catch,Shahbaz Ahmed,Nitish Reddy,10,11,0,0,90.91
+35,DC,SH,2,Rishabh Pant (c & wk),Catch,T Natarajan,Nitish Reddy,44,35,5,1,125.71
+35,DC,SH,2,Lalit Yadav,Bowled,-,T Natarajan,7,8,1,0,87.50
+35,DC,SH,2,Axar Patel,Catch,Cummins,T Natarajan,6,8,0,0,75.00
+35,DC,SH,2,Anrich Nortje,Bowled,-,T Natarajan,0,2,0,0,0.00
+35,DC,SH,2,Kuldeep Yadav,lbw,-,T Natarajan,0,1,0,0,0.00
+35,DC,SH,2,Mukesh Kumar,Not out,-,-,0,2,0,0,0.00
+36,RCB,KKR,2,Virat Kohli,Caught and Bowled,-,Harshit Rana,18,7,1,2,257.14
+36,RCB,KKR,2,Faf du Plessis (c),Catch,Venkatesh Iyer,Chakaravarthy,7,7,1,0,100.00
+36,RCB,KKR,2,Will Jacks,Catch,Angkrish Raghuvanshi,Russell,55,32,4,5,171.88
+36,RCB,KKR,2,Rajat Patidar,Catch,Harshit Rana,Russell,52,23,3,5,226.09
+36,RCB,KKR,2,Cameron Green,Catch,Ramandeep Singh,Narine,6,4,0,1,150.00
+36,RCB,KKR,2,Suyash Prabhudessai,Catch,Angkrish Raghuvanshi,Harshit Rana,24,18,3,0,133.33
+36,RCB,KKR,2,Mahipal Lomror,Caught and Bowled,-,Narine,4,3,1,0,133.33
+36,RCB,KKR,2,Dinesh Karthik (wk),Catch,Salt,Russell,25,18,3,1,138.89
+36,RCB,KKR,2,Karn Sharma,Caught and Bowled,-,Starc,20,7,0,3,285.71
+36,RCB,KKR,2,Mohammed Siraj,Not out,-,-,0,0,0,0,0.00
+36,RCB,KKR,2,Lockie Ferguson,Run out,Ramandeep Singh /Salt,-,1,1,0,0,100.00
+37,GT,PK,2,Wriddhiman Saha (wk),Catch,Ashutosh Sharma,Arshdeep Singh,13,11,1,0,118.18
+37,GT,PK,2,Shubman Gill (c),Catch,Rabada,Livingstone,35,29,5,0,120.69
+37,GT,PK,2,Sai Sudharsan,Bowled,-,Sam Curran,31,34,3,0,91.18
+37,GT,PK,2,David Miller,Bowled,-,Livingstone,4,6,0,0,66.67
+37,GT,PK,2,Azmatullah Omarzai,Catch,Jitesh Sharma,Harshal Patel,13,10,0,1,130.00
+37,GT,PK,2,Rahul Tewatia,Not out,-,-,36,18,7,0,200.00
+37,GT,PK,2,Shahrukh Khan,Bowled,-,Harshal Patel,8,4,0,1,200.00
+37,GT,PK,2,Rashid Khan,Catch,Rossouw,Harshal Patel,3,3,0,0,100.00
+37,GT,PK,2,Ravisrinivasan Sai Kishore,Not out,-,-,0,0,0,0,0.00
+38,RR,M,2,Yashasvi Jaiswal,Not out,-,-,104,60,9,7,173.33
+38,RR,M,2,Jos Buttler,Bowled,-,Chawla,35,25,6,0,140.00
+38,RR,M,2,Sanju Samson (c & wk),Not out,-,-,38,28,2,2,135.71
+39,LSG,CSK,2,Quinton de Kock,Bowled,-,D Chahar,0,3,0,0,0.00
+39,LSG,CSK,2,KL Rahul (c & wk),Catch,Ruturaj Gaikwad,Mustafizur,16,14,1,1,114.29
+39,LSG,CSK,2,Marcus Stoinis,Not out,-,-,124,63,13,6,196.83
+39,LSG,CSK,2,Devdutt Padikkal,Bowled,-,Matheesha Pathirana,13,19,0,0,68.42
+39,LSG,CSK,2,Nicholas Pooran,Catch,Thakur,Matheesha Pathirana,34,15,3,2,226.67
+39,LSG,CSK,2,Deepak Hooda,Not out,-,-,17,6,2,1,283.33
+40,GT,DC,2,Wriddhiman Saha (wk),Catch,Axar,Kuldeep Yadav,39,25,5,1,156.00
+40,GT,DC,2,Shubman Gill (c),Catch,Axar,Nortje,6,5,1,0,120.00
+40,GT,DC,2,Sai Sudharsan,Catch,Axar,Rasikh Salam,65,39,7,2,166.67
+40,GT,DC,2,Azmatullah Omarzai,Catch,Jake Fraser-McGurk,Axar,1,2,0,0,50.00
+40,GT,DC,2,David Miller,Catch,Rasikh Salam,Mukesh Kumar,55,23,6,3,239.13
+40,GT,DC,2,Shahrukh Khan,Catch,Pant,Rasikh Salam,8,5,0,1,160.00
+40,GT,DC,2,Rahul Tewatia,Catch,Pant,Kuldeep Yadav,4,5,0,0,80.00
+40,GT,DC,2,Rashid Khan,Not out,-,-,21,11,3,1,190.91
+40,GT,DC,2,Ravisrinivasan Sai Kishore,Bowled,-,Rasikh Salam,13,6,0,2,216.67
+40,GT,DC,2,Mohit Sharma,Not out,-,-,0,0,0,0,0.00
+41,SH,RCB,2,Abhishek Sharma,Catch,Karthik,Yash Dayal,31,13,3,2,238.46
+41,SH,RCB,2,Travis Head,Catch,Karn Sharma,Will Jacks,1,3,0,0,33.33
+41,SH,RCB,2,Aiden Markram,lbw,-,Swapnil Singh,7,8,1,0,87.50
+41,SH,RCB,2,Nitish Reddy,Bowled,-,Karn Sharma,13,13,0,1,100.00
+41,SH,RCB,2,Heinrich Klaasen (wk),Catch,Green,Swapnil Singh,7,3,0,1,233.33
+41,SH,RCB,2,Shahbaz Ahmed,Not out,-,-,40,37,1,1,108.11
+41,SH,RCB,2,Abdul Samad,Caught and Bowled,-,Karn Sharma,10,6,0,1,166.67
+41,SH,RCB,2,Pat Cummins (c),Catch,Siraj,Green,31,15,1,3,206.67
+41,SH,RCB,2,Bhuvneshwar Kumar,Catch,Siraj,Green,13,13,3,0,100.00
+41,SH,RCB,2,Jaydev Unadkat,Not out,-,-,8,10,1,0,80.00
+42,PK,KKR,2,Prabhsimran Singh,Run out,Narine,-,54,20,4,5,270.00
+42,PK,KKR,2,Jonny Bairstow,Not out,-,-,108,48,8,9,225.00
+42,PK,KKR,2,Rilee Rossouw,Catch,Shreyas Iyer,Narine,26,16,1,2,162.50
+42,PK,KKR,2,Shashank Singh,Not out,-,-,68,28,2,8,242.86
+43,M,DC,2,Ishan Kishan (wk),Catch,Axar,Mukesh Kumar,20,14,4,0,142.86
+43,M,DC,2,Rohit Sharma,Catch,Shai Hope,Khaleel Ahmed,8,8,1,0,100.00
+43,M,DC,2,Suryakumar Yadav,Catch,Williams,Khaleel Ahmed,26,13,3,2,200.00
+43,M,DC,2,Tilak Varma,Run out,(sub)Sumit Kumar/Pant,-,63,32,4,4,196.88
+43,M,DC,2,Hardik Pandya (c),Catch,Mukesh Kumar,Rasikh Salam,46,24,4,3,191.67
+43,M,DC,2,Nehal Wadhera,Catch,Pant,Rasikh Salam,4,2,1,0,200.00
+43,M,DC,2,Tim David,lbw,-,Mukesh Kumar,37,17,2,3,217.65
+43,M,DC,2,Mohammad Nabi,Catch,Shai Hope,Rasikh Salam,7,4,0,1,175.00
+43,M,DC,2,Piyush Chawla,Catch,Shai Hope,Mukesh Kumar,10,4,1,1,250.00
+43,M,DC,2,Luke Wood,Not out,-,-,9,3,0,1,300.00
+44,RR,LSG,2,Yashasvi Jaiswal,Catch,Ravi Bishnoi,Stoinis,24,18,3,1,133.33
+44,RR,LSG,2,Jos Buttler,Bowled,-,Yash Thakur,34,18,4,1,188.89
+44,RR,LSG,2,Sanju Samson (c & wk),Not out,-,-,71,33,7,4,215.15
+44,RR,LSG,2,Riyan Parag,Catch,Ayush Badoni,Amit Mishra,14,11,0,1,127.27
+44,RR,LSG,2,Dhruv Jurel,Not out,-,-,52,34,5,2,152.94
+45,RCB,GT,2,Virat Kohli,Not out,-,-,70,44,6,3,159.09
+45,RCB,GT,2,Faf du Plessis (c),Catch,(sub)Vijay Shankar,Sai Kishore,24,12,1,3,200.00
+45,RCB,GT,2,Will Jacks,Not out,-,-,100,41,5,10,243.90
+46,SH,CSK,2,Travis Head,Catch,Daryl Mitchell,Tushar Deshpande,13,7,1,1,185.71
+46,SH,CSK,2,Abhishek Sharma,Catch,Daryl Mitchell,Tushar Deshpande,15,9,1,1,166.67
+46,SH,CSK,2,Anmolpreet Singh,Catch,Moeen,Tushar Deshpande,0,1,0,0,0.00
+46,SH,CSK,2,Aiden Markram,Bowled,-,Matheesha Pathirana,32,26,4,0,123.08
+46,SH,CSK,2,Nitish Reddy,Catch,Dhoni,Ravindra Jadeja,15,15,0,0,100.00
+46,SH,CSK,2,Heinrich Klaasen (wk),Catch,Daryl Mitchell,Matheesha Pathirana,20,21,0,1,95.24
+46,SH,CSK,2,Abdul Samad,Catch,(sub)Sameer Rizvi,Thakur,19,18,1,1,105.56
+46,SH,CSK,2,Shahbaz Ahmed,Catch,Daryl Mitchell,Mustafizur,7,5,1,0,140.00
+46,SH,CSK,2,Pat Cummins (c),Catch,Daryl Mitchell,Tushar Deshpande,5,7,1,0,71.43
+46,SH,CSK,2,Bhuvneshwar Kumar,Not out,-,-,4,3,0,0,133.33
+46,SH,CSK,2,Jaydev Unadkat,Catch,Moeen,Mustafizur,1,2,0,0,50.00
+47,KKR,DC,2,Philip Salt (wk),Bowled,-,Axar,68,33,7,5,206.06
+47,KKR,DC,2,Sunil Narine,Catch,Jake Fraser-McGurk,Axar,15,10,3,0,150.00
+47,KKR,DC,2,Rinku Singh,Catch,Kuldeep Yadav,Williams,11,11,1,0,100.00
+47,KKR,DC,2,Shreyas Iyer (c),Not out,-,-,33,23,3,1,143.48
+47,KKR,DC,2,Venkatesh Iyer,Not out,-,-,26,23,2,1,113.04
+48,LSG,M,2,KL Rahul (c & wk),Catch,Nabi,Hardik Pandya,28,22,3,1,127.27
+48,LSG,M,2,Arshin Kulkarni,lbw,-,N Thushara,0,1,0,0,0.00
+48,LSG,M,2,Marcus Stoinis,Catch,Tilak Varma,Nabi,62,45,7,2,137.78
+48,LSG,M,2,Deepak Hooda,Catch,Bumrah,Hardik Pandya,18,18,2,0,100.00
+48,LSG,M,2,Nicholas Pooran,Not out,-,-,14,14,1,0,100.00
+48,LSG,M,2,Ashton Turner,Bowled,-,Gerald Coetzee,5,9,0,0,55.56
+48,LSG,M,2,Ayush Badoni,Run out,(sub)Naman Dhir/Ishan Kishan,-,6,6,1,0,100.00
+48,LSG,M,2,Krunal Pandya,Not out,-,-,1,1,0,0,100.00
+49,PK,CSK,2,Prabhsimran Singh,Catch,Ruturaj Gaikwad,Richard Gleeson,13,10,1,1,130.00
+49,PK,CSK,2,Jonny Bairstow,Catch,Dhoni,Shivam Dube,46,30,7,1,153.33
+49,PK,CSK,2,Rilee Rossouw,Bowled,-,Thakur,43,23,5,2,186.96
+49,PK,CSK,2,Shashank Singh,Not out,-,-,25,26,1,1,96.15
+49,PK,CSK,2,Sam Curran (c),Not out,-,-,26,20,3,0,130.00
+50,RR,SH,2,Yashasvi Jaiswal,Bowled,-,T Natarajan,67,40,7,2,167.50
+50,RR,SH,2,Jos Buttler,Catch,Marco Jansen,Bhuvneshwar,0,1,0,0,0.00
+50,RR,SH,2,Sanju Samson (c & wk),Bowled,-,Bhuvneshwar,0,3,0,0,0.00
+50,RR,SH,2,Riyan Parag,Catch,Marco Jansen,Cummins,77,49,8,4,157.14
+50,RR,SH,2,Shimron Hetmyer,Catch,Marco Jansen,T Natarajan,13,9,1,1,144.44
+50,RR,SH,2,Rovman Powell,lbw,-,Bhuvneshwar,27,15,3,1,180.00
+50,RR,SH,2,Dhruv Jurel,Catch,Abhishek Sharma,Cummins,1,3,0,0,33.33
+50,RR,SH,2,Ravichandran Ashwin,Not out,-,-,2,2,0,0,100.00
+51,M,KKR,2,Ishan Kishan (wk),Bowled,-,Starc,13,7,1,1,185.71
+51,M,KKR,2,Rohit Sharma,Catch,Manish Pandey,Narine,11,12,0,1,91.67
+51,M,KKR,2,Naman Dhir,Bowled,-,Chakaravarthy,11,11,2,0,100.00
+51,M,KKR,2,Suryakumar Yadav,Catch,Salt,Russell,56,35,6,2,160.00
+51,M,KKR,2,Tilak Varma,Catch,Narine,Chakaravarthy,4,6,0,0,66.67
+51,M,KKR,2,Nehal Wadhera,Bowled,-,Narine,6,11,1,0,54.55
+51,M,KKR,2,Hardik Pandya (c),Catch,Manish Pandey,Russell,1,3,0,0,33.33
+51,M,KKR,2,Tim David,Catch,Shreyas Iyer,Starc,24,20,1,1,120.00
+51,M,KKR,2,Gerald Coetzee,Bowled,-,Starc,8,7,0,1,114.29
+51,M,KKR,2,Piyush Chawla,Catch,Narine,Starc,0,1,0,0,0.00
+51,M,KKR,2,Jasprit Bumrah,Not out,-,-,1,1,0,0,100.00
+52,RCB,GT,2,Virat Kohli,Catch,W Saha,Noor Ahmad,42,27,2,4,155.56
+52,RCB,GT,2,Faf du Plessis (c),Catch,Shahrukh Khan,Joshua Little,64,23,10,3,278.26
+52,RCB,GT,2,Will Jacks,Catch,Shahrukh Khan,Noor Ahmad,1,3,0,0,33.33
+52,RCB,GT,2,Rajat Patidar,Catch,David Miller,Joshua Little,2,3,0,0,66.67
+52,RCB,GT,2,Glenn Maxwell,Catch,David Miller,Joshua Little,4,3,1,0,133.33
+52,RCB,GT,2,Cameron Green,Catch,Shahrukh Khan,Joshua Little,1,2,0,0,50.00
+52,RCB,GT,2,Dinesh Karthik (wk),Not out,-,-,21,12,3,0,175.00
+52,RCB,GT,2,Swapnil Singh,Not out,-,-,15,9,2,1,166.67
+53,PK,CSK,2,Prabhsimran Singh,Catch,(sub)Sameer Rizvi,Ravindra Jadeja,30,23,2,2,130.43
+53,PK,CSK,2,Jonny Bairstow,Bowled,-,Tushar Deshpande,7,6,1,0,116.67
+53,PK,CSK,2,Rilee Rossouw,Bowled,-,Tushar Deshpande,0,3,0,0,0.00
+53,PK,CSK,2,Shashank Singh,Catch,Simarjeet Singh,Santner,27,20,4,0,135.00
+53,PK,CSK,2,Sam Curran (c),Catch,Santner,Ravindra Jadeja,7,11,0,0,63.64
+53,PK,CSK,2,Jitesh Sharma (wk),Catch,Dhoni,Simarjeet Singh,0,1,0,0,0.00
+53,PK,CSK,2,Ashutosh Sharma,Catch,Simarjeet Singh,Ravindra Jadeja,3,10,0,0,30.00
+53,PK,CSK,2,Harpreet Brar,Not out,-,-,17,13,2,0,130.77
+53,PK,CSK,2,Harshal Patel,Catch,(sub)Sameer Rizvi,Simarjeet Singh,12,13,1,1,92.31
+53,PK,CSK,2,Rahul Chahar,Bowled,-,Thakur,16,10,2,1,160.00
+53,PK,CSK,2,Kagiso Rabada,Not out,-,-,11,10,0,1,110.00
+54,LSG,KKR,2,KL Rahul (c & wk),Catch,Ramandeep Singh,Harshit Rana,25,21,3,0,119.05
+54,LSG,KKR,2,Arshin Kulkarni,Catch,Ramandeep Singh,Starc,9,7,2,0,128.57
+54,LSG,KKR,2,Marcus Stoinis,Catch,Harshit Rana,Russell,36,21,4,2,171.43
+54,LSG,KKR,2,Deepak Hooda,lbw,-,Chakaravarthy,5,3,1,0,166.67
+54,LSG,KKR,2,Nicholas Pooran,Catch,Salt,Russell,10,8,0,1,125.00
+54,LSG,KKR,2,Ayush Badoni,Catch,Starc,Narine,15,12,0,1,125.00
+54,LSG,KKR,2,Ashton Turner,Caught and Bowled,-,Chakaravarthy,16,9,0,2,177.78
+54,LSG,KKR,2,Krunal Pandya,Catch,Salt,Harshit Rana,5,6,0,0,83.33
+54,LSG,KKR,2,Yudhvir Singh Charak,Catch,Russell,Chakaravarthy,7,7,0,1,100.00
+54,LSG,KKR,2,Ravi Bishnoi,lbw,-,Harshit Rana,2,3,0,0,66.67
+54,LSG,KKR,2,Naveen-ul-Haq,Not out,-,-,0,0,0,0,0.00
+55,M,SH,2,Ishan Kishan (wk),Catch,Mayank Agarwal,Marco Jansen,9,7,2,0,128.57
+55,M,SH,2,Rohit Sharma,Catch,Klaasen,Cummins,4,5,1,0,80.00
+55,M,SH,2,Naman Dhir,Catch,Marco Jansen,Bhuvneshwar,0,9,0,0,0.00
+55,M,SH,2,Suryakumar Yadav,Not out,-,-,102,51,12,6,200.00
+55,M,SH,2,Tilak Varma,Not out,-,-,37,32,6,0,115.62
+56,RR,DC,2,Yashasvi Jaiswal,Catch,Axar,Khaleel Ahmed,4,2,1,0,200.00
+56,RR,DC,2,Jos Buttler,Bowled,-,Axar,19,17,2,1,111.76
+56,RR,DC,2,Sanju Samson (c & wk),Catch,Shai Hope,Mukesh Kumar,86,46,8,6,186.96
+56,RR,DC,2,Riyan Parag,Bowled,-,Rasikh Salam,27,22,1,3,122.73
+56,RR,DC,2,Shubham Dubey,Catch,Tristan Stubbs,Khaleel Ahmed,25,12,2,2,208.33
+56,RR,DC,2,Rovman Powell,Bowled,-,Mukesh Kumar,13,10,1,1,130.00
+56,RR,DC,2,Donovan Ferreira,lbw,-,Kuldeep Yadav,1,3,0,0,33.33
+56,RR,DC,2,Ravichandran Ashwin,Catch,Shai Hope,Kuldeep Yadav,2,3,0,0,66.67
+56,RR,DC,2,Trent Boult,Not out,-,-,2,3,0,0,66.67
+56,RR,DC,2,Avesh Khan,Not out,-,-,7,3,1,0,233.33
+57,SH,LSG,2,Abhishek Sharma,Not out,-,-,75,28,8,6,267.86
+57,SH,LSG,2,Travis Head,Not out,-,-,89,30,8,8,296.67
+58,PK,RCB,2,Prabhsimran Singh,lbw,-,Swapnil Singh,6,4,1,0,150.00
+58,PK,RCB,2,Jonny Bairstow (wk),Catch,du Plessis,Lockie Ferguson,27,16,4,1,168.75
+58,PK,RCB,2,Rilee Rossouw,Catch,Will Jacks,Karn Sharma,61,27,9,3,225.93
+58,PK,RCB,2,Shashank Singh,Run out,Kohli,-,37,19,4,2,194.74
+58,PK,RCB,2,Jitesh Sharma,Bowled,-,Karn Sharma,5,4,1,0,125.00
+58,PK,RCB,2,Liam Livingstone,Catch,Karn Sharma,Swapnil Singh,0,2,0,0,0.00
+58,PK,RCB,2,Sam Curran (c),Bowled,-,Lockie Ferguson,22,16,2,0,137.50
+58,PK,RCB,2,Ashutosh Sharma,lbw,-,Siraj,8,5,0,1,160.00
+58,PK,RCB,2,Harshal Patel,Catch,Lockie Ferguson,Siraj,0,1,0,0,0.00
+58,PK,RCB,2,Rahul Chahar,Not out,-,-,5,5,1,0,100.00
+58,PK,RCB,2,Arshdeep Singh,Catch,Karn Sharma,Siraj,4,3,1,0,133.33
+59,CSK,GT,2,Ajinkya Rahane,Catch,Rahul Tewatia,Warrier,1,5,0,0,20.00
+59,CSK,GT,2,Rachin Ravindra,Run out,David Miller,-,1,2,0,0,50.00
+59,CSK,GT,2,Ruturaj Gaikwad (c),Catch,Rashid Khan,Umesh,0,3,0,0,0.00
+59,CSK,GT,2,Daryl Mitchell,Catch,Shahrukh Khan,Mohit Sharma,63,34,7,3,185.29
+59,CSK,GT,2,Moeen Ali,Catch,Noor Ahmad,Mohit Sharma,56,36,4,4,155.56
+59,CSK,GT,2,Shivam Dube,Catch,Noor Ahmad,Mohit Sharma,21,13,2,1,161.54
+59,CSK,GT,2,Ravindra Jadeja,Catch,David Miller,Rashid Khan,18,10,2,1,180.00
+59,CSK,GT,2,MS Dhoni (wk),Not out,-,-,26,11,1,3,236.36
+59,CSK,GT,2,Mitchell Santner,Bowled,-,Rashid Khan,0,2,0,0,0.00
+59,CSK,GT,2,Shardul Thakur,Not out,-,-,3,4,0,0,75.00
+60,M,KKR,2,Ishan Kishan (wk),Catch,Rinku Singh,Narine,40,22,5,2,181.82
+60,M,KKR,2,Rohit Sharma,Catch,Narine,Chakaravarthy,19,24,1,1,79.17
+60,M,KKR,2,Suryakumar Yadav,Catch,Ramandeep Singh,Russell,11,14,1,0,78.57
+60,M,KKR,2,Tilak Varma,Catch,Salt,Harshit Rana,32,17,5,1,188.24
+60,M,KKR,2,Hardik Pandya (c),Catch,Vaibhav Arora,Chakaravarthy,2,4,0,0,50.00
+60,M,KKR,2,Tim David,Catch,Shreyas Iyer,Russell,0,3,0,0,0.00
+60,M,KKR,2,Nehal Wadhera,Run out,Starc/Salt,-,3,3,0,0,100.00
+60,M,KKR,2,Naman Dhir,Catch,Rinku Singh,Harshit Rana,17,6,1,2,283.33
+60,M,KKR,2,Anshul Kamboj,Not out,-,-,2,2,0,0,100.00
+60,M,KKR,2,Piyush Chawla,Not out,-,-,1,2,0,0,50.00
+61,CSK,RR,2,Rachin Ravindra,Caught and Bowled,-,Ashwin,27,18,1,2,150.00
+61,CSK,RR,2,Ruturaj Gaikwad (c),Not out,-,-,42,41,1,2,102.44
+61,CSK,RR,2,Daryl Mitchell,lbw,-,Chahal,22,13,4,0,169.23
+61,CSK,RR,2,Moeen Ali,Catch,Avesh Khan,Nandre Burger,10,13,0,0,76.92
+61,CSK,RR,2,Shivam Dube,Catch,Riyan Parag,Ashwin,18,11,2,1,163.64
+61,CSK,RR,2,,,,,5,7,0,0,71.43
+61,CSK,RR,2,Sameer Rizvi,Not out,-,-,15,8,3,0,187.50
+62,DC,RCB,2,David Warner,Catch,Will Jacks,Swapnil Singh,1,2,0,0,50.00
+62,DC,RCB,2,Jake Fraser-McGurk,Run out,Yash Dayal,-,21,8,2,2,262.50
+62,DC,RCB,2,Abishek Porel (wk),Catch,Lockie Ferguson,Yash Dayal,2,3,0,0,66.67
+62,DC,RCB,2,Shai Hope,Catch,Karn Sharma,Lockie Ferguson,29,23,4,0,126.09
+62,DC,RCB,2,Kumar Kushagra,lbw,-,Siraj,2,3,0,0,66.67
+62,DC,RCB,2,Axar Patel (c),Catch,du Plessis,Yash Dayal,57,39,5,3,146.15
+62,DC,RCB,2,Tristan Stubbs,Run out,Green,-,3,4,0,0,75.00
+62,DC,RCB,2,Rasikh Dar Salam,Catch,Will Jacks,Green,10,12,1,0,83.33
+62,DC,RCB,2,Kuldeep Yadav,Bowled,-,Yash Dayal,6,10,0,0,60.00
+62,DC,RCB,2,Mukesh Kumar,Catch,Lomror,Lockie Ferguson,3,7,0,0,42.86
+62,DC,RCB,2,Ishant Sharma,Not out,-,-,0,4,0,0,0.00
+64,LSG,DC,2,Quinton de Kock (wk),Catch,Mukesh Kumar,Ishant,12,8,2,0,150.00
+64,LSG,DC,2,KL Rahul (c),Catch,Mukesh Kumar,Ishant,5,3,1,0,166.67
+64,LSG,DC,2,Marcus Stoinis,Stump,Pant,Axar,5,7,1,0,71.43
+64,LSG,DC,2,Deepak Hooda,lbw,-,Ishant,0,2,0,0,0.00
+64,LSG,DC,2,Nicholas Pooran,Catch,Axar,Mukesh Kumar,61,27,6,4,225.93
+64,LSG,DC,2,Ayush Badoni,Catch,Gulbadin,Tristan Stubbs,6,9,0,0,66.67
+64,LSG,DC,2,Krunal Pandya,Stump,Pant,Kuldeep Yadav,18,18,2,0,100.00
+64,LSG,DC,2,Arshad Khan,Not out,-,-,58,33,3,5,175.76
+64,LSG,DC,2,Yudhvir Singh Charak,Catch,Shai Hope,Khaleel Ahmed,14,7,1,1,200.00
+64,LSG,DC,2,Ravi Bishnoi,Run out,Jake Fraser-McGurk,-,2,2,0,0,100.00
+64,LSG,DC,2,Naveen-ul-Haq,Not out,-,-,2,4,0,0,50.00
+65,PK,RR,2,Prabhsimran Singh,Catch,Chahal,Boult,6,4,1,0,150.00
+65,PK,RR,2,Jonny Bairstow (wk),Catch,Riyan Parag,Chahal,14,22,1,0,63.64
+65,PK,RR,2,Rilee Rossouw,Catch,Yashasvi Jaiswal,Avesh Khan,22,13,5,0,169.23
+65,PK,RR,2,Shashank Singh,lbw,-,Avesh Khan,0,2,0,0,0.00
+65,PK,RR,2,Sam Curran (c),Not out,-,-,63,41,5,3,153.66
+65,PK,RR,2,Jitesh Sharma,Catch,Riyan Parag,Chahal,22,20,0,2,110.00
+65,PK,RR,2,Ashutosh Sharma,Not out,-,-,17,11,1,1,154.55
+67,M,LSG,2,Rohit Sharma,Catch,Mohsin Khan,Ravi Bishnoi,68,38,10,3,178.95
+67,M,LSG,2,Dewald Brevis,Catch,Krunal Pandya,Naveen-ul-Haq,23,20,1,2,115.00
+67,M,LSG,2,Suryakumar Yadav,Catch,Ravi Bishnoi,Krunal Pandya,0,3,0,0,0.00
+67,M,LSG,2,Ishan Kishan (wk),Bowled,-,Naveen-ul-Haq,14,15,1,0,93.33
+67,M,LSG,2,Hardik Pandya (c),Catch,Naveen-ul-Haq,Mohsin Khan,16,13,1,1,123.08
+67,M,LSG,2,Nehal Wadhera,Catch,Krunal Pandya,Ravi Bishnoi,1,3,0,0,33.33
+67,M,LSG,2,Naman Dhir,Not out,-,-,62,28,4,5,221.43
+67,M,LSG,2,Romario Shepherd,Not out,-,-,1,1,0,0,100.00
+68,CSK,RCB,2,Ruturaj Gaikwad (c),Catch,Yash Dayal,Maxwell,0,1,0,0,0.00
+68,CSK,RCB,2,Rachin Ravindra,Run out,Swapnil Singh/Karthik,-,61,37,5,3,164.86
+68,CSK,RCB,2,Daryl Mitchell,Catch,Kohli,Yash Dayal,4,6,0,0,66.67
+68,CSK,RCB,2,Ajinkya Rahane,Catch,du Plessis,Lockie Ferguson,33,22,3,1,150.00
+68,CSK,RCB,2,Shivam Dube,Catch,Lockie Ferguson,Green,7,15,0,0,46.67
+68,CSK,RCB,2,Ravindra Jadeja,Not out,-,-,42,22,3,3,190.91
+68,CSK,RCB,2,Mitchell Santner,Catch,du Plessis,Siraj,3,4,0,0,75.00
+68,CSK,RCB,2,MS Dhoni (wk),Catch,Swapnil Singh,Yash Dayal,25,13,3,1,192.31
+68,CSK,RCB,2,Shardul Thakur,Not out,-,-,1,2,0,0,50.00
+69,SH,PK,2,Travis Head,Bowled,-,Arshdeep Singh,0,1,0,0,0.00
+69,SH,PK,2,Abhishek Sharma,Catch,Shivam Singh,Shashank Singh,66,28,5,6,235.71
+69,SH,PK,2,Rahul Tripathi,Catch,Arshdeep Singh,Harshal Patel,33,18,4,2,183.33
+69,SH,PK,2,Nitish Reddy,Catch,Shivam Singh,Harshal Patel,37,25,1,3,148.00
+69,SH,PK,2,Heinrich Klaasen (wk),Bowled,-,Harpreet Brar,42,26,3,2,161.54
+69,SH,PK,2,Shahbaz Ahmed,Catch,Shashank Singh,Arshdeep Singh,3,6,0,0,50.00
+69,SH,PK,2,Abdul Samad,Not out,-,-,11,8,0,1,137.50
+69,SH,PK,2,Sanvir Singh,Not out,-,-,6,4,1,0,150.00
+71,KKR,SH,2,Rahmanullah Gurbaz (wk),Catch,V Viyaskanth,T Natarajan,23,14,2,2,164.29
+71,KKR,SH,2,Sunil Narine,Catch,V Viyaskanth,Cummins,21,16,4,0,131.25
+71,KKR,SH,2,Venkatesh Iyer,Not out,-,-,51,28,5,4,182.14
+71,KKR,SH,2,Shreyas Iyer (c),Not out,-,-,58,24,5,4,241.67
+72,RR,RCB,2,Yashasvi Jaiswal,Catch,Karthik,Green,45,30,8,0,150.00
+72,RR,RCB,2,Tom Kohler-Cadmore,Bowled,-,Lockie Ferguson,20,15,4,0,133.33
+72,RR,RCB,2,Sanju Samson (c & wk),Stump,Karthik,Karn Sharma,17,13,0,1,130.77
+72,RR,RCB,2,Riyan Parag,Bowled,-,Siraj,36,26,2,2,138.46
+72,RR,RCB,2,Dhruv Jurel,Run out,Kohli/Green,-,8,8,1,0,100.00
+72,RR,RCB,2,Shimron Hetmyer,Catch,du Plessis,Siraj,26,14,3,1,185.71
+72,RR,RCB,2,Rovman Powell,Not out,-,-,16,8,2,1,200.00
+72,RR,RCB,2,Ravichandran Ashwin,Not out,-,-,0,0,0,0,0.00
+73,RR,SH,2,Yashasvi Jaiswal,Catch,Abdul Samad,Shahbaz Ahmed,42,21,4,3,200.00
+73,RR,SH,2,Tom Kohler-Cadmore,Catch,Tripathi,Cummins,10,16,1,0,62.50
+73,RR,SH,2,Sanju Samson (c & wk),Catch,Markram,Abhishek Sharma,10,11,1,0,90.91
+73,RR,SH,2,Riyan Parag,Catch,Abhishek Sharma,Shahbaz Ahmed,6,10,0,0,60.00
+73,RR,SH,2,Dhruv Jurel,Not out,-,-,56,35,7,2,160.00
+73,RR,SH,2,Ravichandran Ashwin,Catch,Klaasen,Shahbaz Ahmed,0,3,0,0,0.00
+73,RR,SH,2,Shimron Hetmyer,Bowled,-,Abhishek Sharma,4,10,0,0,40.00
+73,RR,SH,2,Rovman Powell,Catch,Abhishek Sharma,T Natarajan,6,12,0,0,50.00
+73,RR,SH,2,Trent Boult,Not out,-,-,0,3,0,0,0.00
+74,KKR,SH,2,Rahmanullah Gurbaz (wk),lbw,-,Shahbaz Ahmed,39,32,5,2,121.88
+74,KKR,SH,2,Sunil Narine,Catch,Shahbaz Ahmed,Cummins,6,2,0,1,300.00
+74,KKR,SH,2,Venkatesh Iyer,Not out,-,-,52,26,4,3,200.00
+74,KKR,SH,2,Shreyas Iyer (c),Not out,-,-,6,3,1,0,200.00

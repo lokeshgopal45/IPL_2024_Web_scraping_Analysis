@@ -1,0 +1,858 @@
+Match_id,Bowling,Team,Opposite_Team,Innings
+1,D Chahar   4 0 37 1 0 2 9.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+1,Tushar Deshpande   4 0 47 0 0 6 11.80,Chennai Super Kings,Royal Challengers Bengaluru,1
+1,M Theekshana   4 0 36 0 0 0 9.00,Chennai Super Kings,Royal Challengers Bengaluru,1
+1,Mustafizur   4 0 29 4 0 2 7.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+1,Ravindra Jadeja   4 0 21 0 0 0 5.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+2,Sam Curran   1 0 10 0 0 1 10.00,Punjab Kings,Delhi Capitals,1
+2,Arshdeep Singh   4 0 28 2 0 2 7.00,Punjab Kings,Delhi Capitals,1
+2,Rabada   4 0 36 1 0 1 9.00,Punjab Kings,Delhi Capitals,1
+2,Harpreet Brar   3 0 14 1 0 0 4.70,Punjab Kings,Delhi Capitals,1
+2,Rahul Chahar   4 0 33 1 0 0 8.20,Punjab Kings,Delhi Capitals,1
+2,Harshal Patel   4 0 47 2 0 0 11.80,Punjab Kings,Delhi Capitals,1
+3,Bhuvneshwar   4 0 51 0 1 2 12.80,Sunrisers Hyderabad,Kolkata Knight Riders,1
+3,Marco Jansen   3 0 40 0 0 1 13.30,Sunrisers Hyderabad,Kolkata Knight Riders,1
+3,T Natarajan   4 0 32 3 0 3 8.00,Sunrisers Hyderabad,Kolkata Knight Riders,1
+3,Cummins (c)   4 0 32 1 0 0 8.00,Sunrisers Hyderabad,Kolkata Knight Riders,1
+3,Markande   4 0 39 2 0 0 9.80,Sunrisers Hyderabad,Kolkata Knight Riders,1
+3,Shahbaz Ahmed   1 0 14 0 1 0 14.00,Sunrisers Hyderabad,Kolkata Knight Riders,1
+4,Mohsin Khan   4 0 45 1 0 1 11.20,Lucknow Super Giants,Rajasthan Royals,1
+4,Naveen-ul-Haq   4 0 41 2 0 4 10.20,Lucknow Super Giants,Rajasthan Royals,1
+4,Krunal Pandya   4 0 19 0 0 0 4.80,Lucknow Super Giants,Rajasthan Royals,1
+4,Ravi Bishnoi   4 0 38 1 0 0 9.50,Lucknow Super Giants,Rajasthan Royals,1
+4,Yash Thakur   3 0 43 0 1 1 14.30,Lucknow Super Giants,Rajasthan Royals,1
+4,Ayush Badoni   1 0 6 0 0 0 6.00,Lucknow Super Giants,Rajasthan Royals,1
+5,Hardik Pandya (c)   3 0 30 0 0 0 10.00,Mumbai,Gujarat Titans,1
+5,Luke Wood   2 0 25 0 1 1 12.50,Mumbai,Gujarat Titans,1
+5,Bumrah   4 0 14 3 0 0 3.50,Mumbai,Gujarat Titans,1
+5,Shams Mulani   3 0 24 0 0 1 8.00,Mumbai,Gujarat Titans,1
+5,Chawla   3 0 31 1 0 5 10.30,Mumbai,Gujarat Titans,1
+5,Naman Dhir   1 0 13 0 0 0 13.00,Mumbai,Gujarat Titans,1
+5,Gerald Coetzee   4 0 27 2 0 0 6.80,Mumbai,Gujarat Titans,1
+6,Siraj   4 0 26 2 0 0 6.50,Royal Challengers Bengaluru,Punjab Kings,1
+6,Yash Dayal   4 0 23 1 0 2 5.80,Royal Challengers Bengaluru,Punjab Kings,1
+6,Alzarri Joseph   4 0 43 1 0 3 10.80,Royal Challengers Bengaluru,Punjab Kings,1
+6,Green   2 0 19 0 0 1 9.50,Royal Challengers Bengaluru,Punjab Kings,1
+6,Mayank Dagar   3 0 34 0 0 0 11.30,Royal Challengers Bengaluru,Punjab Kings,1
+6,Maxwell   3 0 29 2 0 0 9.70,Royal Challengers Bengaluru,Punjab Kings,1
+7,Azmatullah   3 0 30 0 0 1 10.00,Gujarat Titans,Chennai Super Kings,1
+7,Umesh   2 0 27 0 0 1 13.50,Gujarat Titans,Chennai Super Kings,1
+7,Rashid Khan   4 0 49 2 0 0 12.20,Gujarat Titans,Chennai Super Kings,1
+7,Sai Kishore   3 0 28 1 0 2 9.30,Gujarat Titans,Chennai Super Kings,1
+7,Spencer Johnson   4 0 35 1 0 0 8.80,Gujarat Titans,Chennai Super Kings,1
+7,Mohit Sharma   4 0 36 1 0 1 9.00,Gujarat Titans,Chennai Super Kings,1
+8,Kwena Maphaka   4 0 66 0 0 3 16.50,Mumbai,Sunrisers Hyderabad,1
+8,Hardik Pandya (c)   4 0 46 1 0 0 11.50,Mumbai,Sunrisers Hyderabad,1
+8,Bumrah   4 0 36 0 1 1 9.00,Mumbai,Sunrisers Hyderabad,1
+8,Gerald Coetzee   4 0 57 1 1 6 14.20,Mumbai,Sunrisers Hyderabad,1
+8,Chawla   2 0 34 1 0 0 17.00,Mumbai,Sunrisers Hyderabad,1
+8,Shams Mulani   2 0 33 0 0 2 16.50,Mumbai,Sunrisers Hyderabad,1
+9,Khaleel Ahmed   4 0 24 1 0 2 6.00,Delhi Capitals,Rajasthan Royals,1
+9,Mukesh Kumar   4 0 49 1 0 1 12.20,Delhi Capitals,Rajasthan Royals,1
+9,Nortje   4 0 48 1 0 0 12.00,Delhi Capitals,Rajasthan Royals,1
+9,Axar   4 0 21 1 0 0 5.20,Delhi Capitals,Rajasthan Royals,1
+9,Kuldeep Yadav   4 0 41 1 0 2 10.20,Delhi Capitals,Rajasthan Royals,1
+10,Starc   4 0 47 0 0 1 11.80,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+10,Harshit Rana   4 0 39 2 0 1 9.80,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+10,Anukul Roy   2 0 6 0 0 0 3.00,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+10,Narine   4 0 40 1 0 0 10.00,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+10,Russell   4 0 29 2 0 1 7.20,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+10,Chakaravarthy   2 0 20 0 0 0 10.00,Kolkata Knight Riders,Royal Challengers Bengaluru,1
+11,Sam Curran   4 0 28 3 0 0 7.00,Punjab Kings,Lucknow Super Giants,1
+11,Arshdeep Singh   3 0 30 2 0 1 10.00,Punjab Kings,Lucknow Super Giants,1
+11,Rabada   4 0 38 1 0 0 9.50,Punjab Kings,Lucknow Super Giants,1
+11,Rahul Chahar   3 0 42 1 0 0 14.00,Punjab Kings,Lucknow Super Giants,1
+11,Harpreet Brar   2 0 14 0 0 0 7.00,Punjab Kings,Lucknow Super Giants,1
+11,Harshal Patel   4 0 45 0 0 4 11.20,Punjab Kings,Lucknow Super Giants,1
+12,Azmatullah   3 0 24 1 0 1 8.00,Gujarat Titans,Sunrisers Hyderabad,1
+12,Umesh   3 0 28 1 0 0 9.30,Gujarat Titans,Sunrisers Hyderabad,1
+12,Rashid Khan   4 0 33 1 0 0 8.20,Gujarat Titans,Sunrisers Hyderabad,1
+12,Noor Ahmad   4 0 32 1 0 0 8.00,Gujarat Titans,Sunrisers Hyderabad,1
+12,Mohit Sharma   4 0 25 3 0 0 6.20,Gujarat Titans,Sunrisers Hyderabad,1
+12,Darshan Nalkande   2 0 18 0 0 1 9.00,Gujarat Titans,Sunrisers Hyderabad,1
+13,D Chahar   4 0 42 0 0 0 10.50,Chennai Super Kings,Delhi Capitals,1
+13,Tushar Deshpande   4 0 24 0 0 2 6.00,Chennai Super Kings,Delhi Capitals,1
+13,Mustafizur   4 0 47 1 2 1 11.80,Chennai Super Kings,Delhi Capitals,1
+13,Ravindra Jadeja   4 0 43 1 0 0 10.80,Chennai Super Kings,Delhi Capitals,1
+13,Matheesha Pathirana   4 0 31 3 0 2 7.80,Chennai Super Kings,Delhi Capitals,1
+14,Boult   4 0 22 3 0 1 5.50,Rajasthan Royals,Mumbai,1
+14,Nandre Burger   4 0 32 2 0 1 8.00,Rajasthan Royals,Mumbai,1
+14,Avesh Khan   4 0 30 1 0 1 7.50,Rajasthan Royals,Mumbai,1
+14,Chahal   4 0 11 3 0 0 2.80,Rajasthan Royals,Mumbai,1
+14,Ashwin   4 0 27 0 0 1 6.80,Rajasthan Royals,Mumbai,1
+15,R Topley   4 0 39 1 0 1 9.80,Royal Challengers Bengaluru,Lucknow Super Giants,1
+15,Yash Dayal   4 0 24 1 0 0 6.00,Royal Challengers Bengaluru,Lucknow Super Giants,1
+15,Siraj   4 0 47 1 0 3 11.80,Royal Challengers Bengaluru,Lucknow Super Giants,1
+15,Maxwell   4 0 23 2 0 1 5.80,Royal Challengers Bengaluru,Lucknow Super Giants,1
+15,Mayank Dagar   2 0 23 0 0 5 11.50,Royal Challengers Bengaluru,Lucknow Super Giants,1
+15,Green   2 0 25 0 0 0 12.50,Royal Challengers Bengaluru,Lucknow Super Giants,1
+16,Khaleel Ahmed   4 0 43 1 1 8 10.80,Delhi Capitals,Kolkata Knight Riders,1
+16,Ishant   3 0 43 2 0 0 14.30,Delhi Capitals,Kolkata Knight Riders,1
+16,Nortje   4 0 59 3 0 2 14.80,Delhi Capitals,Kolkata Knight Riders,1
+16,Rasikh Salam   3 0 47 0 0 1 15.70,Delhi Capitals,Kolkata Knight Riders,1
+16,Sumit Kumar   2 0 19 0 0 0 9.50,Delhi Capitals,Kolkata Knight Riders,1
+16,Axar   1 0 18 0 0 0 18.00,Delhi Capitals,Kolkata Knight Riders,1
+16,Mitchell Marsh   3 0 37 1 0 4 12.30,Delhi Capitals,Kolkata Knight Riders,1
+17,Harpreet Brar   4 0 33 1 0 0 8.20,Punjab Kings,Gujarat Titans,1
+17,Arshdeep Singh   4 0 33 0 0 0 8.20,Punjab Kings,Gujarat Titans,1
+17,Rabada   4 0 44 2 0 1 11.00,Punjab Kings,Gujarat Titans,1
+17,Sam Curran   2 0 18 0 0 0 9.00,Punjab Kings,Gujarat Titans,1
+17,Harshal Patel   4 0 44 1 0 3 11.00,Punjab Kings,Gujarat Titans,1
+17,Raza   2 0 22 0 0 0 11.00,Punjab Kings,Gujarat Titans,1
+18,Abhishek Sharma   1 0 7 0 0 0 7.00,Sunrisers Hyderabad,Chennai Super Kings,1
+18,Bhuvneshwar   4 0 28 1 0 0 7.00,Sunrisers Hyderabad,Chennai Super Kings,1
+18,T Natarajan   4 0 39 1 0 0 9.80,Sunrisers Hyderabad,Chennai Super Kings,1
+18,Cummins (c)   4 0 29 1 0 0 7.20,Sunrisers Hyderabad,Chennai Super Kings,1
+18,Markande   2 0 21 0 0 0 10.50,Sunrisers Hyderabad,Chennai Super Kings,1
+18,Shahbaz Ahmed   1 0 11 1 0 0 11.00,Sunrisers Hyderabad,Chennai Super Kings,1
+18,Jaydev Unadkat   4 0 29 1 0 1 7.20,Sunrisers Hyderabad,Chennai Super Kings,1
+19,Boult   3 0 30 0 0 1 10.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+19,Nandre Burger   4 0 33 1 0 6 8.20,Rajasthan Royals,Royal Challengers Bengaluru,1
+19,Ashwin   4 0 28 0 0 1 7.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+19,Avesh Khan   4 0 46 0 0 0 11.50,Rajasthan Royals,Royal Challengers Bengaluru,1
+19,Chahal   4 0 34 2 0 1 8.50,Rajasthan Royals,Royal Challengers Bengaluru,1
+19,Riyan Parag   1 0 10 0 0 0 10.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+20,Khaleel Ahmed   4 0 39 1 0 0 9.80,Delhi Capitals,Mumbai,1
+20,Ishant   3 0 40 0 0 8 13.30,Delhi Capitals,Mumbai,1
+20,Jhye Richardson   4 0 40 0 0 2 10.00,Delhi Capitals,Mumbai,1
+20,Axar   4 0 35 2 0 0 8.80,Delhi Capitals,Mumbai,1
+20,Lalit Yadav   1 0 15 0 0 0 15.00,Delhi Capitals,Mumbai,1
+20,Nortje   4 0 65 2 1 3 16.20,Delhi Capitals,Mumbai,1
+21,Umesh   3 0 22 2 0 0 7.30,Gujarat Titans,Lucknow Super Giants,1
+21,Spencer Johnson   4 0 32 0 0 1 8.00,Gujarat Titans,Lucknow Super Giants,1
+21,Rashid Khan   4 0 28 1 0 0 7.00,Gujarat Titans,Lucknow Super Giants,1
+21,Mohit Sharma   3 0 34 0 0 0 11.30,Gujarat Titans,Lucknow Super Giants,1
+21,Noor Ahmad   4 0 22 0 0 0 5.50,Gujarat Titans,Lucknow Super Giants,1
+21,Darshan Nalkande   2 0 21 2 0 0 10.50,Gujarat Titans,Lucknow Super Giants,1
+22,Tushar Deshpande   4 0 33 3 0 2 8.20,Chennai Super Kings,Kolkata Knight Riders,1
+22,Mustafizur   4 0 22 2 1 2 5.50,Chennai Super Kings,Kolkata Knight Riders,1
+22,Thakur   3 0 27 0 1 1 9.00,Chennai Super Kings,Kolkata Knight Riders,1
+22,M Theekshana   4 0 28 1 0 0 7.00,Chennai Super Kings,Kolkata Knight Riders,1
+22,Ravindra Jadeja   4 0 18 3 0 1 4.50,Chennai Super Kings,Kolkata Knight Riders,1
+22,Rachin Ravindra   1 0 4 0 0 0 4.00,Chennai Super Kings,Kolkata Knight Riders,1
+23,Rabada   4 0 32 1 0 1 8.00,Punjab Kings,Sunrisers Hyderabad,1
+23,Arshdeep Singh   4 0 29 4 0 2 7.20,Punjab Kings,Sunrisers Hyderabad,1
+23,Sam Curran   4 0 41 2 0 1 10.20,Punjab Kings,Sunrisers Hyderabad,1
+23,Harshal Patel   4 0 30 2 0 1 7.50,Punjab Kings,Sunrisers Hyderabad,1
+23,Harpreet Brar   4 0 48 0 0 0 12.00,Punjab Kings,Sunrisers Hyderabad,1
+24,Umesh   4 0 47 1 0 2 11.80,Gujarat Titans,Rajasthan Royals,1
+24,Spencer Johnson   4 0 37 0 0 0 9.20,Gujarat Titans,Rajasthan Royals,1
+24,Rashid Khan   4 0 18 1 0 0 4.50,Gujarat Titans,Rajasthan Royals,1
+24,Noor Ahmad   4 0 43 0 0 1 10.80,Gujarat Titans,Rajasthan Royals,1
+24,Mohit Sharma   4 0 51 1 0 4 12.80,Gujarat Titans,Rajasthan Royals,1
+25,Nabi   1 0 7 0 0 0 7.00,Mumbai,Royal Challengers Bengaluru,1
+25,Gerald Coetzee   4 0 42 1 0 3 10.50,Mumbai,Royal Challengers Bengaluru,1
+25,Bumrah   4 0 21 5 0 0 5.20,Mumbai,Royal Challengers Bengaluru,1
+25,Akash Madhwal   4 0 57 1 0 3 14.20,Mumbai,Royal Challengers Bengaluru,1
+25,Shreyas Gopal   4 0 32 1 0 0 8.00,Mumbai,Royal Challengers Bengaluru,1
+25,Romario Shepherd   2 0 22 0 0 0 11.00,Mumbai,Royal Challengers Bengaluru,1
+25,Hardik Pandya (c)   1 0 13 0 0 2 13.00,Mumbai,Royal Challengers Bengaluru,1
+26,Khaleel Ahmed   4 0 41 2 0 1 10.20,Delhi Capitals,Lucknow Super Giants,1
+26,Ishant   4 0 36 1 0 4 9.00,Delhi Capitals,Lucknow Super Giants,1
+26,Mukesh Kumar   4 0 41 1 0 1 10.20,Delhi Capitals,Lucknow Super Giants,1
+26,Axar   4 0 26 0 0 0 6.50,Delhi Capitals,Lucknow Super Giants,1
+26,Kuldeep Yadav   4 0 20 3 0 1 5.00,Delhi Capitals,Lucknow Super Giants,1
+27,Boult   4 0 22 1 0 3 5.50,Rajasthan Royals,Punjab Kings,1
+27,Kuldeep Sen   4 0 35 1 0 0 8.80,Rajasthan Royals,Punjab Kings,1
+27,Avesh Khan   4 0 34 2 0 0 8.50,Rajasthan Royals,Punjab Kings,1
+27,Chahal   4 0 31 1 1 2 7.80,Rajasthan Royals,Punjab Kings,1
+27,Maharaj   4 0 23 2 0 0 5.80,Rajasthan Royals,Punjab Kings,1
+28,Starc   4 0 28 3 0 1 7.00,Kolkata Knight Riders,Lucknow Super Giants,1
+28,Vaibhav Arora   3 0 34 1 1 1 11.30,Kolkata Knight Riders,Lucknow Super Giants,1
+28,Harshit Rana   4 0 35 0 0 2 8.80,Kolkata Knight Riders,Lucknow Super Giants,1
+28,Narine   4 0 17 1 0 0 4.20,Kolkata Knight Riders,Lucknow Super Giants,1
+28,Chakaravarthy   4 0 30 1 0 2 7.50,Kolkata Knight Riders,Lucknow Super Giants,1
+28,Russell   1 0 16 1 0 0 16.00,Kolkata Knight Riders,Lucknow Super Giants,1
+29,Nabi   3 0 19 0 0 0 6.30,Mumbai,Chennai Super Kings,1
+29,Gerald Coetzee   4 0 35 1 0 1 8.80,Mumbai,Chennai Super Kings,1
+29,Bumrah   4 0 27 0 0 2 6.80,Mumbai,Chennai Super Kings,1
+29,Akash Madhwal   3 0 37 0 0 0 12.30,Mumbai,Chennai Super Kings,1
+29,Shreyas Gopal   1 0 9 1 0 0 9.00,Mumbai,Chennai Super Kings,1
+29,Hardik Pandya (c)   3 0 43 2 0 2 14.30,Mumbai,Chennai Super Kings,1
+29,Romario Shepherd   2 0 33 0 0 0 16.50,Mumbai,Chennai Super Kings,1
+30,Will Jacks   3 0 32 0 0 2 10.70,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+30,R Topley   4 0 68 1 0 2 17.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+30,Yash Dayal   4 0 51 0 1 3 12.80,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+30,Lockie Ferguson   4 0 52 2 0 0 13.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+30,Vijaykumar Vyshak   4 0 64 0 0 2 16.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+30,Lomror   1 0 18 0 0 3 18.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,1
+31,Boult   4 0 31 1 0 0 7.80,Rajasthan Royals,Kolkata Knight Riders,1
+31,Avesh Khan   4 0 35 2 0 1 8.80,Rajasthan Royals,Kolkata Knight Riders,1
+31,Kuldeep Sen   4 0 46 2 0 2 11.50,Rajasthan Royals,Kolkata Knight Riders,1
+31,Chahal   4 0 54 1 0 1 13.50,Rajasthan Royals,Kolkata Knight Riders,1
+31,Ashwin   4 0 49 0 0 9 12.20,Rajasthan Royals,Kolkata Knight Riders,1
+32,Khaleel Ahmed   4 1 18 1 0 1 4.50,Delhi Capitals,Gujarat Titans,1
+32,Ishant   2 0 8 2 0 1 4.00,Delhi Capitals,Gujarat Titans,1
+32,Mukesh Kumar   2.3 0 14 3 2 1 5.60,Delhi Capitals,Gujarat Titans,1
+32,Kuldeep Yadav   4 0 16 0 0 0 4.00,Delhi Capitals,Gujarat Titans,1
+32,Tristan Stubbs   1 0 11 2 0 1 11.00,Delhi Capitals,Gujarat Titans,1
+32,Axar   4 0 17 1 0 1 4.20,Delhi Capitals,Gujarat Titans,1
+33,Livingstone   2 0 16 0 0 0 8.00,Punjab Kings,Mumbai,1
+33,Arshdeep Singh   3 0 35 0 0 1 11.70,Punjab Kings,Mumbai,1
+33,Rabada   4 0 42 1 0 0 10.50,Punjab Kings,Mumbai,1
+33,Harshal Patel   4 0 31 3 0 2 7.80,Punjab Kings,Mumbai,1
+33,Sam Curran (c)   4 0 41 2 0 2 10.20,Punjab Kings,Mumbai,1
+33,Harpreet Brar   3 0 21 0 0 0 7.00,Punjab Kings,Mumbai,1
+34,Matt Henry   3 0 26 0 0 0 8.70,Lucknow Super Giants,Chennai Super Kings,1
+34,Mohsin Khan   4 0 37 1 0 3 9.20,Lucknow Super Giants,Chennai Super Kings,1
+34,Yash Thakur   4 0 45 1 0 0 11.20,Lucknow Super Giants,Chennai Super Kings,1
+34,Krunal Pandya   3 0 16 2 0 0 5.30,Lucknow Super Giants,Chennai Super Kings,1
+34,Ravi Bishnoi   4 0 44 1 0 0 11.00,Lucknow Super Giants,Chennai Super Kings,1
+34,Stoinis   2 0 7 1 0 0 3.50,Lucknow Super Giants,Chennai Super Kings,1
+35,Khaleel Ahmed   3 0 51 0 0 0 17.00,Delhi Capitals,Sunrisers Hyderabad,1
+35,Lalit Yadav   2 0 41 0 0 0 20.50,Delhi Capitals,Sunrisers Hyderabad,1
+35,Nortje   3 0 31 0 0 1 10.30,Delhi Capitals,Sunrisers Hyderabad,1
+35,Kuldeep Yadav   4 0 55 4 0 2 13.80,Delhi Capitals,Sunrisers Hyderabad,1
+35,Mukesh Kumar   4 0 57 1 0 0 14.20,Delhi Capitals,Sunrisers Hyderabad,1
+35,Axar   4 0 29 1 0 0 7.20,Delhi Capitals,Sunrisers Hyderabad,1
+36,Siraj   4 0 40 1 0 2 10.00,Royal Challengers Bengaluru,Kolkata Knight Riders,1
+36,Yash Dayal   4 0 56 2 1 3 14.00,Royal Challengers Bengaluru,Kolkata Knight Riders,1
+36,Lockie Ferguson   4 0 47 1 1 0 11.80,Royal Challengers Bengaluru,Kolkata Knight Riders,1
+36,Karn Sharma   4 0 33 0 0 0 8.20,Royal Challengers Bengaluru,Kolkata Knight Riders,1
+36,Green   4 0 35 2 0 2 8.80,Royal Challengers Bengaluru,Kolkata Knight Riders,1
+37,Azmatullah   2 0 13 0 0 0 6.50,Gujarat Titans,Punjab Kings,1
+37,Warrier   1 0 21 0 1 0 21.00,Gujarat Titans,Punjab Kings,1
+37,Mohit Sharma   4 0 32 2 0 1 8.00,Gujarat Titans,Punjab Kings,1
+37,Rashid Khan   4 0 15 1 0 0 3.80,Gujarat Titans,Punjab Kings,1
+37,Noor Ahmad   4 0 20 2 0 0 5.00,Gujarat Titans,Punjab Kings,1
+37,Sai Kishore   4 0 33 4 0 1 8.20,Gujarat Titans,Punjab Kings,1
+37,Shahrukh Khan   1 0 7 0 0 0 7.00,Gujarat Titans,Punjab Kings,1
+38,Boult   4 0 32 2 0 3 8.00,Rajasthan Royals,Mumbai,1
+38,Sandeep Sharma   4 0 18 5 0 0 4.50,Rajasthan Royals,Mumbai,1
+38,Avesh Khan   4 0 49 1 0 3 12.20,Rajasthan Royals,Mumbai,1
+38,Ashwin   4 0 31 0 0 1 7.80,Rajasthan Royals,Mumbai,1
+38,Chahal   4 0 48 1 0 2 12.00,Rajasthan Royals,Mumbai,1
+39,Matt Henry   4 0 28 1 0 0 7.00,Lucknow Super Giants,Chennai Super Kings,1
+39,Mohsin Khan   4 0 50 1 0 0 12.50,Lucknow Super Giants,Chennai Super Kings,1
+39,Ravi Bishnoi   2 0 19 0 0 0 9.50,Lucknow Super Giants,Chennai Super Kings,1
+39,Yash Thakur   4 0 47 1 0 1 11.80,Lucknow Super Giants,Chennai Super Kings,1
+39,Stoinis   4 0 49 0 0 1 12.20,Lucknow Super Giants,Chennai Super Kings,1
+39,Krunal Pandya   2 0 15 0 0 0 7.50,Lucknow Super Giants,Chennai Super Kings,1
+40,Azmatullah   4 0 33 0 0 0 8.20,Gujarat Titans,Delhi Capitals,1
+40,Warrier   3 0 15 3 0 1 5.00,Gujarat Titans,Delhi Capitals,1
+40,Rashid Khan   4 0 35 0 0 0 8.80,Gujarat Titans,Delhi Capitals,1
+40,Noor Ahmad   3 0 36 1 0 1 12.00,Gujarat Titans,Delhi Capitals,1
+40,Mohit Sharma   4 0 73 0 0 1 18.20,Gujarat Titans,Delhi Capitals,1
+40,Shahrukh Khan   1 0 8 0 0 0 8.00,Gujarat Titans,Delhi Capitals,1
+40,Sai Kishore   1 0 22 0 0 0 22.00,Gujarat Titans,Delhi Capitals,1
+41,Abhishek Sharma   1 0 10 0 0 0 10.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,Bhuvneshwar   1 0 14 0 0 0 14.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,Cummins (c)   4 0 55 1 0 1 13.80,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,T Natarajan   4 0 39 2 0 1 9.80,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,Shahbaz Ahmed   3 0 14 0 0 0 4.70,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,Markande   3 0 42 1 0 1 14.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+41,Jaydev Unadkat   4 0 30 3 0 2 7.50,Sunrisers Hyderabad,Royal Challengers Bengaluru,1
+42,Sam Curran (c)   4 0 60 1 0 0 15.00,Punjab Kings,Kolkata Knight Riders,1
+42,Arshdeep Singh   4 0 45 2 0 5 11.20,Punjab Kings,Kolkata Knight Riders,1
+42,Harshal Patel   3 0 48 1 1 1 16.00,Punjab Kings,Kolkata Knight Riders,1
+42,Rabada   3 0 52 0 0 4 17.30,Punjab Kings,Kolkata Knight Riders,1
+42,Rahul Chahar   4 0 33 1 0 0 8.20,Punjab Kings,Kolkata Knight Riders,1
+42,Harpreet Brar   2 0 21 0 0 0 10.50,Punjab Kings,Kolkata Knight Riders,1
+43,Luke Wood   4 0 68 1 0 0 17.00,Mumbai,Delhi Capitals,1
+43,Bumrah   4 0 35 1 1 2 8.80,Mumbai,Delhi Capitals,1
+43,N Thushara   4 0 56 0 0 2 14.00,Mumbai,Delhi Capitals,1
+43,Chawla   4 0 36 1 0 2 9.00,Mumbai,Delhi Capitals,1
+43,Hardik Pandya (c)   2 0 41 0 0 0 20.50,Mumbai,Delhi Capitals,1
+43,Nabi   2 0 20 1 0 0 10.00,Mumbai,Delhi Capitals,1
+44,Boult   4 0 41 1 0 6 10.20,Rajasthan Royals,Lucknow Super Giants,1
+44,Sandeep Sharma   4 0 31 2 0 1 7.80,Rajasthan Royals,Lucknow Super Giants,1
+44,Avesh Khan   4 0 42 1 1 1 10.50,Rajasthan Royals,Lucknow Super Giants,1
+44,Ashwin   4 0 39 1 0 6 9.80,Rajasthan Royals,Lucknow Super Giants,1
+44,Chahal   4 0 41 0 0 1 10.20,Rajasthan Royals,Lucknow Super Giants,1
+45,Swapnil Singh   3 0 23 1 0 0 7.70,Royal Challengers Bengaluru,Gujarat Titans,1
+45,Siraj   4 0 34 1 0 4 8.50,Royal Challengers Bengaluru,Gujarat Titans,1
+45,Yash Dayal   4 0 34 0 1 3 8.50,Royal Challengers Bengaluru,Gujarat Titans,1
+45,Maxwell   3 0 28 1 0 0 9.30,Royal Challengers Bengaluru,Gujarat Titans,1
+45,Karn Sharma   3 0 38 0 0 1 12.70,Royal Challengers Bengaluru,Gujarat Titans,1
+45,Green   3 0 42 0 0 1 14.00,Royal Challengers Bengaluru,Gujarat Titans,1
+46,Bhuvneshwar   4 0 38 1 0 0 9.50,Sunrisers Hyderabad,Chennai Super Kings,1
+46,Nitish Reddy   1 0 8 0 0 1 8.00,Sunrisers Hyderabad,Chennai Super Kings,1
+46,Shahbaz Ahmed   3 0 33 0 0 0 11.00,Sunrisers Hyderabad,Chennai Super Kings,1
+46,T Natarajan   4 0 43 1 0 3 10.80,Sunrisers Hyderabad,Chennai Super Kings,1
+46,Jaydev Unadkat   4 0 38 1 0 1 9.50,Sunrisers Hyderabad,Chennai Super Kings,1
+46,Cummins (c)   4 0 49 0 0 1 12.20,Sunrisers Hyderabad,Chennai Super Kings,1
+47,Starc   3 0 43 1 0 6 14.30,Kolkata Knight Riders,Delhi Capitals,1
+47,Vaibhav Arora   4 0 29 2 1 2 7.20,Kolkata Knight Riders,Delhi Capitals,1
+47,Harshit Rana   4 0 28 2 0 1 7.00,Kolkata Knight Riders,Delhi Capitals,1
+47,Narine   4 0 24 1 0 0 6.00,Kolkata Knight Riders,Delhi Capitals,1
+47,Chakaravarthy   4 0 16 3 0 0 4.00,Kolkata Knight Riders,Delhi Capitals,1
+47,Russell   1 0 10 0 0 0 10.00,Kolkata Knight Riders,Delhi Capitals,1
+48,Stoinis   3 0 19 1 0 1 6.30,Lucknow Super Giants,Mumbai,1
+48,Mohsin Khan   4 0 36 2 0 0 9.00,Lucknow Super Giants,Mumbai,1
+48,Naveen-ul-Haq   3.5 0 15 1 1 0 3.90,Lucknow Super Giants,Mumbai,1
+48,Mayank Yadav   3.1 0 31 1 1 2 9.80,Lucknow Super Giants,Mumbai,1
+48,Ravi Bishnoi   4 0 28 1 0 1 7.00,Lucknow Super Giants,Mumbai,1
+48,Deepak Hooda   2 0 13 0 0 0 6.50,Lucknow Super Giants,Mumbai,1
+49,Rabada   4 0 23 1 0 1 5.80,Punjab Kings,Chennai Super Kings,1
+49,Arshdeep Singh   4 0 52 1 0 5 13.00,Punjab Kings,Chennai Super Kings,1
+49,Sam Curran (c)   3 0 37 0 1 0 12.30,Punjab Kings,Chennai Super Kings,1
+49,Harpreet Brar   4 0 17 2 0 1 4.20,Punjab Kings,Chennai Super Kings,1
+49,Rahul Chahar   4 0 16 2 0 0 4.00,Punjab Kings,Chennai Super Kings,1
+49,Harshal Patel   1 0 12 0 0 5 12.00,Punjab Kings,Chennai Super Kings,1
+50,Boult   4 0 33 0 0 1 8.20,Rajasthan Royals,Sunrisers Hyderabad,1
+50,Ashwin   4 0 36 0 0 1 9.00,Rajasthan Royals,Sunrisers Hyderabad,1
+50,Avesh Khan   4 0 39 2 0 3 9.80,Rajasthan Royals,Sunrisers Hyderabad,1
+50,Sandeep Sharma   4 0 31 1 0 2 7.80,Rajasthan Royals,Sunrisers Hyderabad,1
+50,Chahal   4 0 62 0 0 1 15.50,Rajasthan Royals,Sunrisers Hyderabad,1
+51,N Thushara   4 0 42 3 1 3 10.50,Mumbai,Kolkata Knight Riders,1
+51,Bumrah   3.5 0 18 3 0 0 4.70,Mumbai,Kolkata Knight Riders,1
+51,Gerald Coetzee   2 0 24 0 0 0 12.00,Mumbai,Kolkata Knight Riders,1
+51,Hardik Pandya (c)   4 0 44 2 0 1 11.00,Mumbai,Kolkata Knight Riders,1
+51,Naman Dhir   3 0 25 0 0 1 8.30,Mumbai,Kolkata Knight Riders,1
+51,Chawla   3 0 15 1 0 0 5.00,Mumbai,Kolkata Knight Riders,1
+52,Swapnil Singh   1 0 1 0 0 0 1.00,Royal Challengers Bengaluru,Gujarat Titans,1
+52,Siraj   4 0 29 2 0 3 7.20,Royal Challengers Bengaluru,Gujarat Titans,1
+52,Yash Dayal   4 0 21 2 0 0 5.20,Royal Challengers Bengaluru,Gujarat Titans,1
+52,Green   4 0 28 1 0 0 7.00,Royal Challengers Bengaluru,Gujarat Titans,1
+52,Vijaykumar Vyshak   3.3 0 23 2 0 1 6.60,Royal Challengers Bengaluru,Gujarat Titans,1
+52,Karn Sharma   3 0 42 1 0 0 14.00,Royal Challengers Bengaluru,Gujarat Titans,1
+53,Rabada   3 0 24 0 0 1 8.00,Punjab Kings,Chennai Super Kings,1
+53,Arshdeep Singh   4 0 42 2 0 1 10.50,Punjab Kings,Chennai Super Kings,1
+53,Sam Curran (c)   4 0 34 1 0 0 8.50,Punjab Kings,Chennai Super Kings,1
+53,Harpreet Brar   1 0 19 0 0 0 19.00,Punjab Kings,Chennai Super Kings,1
+53,Rahul Chahar   4 0 23 3 0 1 5.80,Punjab Kings,Chennai Super Kings,1
+53,Harshal Patel   4 0 24 3 0 2 6.00,Punjab Kings,Chennai Super Kings,1
+54,Stoinis   2 0 29 0 0 0 14.50,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Mohsin Khan   2 0 28 0 0 1 14.00,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Naveen-ul-Haq   4 0 49 3 0 1 12.20,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Yash Thakur   4 0 46 1 0 3 11.50,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Krunal Pandya   2 0 26 0 0 6 13.00,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Ravi Bishnoi   4 0 33 1 0 2 8.20,Lucknow Super Giants,Kolkata Knight Riders,1
+54,Yudhvir Singh   2 0 24 1 0 0 12.00,Lucknow Super Giants,Kolkata Knight Riders,1
+55,N Thushara   4 0 42 0 1 4 10.50,Mumbai,Sunrisers Hyderabad,1
+55,Anshul Kamboj   4 0 42 1 2 1 10.50,Mumbai,Sunrisers Hyderabad,1
+55,Bumrah   4 0 23 1 0 1 5.80,Mumbai,Sunrisers Hyderabad,1
+55,Hardik Pandya (c)   4 0 31 3 0 1 7.80,Mumbai,Sunrisers Hyderabad,1
+55,Chawla   4 0 33 3 0 2 8.20,Mumbai,Sunrisers Hyderabad,1
+56,Boult   4 0 48 1 0 0 12.00,Rajasthan Royals,Delhi Capitals,1
+56,Sandeep Sharma   4 0 42 1 0 0 10.50,Rajasthan Royals,Delhi Capitals,1
+56,Avesh Khan   2 0 42 0 0 0 21.00,Rajasthan Royals,Delhi Capitals,1
+56,Ashwin   4 0 24 3 0 0 6.00,Rajasthan Royals,Delhi Capitals,1
+56,Riyan Parag   2 0 17 0 0 1 8.50,Rajasthan Royals,Delhi Capitals,1
+56,Chahal   4 0 48 1 0 0 12.00,Rajasthan Royals,Delhi Capitals,1
+57,Bhuvneshwar   4 0 12 2 0 0 3.00,Sunrisers Hyderabad,Lucknow Super Giants,1
+57,Cummins (c)   4 0 47 1 0 0 11.80,Sunrisers Hyderabad,Lucknow Super Giants,1
+57,Shahbaz Ahmed   2 0 9 0 0 0 4.50,Sunrisers Hyderabad,Lucknow Super Giants,1
+57,V Viyaskanth   4 0 27 0 0 0 6.80,Sunrisers Hyderabad,Lucknow Super Giants,1
+57,Jaydev Unadkat   2 0 19 0 0 0 9.50,Sunrisers Hyderabad,Lucknow Super Giants,1
+57,T Natarajan   4 0 50 0 0 3 12.50,Sunrisers Hyderabad,Lucknow Super Giants,1
+58,Vidhwath Kaverappa   4 0 36 2 0 0 9.00,Punjab Kings,Royal Challengers Bengaluru,1
+58,Arshdeep Singh   3 0 41 1 0 2 13.70,Punjab Kings,Royal Challengers Bengaluru,1
+58,Sam Curran (c)   3 0 50 1 0 2 16.70,Punjab Kings,Royal Challengers Bengaluru,1
+58,Harshal Patel   4 0 38 3 0 1 9.50,Punjab Kings,Royal Challengers Bengaluru,1
+58,Rahul Chahar   3 0 47 0 1 0 15.70,Punjab Kings,Royal Challengers Bengaluru,1
+58,Livingstone   3 0 28 0 0 1 9.30,Punjab Kings,Royal Challengers Bengaluru,1
+59,Santner   2 0 31 0 0 0 15.50,Chennai Super Kings,Gujarat Titans,1
+59,Tushar Deshpande   4 0 33 2 0 2 8.20,Chennai Super Kings,Gujarat Titans,1
+59,Thakur   4 0 25 0 0 0 6.20,Chennai Super Kings,Gujarat Titans,1
+59,Simarjeet Singh   4 0 60 0 0 2 15.00,Chennai Super Kings,Gujarat Titans,1
+59,Ravindra Jadeja   2 0 29 0 0 0 14.50,Chennai Super Kings,Gujarat Titans,1
+59,Daryl Mitchell   4 0 52 0 0 1 13.00,Chennai Super Kings,Gujarat Titans,1
+60,N Thushara   3 0 31 1 0 2 10.30,Mumbai,Kolkata Knight Riders,1
+60,Bumrah   4 0 39 2 0 0 9.80,Mumbai,Kolkata Knight Riders,1
+60,Anshul Kamboj   3 0 24 1 0 1 8.00,Mumbai,Kolkata Knight Riders,1
+60,Hardik Pandya (c)   3 0 32 0 0 0 10.70,Mumbai,Kolkata Knight Riders,1
+60,Chawla   3 0 28 2 0 0 9.30,Mumbai,Kolkata Knight Riders,1
+61,Tushar Deshpande   4 0 30 2 0 0 7.50,Chennai Super Kings,Rajasthan Royals,1
+61,M Theekshana   4 0 28 0 0 0 7.00,Chennai Super Kings,Rajasthan Royals,1
+61,Thakur   4 0 32 0 0 0 8.00,Chennai Super Kings,Rajasthan Royals,1
+61,Simarjeet Singh   4 0 26 3 0 4 6.50,Chennai Super Kings,Rajasthan Royals,1
+61,Ravindra Jadeja   4 0 24 0 0 0 6.00,Chennai Super Kings,Rajasthan Royals,1
+62,Ishant   3 0 31 1 0 3 10.30,Delhi Capitals,Royal Challengers Bengaluru,1
+62,Khaleel Ahmed   4 0 31 2 0 0 7.80,Delhi Capitals,Royal Challengers Bengaluru,1
+62,Mukesh Kumar   3 0 23 1 0 0 7.70,Delhi Capitals,Royal Challengers Bengaluru,1
+62,Axar (c)   3 0 24 0 0 0 8.00,Delhi Capitals,Royal Challengers Bengaluru,1
+62,Kuldeep Yadav   4 0 52 1 0 1 13.00,Delhi Capitals,Royal Challengers Bengaluru,1
+62,Rasikh Salam   3 0 23 2 0 3 7.70,Delhi Capitals,Royal Challengers Bengaluru,1
+64,Arshad Khan   3 0 45 1 0 5 15.00,Lucknow Super Giants,Delhi Capitals,1
+64,Mohsin Khan   4 0 29 0 0 0 7.20,Lucknow Super Giants,Delhi Capitals,1
+64,Yudhvir Singh   2 0 28 0 0 0 14.00,Lucknow Super Giants,Delhi Capitals,1
+64,Naveen-ul-Haq   4 0 51 2 0 1 12.80,Lucknow Super Giants,Delhi Capitals,1
+64,Ravi Bishnoi   4 0 26 1 0 0 6.50,Lucknow Super Giants,Delhi Capitals,1
+64,Krunal Pandya   2 0 20 0 0 1 10.00,Lucknow Super Giants,Delhi Capitals,1
+64,Deepak Hooda   1 0 9 0 0 1 9.00,Lucknow Super Giants,Delhi Capitals,1
+65,Sam Curran (c)   3 0 24 2 0 0 8.00,Punjab Kings,Rajasthan Royals,1
+65,Arshdeep Singh   4 0 31 1 0 0 7.80,Punjab Kings,Rajasthan Royals,1
+65,Nathan Ellis   4 0 24 1 0 0 6.00,Punjab Kings,Rajasthan Royals,1
+65,Harshal Patel   4 0 28 2 0 1 7.00,Punjab Kings,Rajasthan Royals,1
+65,Rahul Chahar   4 0 26 2 0 0 6.50,Punjab Kings,Rajasthan Royals,1
+65,Harpreet Brar   1 0 10 0 0 0 10.00,Punjab Kings,Rajasthan Royals,1
+67,N Thushara   4 0 28 3 0 2 7.00,Mumbai,Lucknow Super Giants,1
+67,Arjun Tendulkar   2.2 0 22 0 0 1 9.40,Mumbai,Lucknow Super Giants,1
+67,Anshul Kamboj   3 0 48 0 0 4 16.00,Mumbai,Lucknow Super Giants,1
+67,Chawla   4 0 29 3 0 0 7.20,Mumbai,Lucknow Super Giants,1
+67,Nehal Wadhera   2 0 13 0 0 0 6.50,Mumbai,Lucknow Super Giants,1
+67,Hardik Pandya (c)   2 0 27 0 0 0 13.50,Mumbai,Lucknow Super Giants,1
+67,Naman Dhir   0.4 0 17 0 0 0 25.50,Mumbai,Lucknow Super Giants,1
+67,Romario Shepherd   2 0 30 0 0 4 15.00,Mumbai,Lucknow Super Giants,1
+68,Tushar Deshpande   4 0 49 1 0 4 12.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+68,Thakur   4 0 61 2 0 0 15.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+68,M Theekshana   4 0 25 0 0 1 6.20,Chennai Super Kings,Royal Challengers Bengaluru,1
+68,Santner   4 0 23 1 0 0 5.80,Chennai Super Kings,Royal Challengers Bengaluru,1
+68,Ravindra Jadeja   3 0 40 0 0 0 13.30,Chennai Super Kings,Royal Challengers Bengaluru,1
+68,Simarjeet Singh   1 0 19 0 0 2 19.00,Chennai Super Kings,Royal Challengers Bengaluru,1
+69,Bhuvneshwar   4 0 36 0 0 0 9.00,Sunrisers Hyderabad,Punjab Kings,1
+69,Cummins (c)   4 0 36 1 0 0 9.00,Sunrisers Hyderabad,Punjab Kings,1
+69,T Natarajan   4 0 33 2 0 2 8.20,Sunrisers Hyderabad,Punjab Kings,1
+69,V Viyaskanth   4 0 37 1 0 0 9.20,Sunrisers Hyderabad,Punjab Kings,1
+69,Shahbaz Ahmed   1 0 13 0 0 0 13.00,Sunrisers Hyderabad,Punjab Kings,1
+69,Nitish Reddy   3 0 54 0 1 2 18.00,Sunrisers Hyderabad,Punjab Kings,1
+71,Starc   4 0 34 3 0 1 8.50,Kolkata Knight Riders,Sunrisers Hyderabad,1
+71,Vaibhav Arora   2 0 17 1 1 2 8.50,Kolkata Knight Riders,Sunrisers Hyderabad,1
+71,Harshit Rana   4 0 27 1 0 1 6.80,Kolkata Knight Riders,Sunrisers Hyderabad,1
+71,Narine   4 0 40 1 0 0 10.00,Kolkata Knight Riders,Sunrisers Hyderabad,1
+71,Russell   1.3 0 15 1 0 0 10.00,Kolkata Knight Riders,Sunrisers Hyderabad,1
+71,Chakaravarthy   4 0 26 2 1 1 6.50,Kolkata Knight Riders,Sunrisers Hyderabad,1
+72,Boult   4 0 16 1 0 0 4.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+72,Sandeep Sharma   4 0 48 1 0 0 12.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+72,Avesh Khan   4 0 44 3 0 0 11.00,Rajasthan Royals,Royal Challengers Bengaluru,1
+72,Ashwin   4 0 19 2 0 2 4.80,Rajasthan Royals,Royal Challengers Bengaluru,1
+72,Chahal   4 0 43 1 0 0 10.80,Rajasthan Royals,Royal Challengers Bengaluru,1
+73,Boult   4 0 45 3 0 2 11.20,Rajasthan Royals,Sunrisers Hyderabad,1
+73,Ashwin   4 0 43 0 0 0 10.80,Rajasthan Royals,Sunrisers Hyderabad,1
+73,Sandeep Sharma   4 0 25 2 0 1 6.20,Rajasthan Royals,Sunrisers Hyderabad,1
+73,Avesh Khan   4 0 27 3 0 2 6.80,Rajasthan Royals,Sunrisers Hyderabad,1
+73,Chahal   4 0 34 0 0 2 8.50,Rajasthan Royals,Sunrisers Hyderabad,1
+74,Starc   3 0 14 2 0 0 4.70,Kolkata Knight Riders,Sunrisers Hyderabad,1
+74,Vaibhav Arora   3 0 24 1 0 4 8.00,Kolkata Knight Riders,Sunrisers Hyderabad,1
+74,Harshit Rana   4 1 24 2 0 1 6.00,Kolkata Knight Riders,Sunrisers Hyderabad,1
+74,Narine   4 0 16 1 0 0 4.00,Kolkata Knight Riders,Sunrisers Hyderabad,1
+74,Russell   2.3 0 19 3 0 1 7.60,Kolkata Knight Riders,Sunrisers Hyderabad,1
+74,Chakaravarthy   2 0 9 1 0 0 4.50,Kolkata Knight Riders,Sunrisers Hyderabad,1
+1,Mohammed Siraj   4 0 38 0 0 1 9.50,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Yash Dayal   3 0 28 1 0 0 9.30,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Alzarri Joseph   3.4 0 38 0 0 4 10.40,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Karn Sharma   2 0 24 1 0 0 12.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Mayank Dagar   2 0 6 0 0 0 3.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Cameron Green   3 0 27 2 0 3 9.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+1,Glenn Maxwell   1 0 7 0 0 0 7.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+2,Khaleel Ahmed   4 0 43 2 0 0 10.80,Delhi Capitals,Punjab Kings,2
+2,Ishant Sharma   2 0 16 1 0 3 8.00,Delhi Capitals,Punjab Kings,2
+2,Mitchell Marsh   4 0 52 0 0 1 13.00,Delhi Capitals,Punjab Kings,2
+2,Axar Patel   4 0 25 0 0 0 6.20,Delhi Capitals,Punjab Kings,2
+2,Kuldeep Yadav   4 0 20 2 0 0 5.00,Delhi Capitals,Punjab Kings,2
+2,Sumit Kumar   1.2 0 19 0 0 2 14.20,Delhi Capitals,Punjab Kings,2
+3,Mitchell Starc   4 0 53 0 0 6 13.20,Kolkata Knight Riders,Sunrisers Hyderabad,2
+3,Harshit Rana   4 0 33 3 0 0 8.20,Kolkata Knight Riders,Sunrisers Hyderabad,2
+3,Varun Chakaravarthy   4 0 55 1 0 0 13.80,Kolkata Knight Riders,Sunrisers Hyderabad,2
+3,Sunil Narine   4 0 19 1 0 0 4.80,Kolkata Knight Riders,Sunrisers Hyderabad,2
+3,Andre Russell   2 0 25 2 0 0 12.50,Kolkata Knight Riders,Sunrisers Hyderabad,2
+3,Suyash Sharma   2 0 18 0 0 0 9.00,Kolkata Knight Riders,Sunrisers Hyderabad,2
+4,Trent Boult   4 0 35 2 0 0 8.80,Rajasthan Royals,Lucknow Super Giants,2
+4,Nandre Burger   3 0 30 1 0 0 10.00,Rajasthan Royals,Lucknow Super Giants,2
+4,Ravichandran Ashwin   4 0 35 1 0 5 8.80,Rajasthan Royals,Lucknow Super Giants,2
+4,Avesh Khan   3 0 21 0 0 2 7.00,Rajasthan Royals,Lucknow Super Giants,2
+4,Yuzvendra Chahal   3 0 25 1 0 1 8.30,Rajasthan Royals,Lucknow Super Giants,2
+4,Sandeep Sharma   3 0 22 1 0 1 7.30,Rajasthan Royals,Lucknow Super Giants,2
+5,Azmatullah Omarzai   3 0 27 2 0 2 9.00,Gujarat Titans,Mumbai,2
+5,Umesh Yadav   3 0 31 2 0 0 10.30,Gujarat Titans,Mumbai,2
+5,Rashid Khan   4 0 23 0 0 0 5.80,Gujarat Titans,Mumbai,2
+5,Ravisrinivasan Sai Kishore   4 0 24 1 0 0 6.00,Gujarat Titans,Mumbai,2
+5,Spencer Johnson   2 0 25 2 0 0 12.50,Gujarat Titans,Mumbai,2
+5,Mohit Sharma   4 0 32 2 0 1 8.00,Gujarat Titans,Mumbai,2
+6,Sam Curran   3 0 30 1 0 0 10.00,Punjab Kings,Royal Challengers Bengaluru,2
+6,Arshdeep Singh   3.2 0 40 0 0 3 12.00,Punjab Kings,Royal Challengers Bengaluru,2
+6,Kagiso Rabada   4 0 23 2 0 1 5.80,Punjab Kings,Royal Challengers Bengaluru,2
+6,Harpreet Brar   4 0 13 2 0 0 3.20,Punjab Kings,Royal Challengers Bengaluru,2
+6,Harshal Patel   4 0 45 1 0 3 11.20,Punjab Kings,Royal Challengers Bengaluru,2
+6,Rahul Chahar   1 0 16 0 0 0 16.00,Punjab Kings,Royal Challengers Bengaluru,2
+7,Deepak Chahar   4 0 28 2 0 3 7.00,Chennai Super Kings,Gujarat Titans,2
+7,Mustafizur Rahman   4 0 30 2 0 0 7.50,Chennai Super Kings,Gujarat Titans,2
+7,Tushar Deshpande   4 0 21 2 0 0 5.20,Chennai Super Kings,Gujarat Titans,2
+7,Ravindra Jadeja   2 0 15 0 0 0 7.50,Chennai Super Kings,Gujarat Titans,2
+7,Daryl Mitchell   2 0 18 1 0 1 9.00,Chennai Super Kings,Gujarat Titans,2
+7,Matheesha Pathirana   4 0 29 1 0 5 7.20,Chennai Super Kings,Gujarat Titans,2
+8,Bhuvneshwar Kumar   4 0 53 0 0 0 13.20,Sunrisers Hyderabad,Mumbai,2
+8,Jaydev Unadkat   4 0 47 2 0 2 11.80,Sunrisers Hyderabad,Mumbai,2
+8,Shahbaz Ahmed   3 0 39 1 0 0 13.00,Sunrisers Hyderabad,Mumbai,2
+8,Pat Cummins (c)   4 0 35 2 0 1 8.80,Sunrisers Hyderabad,Mumbai,2
+8,Umran Malik   1 0 15 0 0 1 15.00,Sunrisers Hyderabad,Mumbai,2
+8,Mayank Markande   4 0 52 0 1 1 13.00,Sunrisers Hyderabad,Mumbai,2
+9,Trent Boult   3 0 29 0 0 0 9.70,Rajasthan Royals,Delhi Capitals,2
+9,Nandre Burger   3 0 29 2 0 0 9.70,Rajasthan Royals,Delhi Capitals,2
+9,Ravichandran Ashwin   3 0 30 0 0 1 10.00,Rajasthan Royals,Delhi Capitals,2
+9,Avesh Khan   4 0 29 1 0 1 7.20,Rajasthan Royals,Delhi Capitals,2
+9,Yuzvendra Chahal   3 0 19 2 0 0 6.30,Rajasthan Royals,Delhi Capitals,2
+9,Sandeep Sharma   4 0 36 0 0 2 9.00,Rajasthan Royals,Delhi Capitals,2
+10,Mohammed Siraj   3 0 46 0 0 2 15.30,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+10,Yash Dayal   4 0 46 1 0 6 11.50,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+10,Alzarri Joseph   2 0 34 0 0 0 17.00,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+10,Mayank Dagar   2.5 0 23 1 0 0 8.10,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+10,Vijaykumar Vyshak   4 0 23 1 0 0 5.80,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+10,Cameron Green   1 0 7 0 0 0 7.00,Royal Challengers Bengaluru,Kolkata Knight Riders,2
+11,Manimaran Siddharth   2 0 21 0 0 0 10.50,Lucknow Super Giants,Punjab Kings,2
+11,Naveen-ul-Haq   4 0 43 0 0 1 10.80,Lucknow Super Giants,Punjab Kings,2
+11,Mohsin Khan   4 0 34 2 0 1 8.50,Lucknow Super Giants,Punjab Kings,2
+11,Krunal Pandya   3 0 26 0 0 0 8.70,Lucknow Super Giants,Punjab Kings,2
+11,Ravi Bishnoi   3 0 25 0 0 0 8.30,Lucknow Super Giants,Punjab Kings,2
+11,Mayank Yadav   4 0 27 3 0 0 6.80,Lucknow Super Giants,Punjab Kings,2
+12,Bhuvneshwar Kumar   4 0 27 0 0 1 6.80,Sunrisers Hyderabad,Gujarat Titans,2
+12,Shahbaz Ahmed   2 0 20 1 0 0 10.00,Sunrisers Hyderabad,Gujarat Titans,2
+12,Jaydev Unadkat   3.1 0 33 0 0 0 10.40,Sunrisers Hyderabad,Gujarat Titans,2
+12,Washington Sundar   3 0 27 0 0 0 9.00,Sunrisers Hyderabad,Gujarat Titans,2
+12,Mayank Markande   3 0 33 1 0 2 11.00,Sunrisers Hyderabad,Gujarat Titans,2
+12,Pat Cummins (c)   4 0 28 1 0 1 7.00,Sunrisers Hyderabad,Gujarat Titans,2
+13,Khaleel Ahmed   4 1 21 2 0 4 5.20,Delhi Capitals,Chennai Super Kings,2
+13,Ishant Sharma   3 0 23 0 1 1 7.70,Delhi Capitals,Chennai Super Kings,2
+13,Anrich Nortje   4 0 43 0 0 1 10.80,Delhi Capitals,Chennai Super Kings,2
+13,Axar Patel   3 0 20 1 0 0 6.70,Delhi Capitals,Chennai Super Kings,2
+13,Rasikh Dar Salam   2 0 25 0 0 0 12.50,Delhi Capitals,Chennai Super Kings,2
+13,Mitchell Marsh   1 0 14 0 0 1 14.00,Delhi Capitals,Chennai Super Kings,2
+13,Mukesh Kumar   3 0 21 3 0 1 7.00,Delhi Capitals,Chennai Super Kings,2
+14,Kwena Maphaka   2 0 23 1 0 0 11.50,Mumbai,Rajasthan Royals,2
+14,Jasprit Bumrah   4 0 26 0 0 9 6.50,Mumbai,Rajasthan Royals,2
+14,Akash Madhwal   4 0 20 3 0 1 5.00,Mumbai,Rajasthan Royals,2
+14,Gerald Coetzee   2.3 0 36 0 0 0 14.40,Mumbai,Rajasthan Royals,2
+14,Piyush Chawla   3 0 18 0 0 0 6.00,Mumbai,Rajasthan Royals,2
+15,Manimaran Siddharth   3 0 21 1 0 0 7.00,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Krunal Pandya   1 0 10 0 0 0 10.00,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Naveen-ul-Haq   3.4 0 25 2 0 1 6.80,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Mayank Yadav   4 0 14 3 0 0 3.50,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Ravi Bishnoi   3 0 33 0 0 2 11.00,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Yash Thakur   4 0 38 1 0 0 9.50,Lucknow Super Giants,Royal Challengers Bengaluru,2
+15,Marcus Stoinis   1 0 9 1 0 5 9.00,Lucknow Super Giants,Royal Challengers Bengaluru,2
+16,Mitchell Starc   3 0 25 2 0 0 8.30,Kolkata Knight Riders,Delhi Capitals,2
+16,Vaibhav Arora   4 0 27 3 0 3 6.80,Kolkata Knight Riders,Delhi Capitals,2
+16,Andre Russell   1.2 0 14 1 0 0 10.50,Kolkata Knight Riders,Delhi Capitals,2
+16,Sunil Narine   4 0 29 1 0 0 7.20,Kolkata Knight Riders,Delhi Capitals,2
+16,Varun Chakaravarthy   4 0 33 3 1 2 8.20,Kolkata Knight Riders,Delhi Capitals,2
+16,Venkatesh Iyer   1 0 28 0 0 0 28.00,Kolkata Knight Riders,Delhi Capitals,2
+17,Azmatullah Omarzai   4 0 41 1 0 1 10.20,Gujarat Titans,Punjab Kings,2
+17,Umesh Yadav   3 0 35 1 0 0 11.70,Gujarat Titans,Punjab Kings,2
+17,Rashid Khan   4 0 40 1 0 0 10.00,Gujarat Titans,Punjab Kings,2
+17,Noor Ahmad   4 0 32 2 0 3 8.00,Gujarat Titans,Punjab Kings,2
+17,Mohit Sharma   4 0 38 1 0 0 9.50,Gujarat Titans,Punjab Kings,2
+17,Darshan Nalkande   0.5 0 6 1 0 1 7.20,Gujarat Titans,Punjab Kings,2
+18,Deepak Chahar   3.1 0 32 1 0 0 10.10,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Mukesh Choudhary   1 0 27 0 1 0 27.00,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Maheesh Theekshana   4 0 27 1 0 0 6.80,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Tushar Deshpande   2 0 20 0 0 0 10.00,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Ravindra Jadeja   4 0 30 0 0 0 7.50,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Moeen Ali   3 0 23 2 0 1 7.70,Chennai Super Kings,Sunrisers Hyderabad,2
+18,Rachin Ravindra   1 0 3 0 0 0 3.00,Chennai Super Kings,Sunrisers Hyderabad,2
+19,Reece Topley   4 0 27 2 0 1 6.80,Royal Challengers Bengaluru,Rajasthan Royals,2
+19,Yash Dayal   4 0 37 1 0 0 9.20,Royal Challengers Bengaluru,Rajasthan Royals,2
+19,Mohammed Siraj   4 0 35 1 0 1 8.80,Royal Challengers Bengaluru,Rajasthan Royals,2
+19,Mayank Dagar   2 0 34 0 0 0 17.00,Royal Challengers Bengaluru,Rajasthan Royals,2
+19,Cameron Green   3.1 0 27 0 0 1 8.50,Royal Challengers Bengaluru,Rajasthan Royals,2
+19,Himanshu Sharma   2 0 29 0 0 0 14.50,Royal Challengers Bengaluru,Rajasthan Royals,2
+20,Gerald Coetzee   4 0 34 4 0 0 8.50,Mumbai,Delhi Capitals,2
+20,Jasprit Bumrah   4 0 22 2 0 0 5.50,Mumbai,Delhi Capitals,2
+20,Akash Madhwal   4 0 45 0 1 0 11.20,Mumbai,Delhi Capitals,2
+20,Romario Shepherd   4 0 54 1 0 1 13.50,Mumbai,Delhi Capitals,2
+20,Mohammad Nabi   2 0 17 0 0 0 8.50,Mumbai,Delhi Capitals,2
+20,Piyush Chawla   2 0 32 0 0 0 16.00,Mumbai,Delhi Capitals,2
+21,Manimaran Siddharth   4 0 29 0 3 2 7.20,Lucknow Super Giants,Gujarat Titans,2
+21,Naveen-ul-Haq   4 0 37 1 1 1 9.20,Lucknow Super Giants,Gujarat Titans,2
+21,Mayank Yadav   1 0 13 0 0 0 13.00,Lucknow Super Giants,Gujarat Titans,2
+21,Yash Thakur   3.5 1 30 5 0 2 7.80,Lucknow Super Giants,Gujarat Titans,2
+21,Krunal Pandya   4 0 11 3 0 0 2.80,Lucknow Super Giants,Gujarat Titans,2
+21,Ravi Bishnoi   2 0 8 1 0 1 4.00,Lucknow Super Giants,Gujarat Titans,2
+22,Mitchell Starc   3 0 29 0 0 2 9.70,Kolkata Knight Riders,Chennai Super Kings,2
+22,Vaibhav Arora   4 0 28 2 0 0 7.00,Kolkata Knight Riders,Chennai Super Kings,2
+22,Anukul Roy   1.4 0 18 0 0 0 10.80,Kolkata Knight Riders,Chennai Super Kings,2
+22,Sunil Narine   4 0 30 1 0 0 7.50,Kolkata Knight Riders,Chennai Super Kings,2
+22,Varun Chakaravarthy   4 0 26 0 0 0 6.50,Kolkata Knight Riders,Chennai Super Kings,2
+22,Andre Russell   1 0 8 0 0 1 8.00,Kolkata Knight Riders,Chennai Super Kings,2
+23,Bhuvneshwar Kumar   4 1 32 2 0 2 8.00,Sunrisers Hyderabad,Punjab Kings,2
+23,Pat Cummins (c)   4 0 22 1 0 0 5.50,Sunrisers Hyderabad,Punjab Kings,2
+23,T Natarajan   4 0 33 1 0 0 8.20,Sunrisers Hyderabad,Punjab Kings,2
+23,Nitish Reddy   3 0 33 1 0 1 11.00,Sunrisers Hyderabad,Punjab Kings,2
+23,Jaydev Unadkat   4 0 49 1 0 3 12.20,Sunrisers Hyderabad,Punjab Kings,2
+23,Shahbaz Ahmed   1 0 10 0 0 0 10.00,Sunrisers Hyderabad,Punjab Kings,2
+24,Trent Boult   2 0 8 0 0 0 4.00,Rajasthan Royals,Gujarat Titans,2
+24,Avesh Khan   4 0 48 1 0 2 12.00,Rajasthan Royals,Gujarat Titans,2
+24,Keshav Maharaj   2 0 16 0 0 0 8.00,Rajasthan Royals,Gujarat Titans,2
+24,Ravichandran Ashwin   4 0 40 0 0 0 10.00,Rajasthan Royals,Gujarat Titans,2
+24,Yuzvendra Chahal   4 0 43 2 0 1 10.80,Rajasthan Royals,Gujarat Titans,2
+24,Kuldeep Sen   4 0 41 3 1 4 10.20,Rajasthan Royals,Gujarat Titans,2
+25,Reece Topley   3 0 34 0 0 1 11.30,Royal Challengers Bengaluru,Mumbai,2
+25,Mohammed Siraj   3 0 37 0 0 0 12.30,Royal Challengers Bengaluru,Mumbai,2
+25,Akash Deep   3.3 0 55 1 0 2 15.70,Royal Challengers Bengaluru,Mumbai,2
+25,Glenn Maxwell   1 0 17 0 0 0 17.00,Royal Challengers Bengaluru,Mumbai,2
+25,Vijaykumar Vyshak   3 0 32 1 0 0 10.70,Royal Challengers Bengaluru,Mumbai,2
+25,Will Jacks   2 0 24 1 0 0 12.00,Royal Challengers Bengaluru,Mumbai,2
+26,Arshad Khan   3.1 0 34 0 0 0 10.70,Lucknow Super Giants,Delhi Capitals,2
+26,Naveen-ul-Haq   3 0 24 1 0 0 8.00,Lucknow Super Giants,Delhi Capitals,2
+26,Yash Thakur   4 0 31 1 0 0 7.80,Lucknow Super Giants,Delhi Capitals,2
+26,Krunal Pandya   3 0 45 0 0 7 15.00,Lucknow Super Giants,Delhi Capitals,2
+26,Ravi Bishnoi   4 0 25 2 0 0 6.20,Lucknow Super Giants,Delhi Capitals,2
+26,Marcus Stoinis   1 0 10 0 0 0 10.00,Lucknow Super Giants,Delhi Capitals,2
+27,Arshdeep Singh   3.5 0 45 1 0 1 11.70,Punjab Kings,Rajasthan Royals,2
+27,Kagiso Rabada   4 0 18 2 0 0 4.50,Punjab Kings,Rajasthan Royals,2
+27,Sam Curran (c)   4 0 25 2 0 1 6.20,Punjab Kings,Rajasthan Royals,2
+27,Liam Livingstone   3 0 21 1 0 1 7.00,Punjab Kings,Rajasthan Royals,2
+27,Harshal Patel   2 0 21 1 0 0 10.50,Punjab Kings,Rajasthan Royals,2
+27,Harpreet Brar   3 0 22 0 0 0 7.30,Punjab Kings,Rajasthan Royals,2
+28,Shamar Joseph   4 0 47 0 3 7 11.80,Lucknow Super Giants,Kolkata Knight Riders,2
+28,Mohsin Khan   4 0 29 2 0 1 7.20,Lucknow Super Giants,Kolkata Knight Riders,2
+28,Krunal Pandya   1 0 14 0 0 0 14.00,Lucknow Super Giants,Kolkata Knight Riders,2
+28,Yash Thakur   2 0 25 0 0 1 12.50,Lucknow Super Giants,Kolkata Knight Riders,2
+28,Arshad Khan   2 0 24 0 0 2 12.00,Lucknow Super Giants,Kolkata Knight Riders,2
+28,Ravi Bishnoi   2.4 0 17 0 0 2 6.40,Lucknow Super Giants,Kolkata Knight Riders,2
+29,Tushar Deshpande   4 0 29 1 0 0 7.20,Chennai Super Kings,Mumbai,2
+29,Mustafizur Rahman   4 0 55 1 0 3 13.80,Chennai Super Kings,Mumbai,2
+29,Shardul Thakur   4 0 35 0 0 0 8.80,Chennai Super Kings,Mumbai,2
+29,Ravindra Jadeja   4 0 37 0 0 0 9.20,Chennai Super Kings,Mumbai,2
+29,Matheesha Pathirana   4 0 28 4 0 2 7.00,Chennai Super Kings,Mumbai,2
+30,Abhishek Sharma   1 0 10 0 0 0 10.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,Bhuvneshwar Kumar   4 0 60 0 0 4 15.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,Shahbaz Ahmed   1 0 18 0 0 0 18.00,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,T Natarajan   4 0 47 1 0 4 11.80,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,Pat Cummins (c)   4 0 43 3 0 1 10.80,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,Mayank Markande   4 0 46 2 0 3 11.50,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+30,Jaydev Unadkat   2 0 37 0 0 1 18.50,Sunrisers Hyderabad,Royal Challengers Bengaluru,2
+31,Mitchell Starc   4 0 50 0 0 9 12.50,Kolkata Knight Riders,Rajasthan Royals,2
+31,Vaibhav Arora   3 0 45 1 1 0 15.00,Kolkata Knight Riders,Rajasthan Royals,2
+31,Harshit Rana   4 0 45 2 0 1 11.20,Kolkata Knight Riders,Rajasthan Royals,2
+31,Sunil Narine   4 0 30 2 0 3 7.50,Kolkata Knight Riders,Rajasthan Royals,2
+31,Varun Chakaravarthy   4 0 36 2 0 1 9.00,Kolkata Knight Riders,Rajasthan Royals,2
+31,Andre Russell   1 0 17 0 0 0 17.00,Kolkata Knight Riders,Rajasthan Royals,2
+32,Sandeep Warrier   3 0 40 2 0 0 13.30,Gujarat Titans,Delhi Capitals,2
+32,Spencer Johnson   2 0 22 1 0 2 11.00,Gujarat Titans,Delhi Capitals,2
+32,Rashid Khan   2 0 12 1 0 0 6.00,Gujarat Titans,Delhi Capitals,2
+32,Noor Ahmad   1.5 0 14 0 0 0 7.60,Gujarat Titans,Delhi Capitals,2
+33,Gerald Coetzee   4 0 32 3 0 6 8.00,Mumbai,Punjab Kings,2
+33,Jasprit Bumrah   4 0 21 3 1 1 5.20,Mumbai,Punjab Kings,2
+33,Akash Madhwal   3.1 0 46 1 1 4 14.50,Mumbai,Punjab Kings,2
+33,Hardik Pandya (c)   4 0 33 1 0 3 8.20,Mumbai,Punjab Kings,2
+33,Shreyas Gopal   2 0 26 1 0 0 13.00,Mumbai,Punjab Kings,2
+33,Romario Shepherd   2 0 20 0 0 0 10.00,Mumbai,Punjab Kings,2
+34,Deepak Chahar   3 0 26 0 0 0 8.70,Chennai Super Kings,Lucknow Super Giants,2
+34,Tushar Deshpande   4 0 42 0 1 4 10.50,Chennai Super Kings,Lucknow Super Giants,2
+34,Mustafizur Rahman   4 0 43 1 0 2 10.80,Chennai Super Kings,Lucknow Super Giants,2
+34,Ravindra Jadeja   3 0 32 0 0 1 10.70,Chennai Super Kings,Lucknow Super Giants,2
+34,Matheesha Pathirana   4 0 29 1 0 2 7.20,Chennai Super Kings,Lucknow Super Giants,2
+34,Moeen Ali   1 0 5 0 0 0 5.00,Chennai Super Kings,Lucknow Super Giants,2
+35,Washington Sundar   2 0 46 1 0 0 23.00,Sunrisers Hyderabad,Delhi Capitals,2
+35,Bhuvneshwar Kumar   4 0 33 1 0 3 8.20,Sunrisers Hyderabad,Delhi Capitals,2
+35,Pat Cummins (c)   4 0 35 0 0 0 8.80,Sunrisers Hyderabad,Delhi Capitals,2
+35,T Natarajan   4 1 19 4 0 1 4.80,Sunrisers Hyderabad,Delhi Capitals,2
+35,Mayank Markande   2 0 26 2 0 2 13.00,Sunrisers Hyderabad,Delhi Capitals,2
+35,Shahbaz Ahmed   1 0 22 0 0 0 22.00,Sunrisers Hyderabad,Delhi Capitals,2
+35,Nitish Reddy   2.1 0 17 2 0 1 7.80,Sunrisers Hyderabad,Delhi Capitals,2
+36,Harshit Rana   4 0 33 2 0 1 8.20,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+36,Mitchell Starc   3 0 55 1 0 1 18.30,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+36,Varun Chakaravarthy   4 0 36 1 0 0 9.00,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+36,Sunil Narine   4 0 34 2 0 0 8.50,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+36,Suyash Sharma   2 0 33 0 0 1 16.50,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+36,Andre Russell   3 0 25 3 0 1 8.30,Kolkata Knight Riders,Royal Challengers Bengaluru,2
+37,Kagiso Rabada   4 0 40 0 0 0 10.00,Punjab Kings,Gujarat Titans,2
+37,Arshdeep Singh   2.1 0 17 1 0 0 7.80,Punjab Kings,Gujarat Titans,2
+37,Harshal Patel   3 0 15 3 0 0 5.00,Punjab Kings,Gujarat Titans,2
+37,Sam Curran (c)   2 0 18 1 0 0 9.00,Punjab Kings,Gujarat Titans,2
+37,Harpreet Brar   4 0 35 0 0 0 8.80,Punjab Kings,Gujarat Titans,2
+37,Liam Livingstone   4 0 19 2 0 1 4.80,Punjab Kings,Gujarat Titans,2
+38,Hardik Pandya (c)   2 0 21 0 0 0 10.50,Mumbai,Rajasthan Royals,2
+38,Jasprit Bumrah   4 0 37 0 1 1 9.20,Mumbai,Rajasthan Royals,2
+38,Nuwan Thushara   3 0 28 0 0 0 9.30,Mumbai,Rajasthan Royals,2
+38,Gerald Coetzee   2 0 25 0 0 3 12.50,Mumbai,Rajasthan Royals,2
+38,Mohammad Nabi   3 0 30 0 0 0 10.00,Mumbai,Rajasthan Royals,2
+38,Piyush Chawla   4 0 33 1 0 0 8.20,Mumbai,Rajasthan Royals,2
+38,Tilak Varma   0.4 0 8 0 0 0 12.00,Mumbai,Rajasthan Royals,2
+39,Deepak Chahar   2 0 11 1 0 0 5.50,Chennai Super Kings,Lucknow Super Giants,2
+39,Tushar Deshpande   3 0 34 0 1 0 11.30,Chennai Super Kings,Lucknow Super Giants,2
+39,Mustafizur Rahman   3.3 0 51 1 1 0 14.60,Chennai Super Kings,Lucknow Super Giants,2
+39,Shardul Thakur   3 0 42 0 0 1 14.00,Chennai Super Kings,Lucknow Super Giants,2
+39,Moeen Ali   2 0 21 0 0 0 10.50,Chennai Super Kings,Lucknow Super Giants,2
+39,Ravindra Jadeja   2 0 16 0 1 0 8.00,Chennai Super Kings,Lucknow Super Giants,2
+39,Matheesha Pathirana   4 0 35 2 0 2 8.80,Chennai Super Kings,Lucknow Super Giants,2
+40,Khaleel Ahmed   2 0 26 0 0 1 13.00,Delhi Capitals,Gujarat Titans,2
+40,Anrich Nortje   3 0 48 1 0 0 16.00,Delhi Capitals,Gujarat Titans,2
+40,Rasikh Dar Salam   4 0 44 3 0 1 11.00,Delhi Capitals,Gujarat Titans,2
+40,Mukesh Kumar   4 0 41 1 1 0 10.20,Delhi Capitals,Gujarat Titans,2
+40,Axar Patel   3 0 28 1 0 0 9.30,Delhi Capitals,Gujarat Titans,2
+40,Kuldeep Yadav   4 0 29 2 0 1 7.20,Delhi Capitals,Gujarat Titans,2
+41,Will Jacks   2 0 23 1 0 0 11.50,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Mohammed Siraj   4 0 20 0 0 2 5.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Yash Dayal   3 0 18 1 0 3 6.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Swapnil Singh   3 0 40 2 1 0 13.30,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Karn Sharma   4 0 29 2 0 2 7.20,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Lockie Ferguson   2 0 28 0 0 0 14.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+41,Cameron Green   2 0 12 2 0 1 6.00,Royal Challengers Bengaluru,Sunrisers Hyderabad,2
+42,Dushmantha Chameera   3 0 48 0 0 1 16.00,Kolkata Knight Riders,Punjab Kings,2
+42,Harshit Rana   4 0 61 0 0 1 15.20,Kolkata Knight Riders,Punjab Kings,2
+42,Anukul Roy   2 0 36 0 0 0 18.00,Kolkata Knight Riders,Punjab Kings,2
+42,Sunil Narine   4 0 24 1 0 0 6.00,Kolkata Knight Riders,Punjab Kings,2
+42,Varun Chakaravarthy   3 0 46 0 0 0 15.30,Kolkata Knight Riders,Punjab Kings,2
+42,Andre Russell   2 0 36 0 0 2 18.00,Kolkata Knight Riders,Punjab Kings,2
+42,Ramandeep Singh   0.4 0 9 0 0 0 13.50,Kolkata Knight Riders,Punjab Kings,2
+43,Lizaad Williams   3 0 34 0 1 8 11.30,Delhi Capitals,Mumbai,2
+43,Khaleel Ahmed   4 0 45 2 0 0 11.20,Delhi Capitals,Mumbai,2
+43,Mukesh Kumar   4 0 59 3 0 0 14.80,Delhi Capitals,Mumbai,2
+43,Kuldeep Yadav   3 0 47 0 0 1 15.70,Delhi Capitals,Mumbai,2
+43,Axar Patel   2 0 24 0 0 0 12.00,Delhi Capitals,Mumbai,2
+43,Rasikh Dar Salam   4 0 34 3 0 3 8.50,Delhi Capitals,Mumbai,2
+44,Matt Henry   3 0 32 0 0 0 10.70,Lucknow Super Giants,Rajasthan Royals,2
+44,Mohsin Khan   4 0 52 0 0 0 13.00,Lucknow Super Giants,Rajasthan Royals,2
+44,Yash Thakur   4 0 50 1 0 2 12.50,Lucknow Super Giants,Rajasthan Royals,2
+44,Marcus Stoinis   1 0 3 1 0 0 3.00,Lucknow Super Giants,Rajasthan Royals,2
+44,Krunal Pandya   4 0 24 0 0 0 6.00,Lucknow Super Giants,Rajasthan Royals,2
+44,Amit Mishra   2 0 20 1 0 0 10.00,Lucknow Super Giants,Rajasthan Royals,2
+44,Ravi Bishnoi   1 0 16 0 0 0 16.00,Lucknow Super Giants,Rajasthan Royals,2
+45,Azmatullah Omarzai   2 0 18 0 0 0 9.00,Gujarat Titans,Royal Challengers Bengaluru,2
+45,Sandeep Warrier   1 0 15 0 0 2 15.00,Gujarat Titans,Royal Challengers Bengaluru,2
+45,Ravisrinivasan Sai Kishore   3 0 30 1 0 0 10.00,Gujarat Titans,Royal Challengers Bengaluru,2
+45,Rashid Khan   4 0 51 0 0 0 12.80,Gujarat Titans,Royal Challengers Bengaluru,2
+45,Noor Ahmad   4 0 43 0 0 1 10.80,Gujarat Titans,Royal Challengers Bengaluru,2
+45,Mohit Sharma   2 0 41 0 1 0 20.50,Gujarat Titans,Royal Challengers Bengaluru,2
+46,Deepak Chahar   3 0 22 0 0 0 7.30,Chennai Super Kings,Sunrisers Hyderabad,2
+46,Tushar Deshpande   3 0 27 4 0 0 9.00,Chennai Super Kings,Sunrisers Hyderabad,2
+46,Mustafizur Rahman   2.5 0 19 2 0 0 6.70,Chennai Super Kings,Sunrisers Hyderabad,2
+46,Ravindra Jadeja   4 0 22 1 0 0 5.50,Chennai Super Kings,Sunrisers Hyderabad,2
+46,Shardul Thakur   4 0 27 1 1 0 6.80,Chennai Super Kings,Sunrisers Hyderabad,2
+46,Matheesha Pathirana   2 0 17 2 0 2 8.50,Chennai Super Kings,Sunrisers Hyderabad,2
+47,Lizaad Williams   3 0 38 1 1 1 12.70,Delhi Capitals,Kolkata Knight Riders,2
+47,Khaleel Ahmed   3 0 28 0 0 0 9.30,Delhi Capitals,Kolkata Knight Riders,2
+47,Rasikh Dar Salam   2.3 0 30 0 0 0 12.00,Delhi Capitals,Kolkata Knight Riders,2
+47,Axar Patel   4 0 25 2 0 0 6.20,Delhi Capitals,Kolkata Knight Riders,2
+47,Kuldeep Yadav   4 0 34 0 0 0 8.50,Delhi Capitals,Kolkata Knight Riders,2
+48,Nuwan Thushara   4 0 30 1 0 3 7.50,Mumbai,Lucknow Super Giants,2
+48,Jasprit Bumrah   4 0 17 0 0 0 4.20,Mumbai,Lucknow Super Giants,2
+48,Gerald Coetzee   3 0 29 1 0 3 9.70,Mumbai,Lucknow Super Giants,2
+48,Piyush Chawla   3 0 23 0 0 0 7.70,Mumbai,Lucknow Super Giants,2
+48,Hardik Pandya (c)   4 0 26 2 0 1 6.50,Mumbai,Lucknow Super Giants,2
+48,Mohammad Nabi   1.2 0 16 1 0 0 12.00,Mumbai,Lucknow Super Giants,2
+49,Deepak Chahar   0.2 0 4 0 0 0 12.00,Chennai Super Kings,Punjab Kings,2
+49,Shardul Thakur   3.4 0 48 1 1 1 13.10,Chennai Super Kings,Punjab Kings,2
+49,Richard Gleeson   3.5 0 30 1 1 1 7.80,Chennai Super Kings,Punjab Kings,2
+49,Mustafizur Rahman   4 1 22 0 0 5 5.50,Chennai Super Kings,Punjab Kings,2
+49,Ravindra Jadeja   3 0 22 0 0 0 7.30,Chennai Super Kings,Punjab Kings,2
+49,Moeen Ali   2 0 22 0 0 0 11.00,Chennai Super Kings,Punjab Kings,2
+49,Shivam Dube   1 0 14 1 0 0 14.00,Chennai Super Kings,Punjab Kings,2
+50,Bhuvneshwar Kumar   4 0 41 3 0 0 10.20,Sunrisers Hyderabad,Rajasthan Royals,2
+50,Marco Jansen   4 0 44 0 2 4 11.00,Sunrisers Hyderabad,Rajasthan Royals,2
+50,Pat Cummins (c)   4 0 34 2 0 0 8.50,Sunrisers Hyderabad,Rajasthan Royals,2
+50,T Natarajan   4 0 35 2 0 3 8.80,Sunrisers Hyderabad,Rajasthan Royals,2
+50,Jaydev Unadkat   2 0 23 0 0 2 11.50,Sunrisers Hyderabad,Rajasthan Royals,2
+50,Nitish Reddy   1 0 12 0 0 2 12.00,Sunrisers Hyderabad,Rajasthan Royals,2
+50,Shahbaz Ahmed   1 0 11 0 0 0 11.00,Sunrisers Hyderabad,Rajasthan Royals,2
+51,Vaibhav Arora   3 0 35 0 1 1 11.70,Kolkata Knight Riders,Mumbai,2
+51,Mitchell Starc   3.5 0 33 4 0 3 8.60,Kolkata Knight Riders,Mumbai,2
+51,Varun Chakaravarthy   4 0 22 2 0 0 5.50,Kolkata Knight Riders,Mumbai,2
+51,Sunil Narine   4 0 22 2 0 1 5.50,Kolkata Knight Riders,Mumbai,2
+51,Andre Russell   4 0 30 2 0 1 7.50,Kolkata Knight Riders,Mumbai,2
+52,Mohit Sharma   2 0 32 0 0 0 16.00,Gujarat Titans,Royal Challengers Bengaluru,2
+52,Joshua Little   4 0 45 4 0 1 11.20,Gujarat Titans,Royal Challengers Bengaluru,2
+52,Manav Suthar   2 0 26 0 0 0 13.00,Gujarat Titans,Royal Challengers Bengaluru,2
+52,Noor Ahmad   4 0 23 2 0 0 5.80,Gujarat Titans,Royal Challengers Bengaluru,2
+52,Rashid Khan   1.4 0 25 0 0 0 15.00,Gujarat Titans,Royal Challengers Bengaluru,2
+53,Mitchell Santner   3 0 10 1 0 0 3.30,Chennai Super Kings,Punjab Kings,2
+53,Tushar Deshpande   4 0 35 2 0 1 8.80,Chennai Super Kings,Punjab Kings,2
+53,Richard Gleeson   4 0 41 0 0 2 10.20,Chennai Super Kings,Punjab Kings,2
+53,Ravindra Jadeja   4 0 20 3 0 0 5.00,Chennai Super Kings,Punjab Kings,2
+53,Simarjeet Singh   3 0 16 2 0 0 5.30,Chennai Super Kings,Punjab Kings,2
+53,Shardul Thakur   2 0 12 1 0 1 6.00,Chennai Super Kings,Punjab Kings,2
+54,Vaibhav Arora   2 0 21 0 0 1 10.50,Kolkata Knight Riders,Lucknow Super Giants,2
+54,Mitchell Starc   2 0 22 1 0 0 11.00,Kolkata Knight Riders,Lucknow Super Giants,2
+54,Sunil Narine   4 0 22 1 0 1 5.50,Kolkata Knight Riders,Lucknow Super Giants,2
+54,Harshit Rana   3.1 0 24 3 0 1 7.60,Kolkata Knight Riders,Lucknow Super Giants,2
+54,Varun Chakaravarthy   3 0 30 3 0 0 10.00,Kolkata Knight Riders,Lucknow Super Giants,2
+54,Andre Russell   2 0 17 2 0 3 8.50,Kolkata Knight Riders,Lucknow Super Giants,2
+55,Bhuvneshwar Kumar   4 1 22 1 0 1 5.50,Sunrisers Hyderabad,Mumbai,2
+55,Marco Jansen   3 0 45 1 0 6 15.00,Sunrisers Hyderabad,Mumbai,2
+55,Pat Cummins (c)   4 1 35 1 0 1 8.80,Sunrisers Hyderabad,Mumbai,2
+55,T Natarajan   3.2 0 31 0 0 0 9.30,Sunrisers Hyderabad,Mumbai,2
+55,Nitish Reddy   2 0 16 0 0 0 8.00,Sunrisers Hyderabad,Mumbai,2
+55,Shahbaz Ahmed   1 0 11 0 0 0 11.00,Sunrisers Hyderabad,Mumbai,2
+56,Khaleel Ahmed   4 0 47 2 0 7 11.80,Delhi Capitals,Rajasthan Royals,2
+56,Ishant Sharma   3 0 34 0 0 1 11.30,Delhi Capitals,Rajasthan Royals,2
+56,Mukesh Kumar   3 0 30 2 0 1 10.00,Delhi Capitals,Rajasthan Royals,2
+56,Axar Patel   3 0 25 1 0 0 8.30,Delhi Capitals,Rajasthan Royals,2
+56,Kuldeep Yadav   4 0 25 2 1 0 6.20,Delhi Capitals,Rajasthan Royals,2
+56,Rasikh Dar Salam   3 0 36 1 0 1 12.00,Delhi Capitals,Rajasthan Royals,2
+57,Krishnappa Gowtham   2 0 29 0 0 1 14.50,Lucknow Super Giants,Sunrisers Hyderabad,2
+57,Yash Thakur   2.4 0 47 0 0 1 17.60,Lucknow Super Giants,Sunrisers Hyderabad,2
+57,Ravi Bishnoi   2 0 34 0 0 0 17.00,Lucknow Super Giants,Sunrisers Hyderabad,2
+57,Naveen-ul-Haq   2 0 37 0 0 0 18.50,Lucknow Super Giants,Sunrisers Hyderabad,2
+57,Ayush Badoni   1 0 19 0 0 0 19.00,Lucknow Super Giants,Sunrisers Hyderabad,2
+58,Swapnil Singh   3 0 28 2 0 0 9.30,Royal Challengers Bengaluru,Punjab Kings,2
+58,Mohammed Siraj   4 0 43 3 0 3 10.80,Royal Challengers Bengaluru,Punjab Kings,2
+58,Yash Dayal   2 0 22 0 0 1 11.00,Royal Challengers Bengaluru,Punjab Kings,2
+58,Lockie Ferguson   3 0 29 2 0 0 9.70,Royal Challengers Bengaluru,Punjab Kings,2
+58,Will Jacks   1 0 5 0 0 0 5.00,Royal Challengers Bengaluru,Punjab Kings,2
+58,Cameron Green   1 0 16 0 0 0 16.00,Royal Challengers Bengaluru,Punjab Kings,2
+58,Karn Sharma   3 0 36 2 0 0 12.00,Royal Challengers Bengaluru,Punjab Kings,2
+59,Umesh Yadav   3 0 20 1 0 0 6.70,Gujarat Titans,Chennai Super Kings,2
+59,Sandeep Warrier   3 0 28 1 0 0 9.30,Gujarat Titans,Chennai Super Kings,2
+59,Kartik Tyagi   4 0 51 0 0 2 12.80,Gujarat Titans,Chennai Super Kings,2
+59,Noor Ahmad   2 0 25 0 0 0 12.50,Gujarat Titans,Chennai Super Kings,2
+59,Rashid Khan   4 0 38 2 0 0 9.50,Gujarat Titans,Chennai Super Kings,2
+59,Mohit Sharma   4 0 31 3 0 2 7.80,Gujarat Titans,Chennai Super Kings,2
+60,Vaibhav Arora   2 0 16 0 1 1 8.00,Kolkata Knight Riders,Mumbai,2
+60,Mitchell Starc   1 0 11 0 0 0 11.00,Kolkata Knight Riders,Mumbai,2
+60,Harshit Rana   3 0 34 2 0 1 11.30,Kolkata Knight Riders,Mumbai,2
+60,Sunil Narine   3 0 21 1 0 0 7.00,Kolkata Knight Riders,Mumbai,2
+60,Varun Chakaravarthy   4 0 17 2 0 1 4.20,Kolkata Knight Riders,Mumbai,2
+60,Andre Russell   3 0 34 2 0 2 11.30,Kolkata Knight Riders,Mumbai,2
+61,Trent Boult   2.2 0 24 0 0 1 10.30,Rajasthan Royals,Chennai Super Kings,2
+61,Sandeep Sharma   3 0 30 0 0 1 10.00,Rajasthan Royals,Chennai Super Kings,2
+61,Ravichandran Ashwin   4 0 35 2 0 1 8.80,Rajasthan Royals,Chennai Super Kings,2
+61,Nandre Burger   3 0 21 1 0 0 7.00,Rajasthan Royals,Chennai Super Kings,2
+61,Yuzvendra Chahal   4 0 22 1 0 1 5.50,Rajasthan Royals,Chennai Super Kings,2
+61,Avesh Khan   2 0 12 0 0 1 6.00,Rajasthan Royals,Chennai Super Kings,2
+62,Swapnil Singh   1 0 9 1 0 0 9.00,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Mohammed Siraj   4 0 33 1 0 2 8.20,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Yash Dayal   3.1 0 20 3 0 1 6.30,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Karn Sharma   2 0 19 0 0 0 9.50,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Lockie Ferguson   4 0 23 2 0 0 5.80,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Cameron Green   4 0 19 1 0 2 4.80,Royal Challengers Bengaluru,Delhi Capitals,2
+62,Will Jacks   1 0 16 0 0 0 16.00,Royal Challengers Bengaluru,Delhi Capitals,2
+64,Ishant Sharma   4 0 34 3 0 2 8.50,Delhi Capitals,Lucknow Super Giants,2
+64,Khaleel Ahmed   2 0 22 1 0 1 11.00,Delhi Capitals,Lucknow Super Giants,2
+64,Axar Patel   1 0 20 1 0 0 20.00,Delhi Capitals,Lucknow Super Giants,2
+64,Mukesh Kumar   4 0 33 1 0 2 8.20,Delhi Capitals,Lucknow Super Giants,2
+64,Kuldeep Yadav   4 0 33 1 0 0 8.20,Delhi Capitals,Lucknow Super Giants,2
+64,Tristan Stubbs   1 0 4 1 0 0 4.00,Delhi Capitals,Lucknow Super Giants,2
+64,Gulbadin Naib   1 0 12 0 0 0 12.00,Delhi Capitals,Lucknow Super Giants,2
+64,Rasikh Dar Salam   3 0 30 0 0 0 10.00,Delhi Capitals,Lucknow Super Giants,2
+65,Trent Boult   3 0 27 1 0 0 9.00,Rajasthan Royals,Punjab Kings,2
+65,Sandeep Sharma   4 0 28 0 0 0 7.00,Rajasthan Royals,Punjab Kings,2
+65,Avesh Khan   3.5 0 28 2 0 0 7.30,Rajasthan Royals,Punjab Kings,2
+65,Ravichandran Ashwin   4 0 31 0 0 0 7.80,Rajasthan Royals,Punjab Kings,2
+65,Yuzvendra Chahal   4 0 31 2 0 1 7.80,Rajasthan Royals,Punjab Kings,2
+67,Arshad Khan   2 0 11 0 0 3 5.50,Lucknow Super Giants,Mumbai,2
+67,Matt Henry   2 0 24 0 0 2 12.00,Lucknow Super Giants,Mumbai,2
+67,Krunal Pandya   4 0 29 1 0 1 7.20,Lucknow Super Giants,Mumbai,2
+67,Mohsin Khan   4 0 45 1 0 3 11.20,Lucknow Super Giants,Mumbai,2
+67,Naveen-ul-Haq   4 0 50 2 1 1 12.50,Lucknow Super Giants,Mumbai,2
+67,Ravi Bishnoi   4 0 37 2 0 0 9.20,Lucknow Super Giants,Mumbai,2
+68,Glenn Maxwell   4 0 25 1 0 5 6.20,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Mohammed Siraj   4 0 35 1 0 1 8.80,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Yash Dayal   4 0 42 2 0 0 10.50,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Swapnil Singh   2 0 13 0 0 1 6.50,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Karn Sharma   1 0 14 0 0 0 14.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Lockie Ferguson   3 0 39 1 2 0 13.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+68,Cameron Green   2 0 18 1 0 1 9.00,Royal Challengers Bengaluru,Chennai Super Kings,2
+69,Arshdeep Singh   4 0 37 2 0 1 9.20,Punjab Kings,Sunrisers Hyderabad,2
+69,Rishi Dhawan   3 0 35 0 0 1 11.70,Punjab Kings,Sunrisers Hyderabad,2
+69,Harshal Patel   4 0 49 2 1 2 12.20,Punjab Kings,Sunrisers Hyderabad,2
+69,Rahul Chahar   4 0 43 0 0 1 10.80,Punjab Kings,Sunrisers Hyderabad,2
+69,Harpreet Brar   3 0 36 1 0 5 12.00,Punjab Kings,Sunrisers Hyderabad,2
+69,Shashank Singh   1 0 5 1 0 0 5.00,Punjab Kings,Sunrisers Hyderabad,2
+69,Atharva Taide   0.1 0 4 0 0 0 24.00,Punjab Kings,Sunrisers Hyderabad,2
+71,Bhuvneshwar Kumar   3 0 28 0 0 0 9.30,Sunrisers Hyderabad,Kolkata Knight Riders,2
+71,Pat Cummins (c)   3 0 38 1 0 1 12.70,Sunrisers Hyderabad,Kolkata Knight Riders,2
+71,T Natarajan   3 0 22 1 0 1 7.30,Sunrisers Hyderabad,Kolkata Knight Riders,2
+71,Vijayakanth Viyaskanth   2 0 22 0 0 0 11.00,Sunrisers Hyderabad,Kolkata Knight Riders,2
+71,Travis Head   1.4 0 32 0 0 0 19.20,Sunrisers Hyderabad,Kolkata Knight Riders,2
+71,Nitish Reddy   1 0 13 0 0 0 13.00,Sunrisers Hyderabad,Kolkata Knight Riders,2
+72,Swapnil Singh   2 0 19 0 0 0 9.50,Royal Challengers Bengaluru,Rajasthan Royals,2
+72,Mohammed Siraj   4 0 33 2 0 3 8.20,Royal Challengers Bengaluru,Rajasthan Royals,2
+72,Yash Dayal   3 0 37 0 0 0 12.30,Royal Challengers Bengaluru,Rajasthan Royals,2
+72,Lockie Ferguson   4 0 37 1 0 0 9.20,Royal Challengers Bengaluru,Rajasthan Royals,2
+72,Karn Sharma   2 0 19 1 0 2 9.50,Royal Challengers Bengaluru,Rajasthan Royals,2
+72,Cameron Green   4 0 28 1 0 0 7.00,Royal Challengers Bengaluru,Rajasthan Royals,2
+73,Bhuvneshwar Kumar   3 0 33 0 0 0 11.00,Sunrisers Hyderabad,Rajasthan Royals,2
+73,Pat Cummins (c)   4 0 30 1 0 1 7.50,Sunrisers Hyderabad,Rajasthan Royals,2
+73,T Natarajan   3 0 13 1 0 1 4.30,Sunrisers Hyderabad,Rajasthan Royals,2
+73,Jaydev Unadkat   1 0 5 0 0 1 5.00,Sunrisers Hyderabad,Rajasthan Royals,2
+73,Shahbaz Ahmed   4 0 23 3 0 0 5.80,Sunrisers Hyderabad,Rajasthan Royals,2
+73,Abhishek Sharma   4 0 24 2 0 0 6.00,Sunrisers Hyderabad,Rajasthan Royals,2
+73,Aiden Markram   1 0 10 0 1 0 10.00,Sunrisers Hyderabad,Rajasthan Royals,2
+74,Bhuvneshwar Kumar   2 0 25 0 0 1 12.50,Sunrisers Hyderabad,Kolkata Knight Riders,2
+74,Pat Cummins (c)   2 0 18 1 0 2 9.00,Sunrisers Hyderabad,Kolkata Knight Riders,2
+74,T Natarajan   2 0 29 0 0 2 14.50,Sunrisers Hyderabad,Kolkata Knight Riders,2
+74,Shahbaz Ahmed   2.3 0 22 1 0 0 8.80,Sunrisers Hyderabad,Kolkata Knight Riders,2
+74,Jaydev Unadkat   1 0 9 0 0 0 9.00,Sunrisers Hyderabad,Kolkata Knight Riders,2
+74,Aiden Markram   1 0 5 0 0 0 5.00,Sunrisers Hyderabad,Kolkata Knight Riders,2

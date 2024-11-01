@@ -1,0 +1,858 @@
+Match_id,Team,Opposite_Team,Innings,Bowler,Overs,Maindens,Runs,Wickets,No_Balls,Wides,Economy
+1,CSK,RCB,1,D Chahar,4,0,37,1,0,2,9.20
+1,CSK,RCB,1,Tushar Deshpande,4,0,47,0,0,6,11.80
+1,CSK,RCB,1,M Theekshana,4,0,36,0,0,0,9.00
+1,CSK,RCB,1,Mustafizur,4,0,29,4,0,2,7.20
+1,CSK,RCB,1,Ravindra Jadeja,4,0,21,0,0,0,5.20
+2,PK,DC,1,Sam Curran,1,0,10,0,0,1,10.00
+2,PK,DC,1,Arshdeep Singh,4,0,28,2,0,2,7.00
+2,PK,DC,1,Rabada,4,0,36,1,0,1,9.00
+2,PK,DC,1,Harpreet Brar,3,0,14,1,0,0,4.70
+2,PK,DC,1,Rahul Chahar,4,0,33,1,0,0,8.20
+2,PK,DC,1,Harshal Patel,4,0,47,2,0,0,11.80
+3,SH,KKR,1,Bhuvneshwar,4,0,51,0,1,2,12.80
+3,SH,KKR,1,Marco Jansen,3,0,40,0,0,1,13.30
+3,SH,KKR,1,T Natarajan,4,0,32,3,0,3,8.00
+3,SH,KKR,1,Cummins (c),4,0,32,1,0,0,8.00
+3,SH,KKR,1,Markande,4,0,39,2,0,0,9.80
+3,SH,KKR,1,Shahbaz Ahmed,1,0,14,0,1,0,14.00
+4,LSG,RR,1,Mohsin Khan,4,0,45,1,0,1,11.20
+4,LSG,RR,1,Naveen-ul-Haq,4,0,41,2,0,4,10.20
+4,LSG,RR,1,Krunal Pandya,4,0,19,0,0,0,4.80
+4,LSG,RR,1,Ravi Bishnoi,4,0,38,1,0,0,9.50
+4,LSG,RR,1,Yash Thakur,3,0,43,0,1,1,14.30
+4,LSG,RR,1,Ayush Badoni,1,0,6,0,0,0,6.00
+5,M,GT,1,Hardik Pandya (c),3,0,30,0,0,0,10.00
+5,M,GT,1,Luke Wood,2,0,25,0,1,1,12.50
+5,M,GT,1,Bumrah,4,0,14,3,0,0,3.50
+5,M,GT,1,Shams Mulani,3,0,24,0,0,1,8.00
+5,M,GT,1,Chawla,3,0,31,1,0,5,10.30
+5,M,GT,1,Naman Dhir,1,0,13,0,0,0,13.00
+5,M,GT,1,Gerald Coetzee,4,0,27,2,0,0,6.80
+6,RCB,PK,1,Siraj,4,0,26,2,0,0,6.50
+6,RCB,PK,1,Yash Dayal,4,0,23,1,0,2,5.80
+6,RCB,PK,1,Alzarri Joseph,4,0,43,1,0,3,10.80
+6,RCB,PK,1,Green,2,0,19,0,0,1,9.50
+6,RCB,PK,1,Mayank Dagar,3,0,34,0,0,0,11.30
+6,RCB,PK,1,Maxwell,3,0,29,2,0,0,9.70
+7,GT,CSK,1,Azmatullah,3,0,30,0,0,1,10.00
+7,GT,CSK,1,Umesh,2,0,27,0,0,1,13.50
+7,GT,CSK,1,Rashid Khan,4,0,49,2,0,0,12.20
+7,GT,CSK,1,Sai Kishore,3,0,28,1,0,2,9.30
+7,GT,CSK,1,Spencer Johnson,4,0,35,1,0,0,8.80
+7,GT,CSK,1,Mohit Sharma,4,0,36,1,0,1,9.00
+8,M,SH,1,Kwena Maphaka,4,0,66,0,0,3,16.50
+8,M,SH,1,Hardik Pandya (c),4,0,46,1,0,0,11.50
+8,M,SH,1,Bumrah,4,0,36,0,1,1,9.00
+8,M,SH,1,Gerald Coetzee,4,0,57,1,1,6,14.20
+8,M,SH,1,Chawla,2,0,34,1,0,0,17.00
+8,M,SH,1,Shams Mulani,2,0,33,0,0,2,16.50
+9,DC,RR,1,Khaleel Ahmed,4,0,24,1,0,2,6.00
+9,DC,RR,1,Mukesh Kumar,4,0,49,1,0,1,12.20
+9,DC,RR,1,Nortje,4,0,48,1,0,0,12.00
+9,DC,RR,1,Axar,4,0,21,1,0,0,5.20
+9,DC,RR,1,Kuldeep Yadav,4,0,41,1,0,2,10.20
+10,KKR,RCB,1,Starc,4,0,47,0,0,1,11.80
+10,KKR,RCB,1,Harshit Rana,4,0,39,2,0,1,9.80
+10,KKR,RCB,1,Anukul Roy,2,0,6,0,0,0,3.00
+10,KKR,RCB,1,Narine,4,0,40,1,0,0,10.00
+10,KKR,RCB,1,Russell,4,0,29,2,0,1,7.20
+10,KKR,RCB,1,Chakaravarthy,2,0,20,0,0,0,10.00
+11,PK,LSG,1,Sam Curran,4,0,28,3,0,0,7.00
+11,PK,LSG,1,Arshdeep Singh,3,0,30,2,0,1,10.00
+11,PK,LSG,1,Rabada,4,0,38,1,0,0,9.50
+11,PK,LSG,1,Rahul Chahar,3,0,42,1,0,0,14.00
+11,PK,LSG,1,Harpreet Brar,2,0,14,0,0,0,7.00
+11,PK,LSG,1,Harshal Patel,4,0,45,0,0,4,11.20
+12,GT,SH,1,Azmatullah,3,0,24,1,0,1,8.00
+12,GT,SH,1,Umesh,3,0,28,1,0,0,9.30
+12,GT,SH,1,Rashid Khan,4,0,33,1,0,0,8.20
+12,GT,SH,1,Noor Ahmad,4,0,32,1,0,0,8.00
+12,GT,SH,1,Mohit Sharma,4,0,25,3,0,0,6.20
+12,GT,SH,1,Darshan Nalkande,2,0,18,0,0,1,9.00
+13,CSK,DC,1,D Chahar,4,0,42,0,0,0,10.50
+13,CSK,DC,1,Tushar Deshpande,4,0,24,0,0,2,6.00
+13,CSK,DC,1,Mustafizur,4,0,47,1,2,1,11.80
+13,CSK,DC,1,Ravindra Jadeja,4,0,43,1,0,0,10.80
+13,CSK,DC,1,Matheesha Pathirana,4,0,31,3,0,2,7.80
+14,RR,M,1,Boult,4,0,22,3,0,1,5.50
+14,RR,M,1,Nandre Burger,4,0,32,2,0,1,8.00
+14,RR,M,1,Avesh Khan,4,0,30,1,0,1,7.50
+14,RR,M,1,Chahal,4,0,11,3,0,0,2.80
+14,RR,M,1,Ashwin,4,0,27,0,0,1,6.80
+15,RCB,LSG,1,R Topley,4,0,39,1,0,1,9.80
+15,RCB,LSG,1,Yash Dayal,4,0,24,1,0,0,6.00
+15,RCB,LSG,1,Siraj,4,0,47,1,0,3,11.80
+15,RCB,LSG,1,Maxwell,4,0,23,2,0,1,5.80
+15,RCB,LSG,1,Mayank Dagar,2,0,23,0,0,5,11.50
+15,RCB,LSG,1,Green,2,0,25,0,0,0,12.50
+16,DC,KKR,1,Khaleel Ahmed,4,0,43,1,1,8,10.80
+16,DC,KKR,1,Ishant,3,0,43,2,0,0,14.30
+16,DC,KKR,1,Nortje,4,0,59,3,0,2,14.80
+16,DC,KKR,1,Rasikh Salam,3,0,47,0,0,1,15.70
+16,DC,KKR,1,Sumit Kumar,2,0,19,0,0,0,9.50
+16,DC,KKR,1,Axar,1,0,18,0,0,0,18.00
+16,DC,KKR,1,Mitchell Marsh,3,0,37,1,0,4,12.30
+17,PK,GT,1,Harpreet Brar,4,0,33,1,0,0,8.20
+17,PK,GT,1,Arshdeep Singh,4,0,33,0,0,0,8.20
+17,PK,GT,1,Rabada,4,0,44,2,0,1,11.00
+17,PK,GT,1,Sam Curran,2,0,18,0,0,0,9.00
+17,PK,GT,1,Harshal Patel,4,0,44,1,0,3,11.00
+17,PK,GT,1,Raza,2,0,22,0,0,0,11.00
+18,SH,CSK,1,Abhishek Sharma,1,0,7,0,0,0,7.00
+18,SH,CSK,1,Bhuvneshwar,4,0,28,1,0,0,7.00
+18,SH,CSK,1,T Natarajan,4,0,39,1,0,0,9.80
+18,SH,CSK,1,Cummins (c),4,0,29,1,0,0,7.20
+18,SH,CSK,1,Markande,2,0,21,0,0,0,10.50
+18,SH,CSK,1,Shahbaz Ahmed,1,0,11,1,0,0,11.00
+18,SH,CSK,1,Jaydev Unadkat,4,0,29,1,0,1,7.20
+19,RR,RCB,1,Boult,3,0,30,0,0,1,10.00
+19,RR,RCB,1,Nandre Burger,4,0,33,1,0,6,8.20
+19,RR,RCB,1,Ashwin,4,0,28,0,0,1,7.00
+19,RR,RCB,1,Avesh Khan,4,0,46,0,0,0,11.50
+19,RR,RCB,1,Chahal,4,0,34,2,0,1,8.50
+19,RR,RCB,1,Riyan Parag,1,0,10,0,0,0,10.00
+20,DC,M,1,Khaleel Ahmed,4,0,39,1,0,0,9.80
+20,DC,M,1,Ishant,3,0,40,0,0,8,13.30
+20,DC,M,1,Jhye Richardson,4,0,40,0,0,2,10.00
+20,DC,M,1,Axar,4,0,35,2,0,0,8.80
+20,DC,M,1,Lalit Yadav,1,0,15,0,0,0,15.00
+20,DC,M,1,Nortje,4,0,65,2,1,3,16.20
+21,GT,LSG,1,Umesh,3,0,22,2,0,0,7.30
+21,GT,LSG,1,Spencer Johnson,4,0,32,0,0,1,8.00
+21,GT,LSG,1,Rashid Khan,4,0,28,1,0,0,7.00
+21,GT,LSG,1,Mohit Sharma,3,0,34,0,0,0,11.30
+21,GT,LSG,1,Noor Ahmad,4,0,22,0,0,0,5.50
+21,GT,LSG,1,Darshan Nalkande,2,0,21,2,0,0,10.50
+22,CSK,KKR,1,Tushar Deshpande,4,0,33,3,0,2,8.20
+22,CSK,KKR,1,Mustafizur,4,0,22,2,1,2,5.50
+22,CSK,KKR,1,Thakur,3,0,27,0,1,1,9.00
+22,CSK,KKR,1,M Theekshana,4,0,28,1,0,0,7.00
+22,CSK,KKR,1,Ravindra Jadeja,4,0,18,3,0,1,4.50
+22,CSK,KKR,1,Rachin Ravindra,1,0,4,0,0,0,4.00
+23,PK,SH,1,Rabada,4,0,32,1,0,1,8.00
+23,PK,SH,1,Arshdeep Singh,4,0,29,4,0,2,7.20
+23,PK,SH,1,Sam Curran,4,0,41,2,0,1,10.20
+23,PK,SH,1,Harshal Patel,4,0,30,2,0,1,7.50
+23,PK,SH,1,Harpreet Brar,4,0,48,0,0,0,12.00
+24,GT,RR,1,Umesh,4,0,47,1,0,2,11.80
+24,GT,RR,1,Spencer Johnson,4,0,37,0,0,0,9.20
+24,GT,RR,1,Rashid Khan,4,0,18,1,0,0,4.50
+24,GT,RR,1,Noor Ahmad,4,0,43,0,0,1,10.80
+24,GT,RR,1,Mohit Sharma,4,0,51,1,0,4,12.80
+25,M,RCB,1,Nabi,1,0,7,0,0,0,7.00
+25,M,RCB,1,Gerald Coetzee,4,0,42,1,0,3,10.50
+25,M,RCB,1,Bumrah,4,0,21,5,0,0,5.20
+25,M,RCB,1,Akash Madhwal,4,0,57,1,0,3,14.20
+25,M,RCB,1,Shreyas Gopal,4,0,32,1,0,0,8.00
+25,M,RCB,1,Romario Shepherd,2,0,22,0,0,0,11.00
+25,M,RCB,1,Hardik Pandya (c),1,0,13,0,0,2,13.00
+26,DC,LSG,1,Khaleel Ahmed,4,0,41,2,0,1,10.20
+26,DC,LSG,1,Ishant,4,0,36,1,0,4,9.00
+26,DC,LSG,1,Mukesh Kumar,4,0,41,1,0,1,10.20
+26,DC,LSG,1,Axar,4,0,26,0,0,0,6.50
+26,DC,LSG,1,Kuldeep Yadav,4,0,20,3,0,1,5.00
+27,RR,PK,1,Boult,4,0,22,1,0,3,5.50
+27,RR,PK,1,Kuldeep Sen,4,0,35,1,0,0,8.80
+27,RR,PK,1,Avesh Khan,4,0,34,2,0,0,8.50
+27,RR,PK,1,Chahal,4,0,31,1,1,2,7.80
+27,RR,PK,1,Maharaj,4,0,23,2,0,0,5.80
+28,KKR,LSG,1,Starc,4,0,28,3,0,1,7.00
+28,KKR,LSG,1,Vaibhav Arora,3,0,34,1,1,1,11.30
+28,KKR,LSG,1,Harshit Rana,4,0,35,0,0,2,8.80
+28,KKR,LSG,1,Narine,4,0,17,1,0,0,4.20
+28,KKR,LSG,1,Chakaravarthy,4,0,30,1,0,2,7.50
+28,KKR,LSG,1,Russell,1,0,16,1,0,0,16.00
+29,M,CSK,1,Nabi,3,0,19,0,0,0,6.30
+29,M,CSK,1,Gerald Coetzee,4,0,35,1,0,1,8.80
+29,M,CSK,1,Bumrah,4,0,27,0,0,2,6.80
+29,M,CSK,1,Akash Madhwal,3,0,37,0,0,0,12.30
+29,M,CSK,1,Shreyas Gopal,1,0,9,1,0,0,9.00
+29,M,CSK,1,Hardik Pandya (c),3,0,43,2,0,2,14.30
+29,M,CSK,1,Romario Shepherd,2,0,33,0,0,0,16.50
+30,RCB,SH,1,Will Jacks,3,0,32,0,0,2,10.70
+30,RCB,SH,1,R Topley,4,0,68,1,0,2,17.00
+30,RCB,SH,1,Yash Dayal,4,0,51,0,1,3,12.80
+30,RCB,SH,1,Lockie Ferguson,4,0,52,2,0,0,13.00
+30,RCB,SH,1,Vijaykumar Vyshak,4,0,64,0,0,2,16.00
+30,RCB,SH,1,Lomror,1,0,18,0,0,3,18.00
+31,RR,KKR,1,Boult,4,0,31,1,0,0,7.80
+31,RR,KKR,1,Avesh Khan,4,0,35,2,0,1,8.80
+31,RR,KKR,1,Kuldeep Sen,4,0,46,2,0,2,11.50
+31,RR,KKR,1,Chahal,4,0,54,1,0,1,13.50
+31,RR,KKR,1,Ashwin,4,0,49,0,0,9,12.20
+32,DC,GT,1,Khaleel Ahmed,4,1,18,1,0,1,4.50
+32,DC,GT,1,Ishant,2,0,8,2,0,1,4.00
+32,DC,GT,1,Mukesh Kumar,2.3,0,14,3,2,1,5.60
+32,DC,GT,1,Kuldeep Yadav,4,0,16,0,0,0,4.00
+32,DC,GT,1,Tristan Stubbs,1,0,11,2,0,1,11.00
+32,DC,GT,1,Axar,4,0,17,1,0,1,4.20
+33,PK,M,1,Livingstone,2,0,16,0,0,0,8.00
+33,PK,M,1,Arshdeep Singh,3,0,35,0,0,1,11.70
+33,PK,M,1,Rabada,4,0,42,1,0,0,10.50
+33,PK,M,1,Harshal Patel,4,0,31,3,0,2,7.80
+33,PK,M,1,Sam Curran (c),4,0,41,2,0,2,10.20
+33,PK,M,1,Harpreet Brar,3,0,21,0,0,0,7.00
+34,LSG,CSK,1,Matt Henry,3,0,26,0,0,0,8.70
+34,LSG,CSK,1,Mohsin Khan,4,0,37,1,0,3,9.20
+34,LSG,CSK,1,Yash Thakur,4,0,45,1,0,0,11.20
+34,LSG,CSK,1,Krunal Pandya,3,0,16,2,0,0,5.30
+34,LSG,CSK,1,Ravi Bishnoi,4,0,44,1,0,0,11.00
+34,LSG,CSK,1,Stoinis,2,0,7,1,0,0,3.50
+35,DC,SH,1,Khaleel Ahmed,3,0,51,0,0,0,17.00
+35,DC,SH,1,Lalit Yadav,2,0,41,0,0,0,20.50
+35,DC,SH,1,Nortje,3,0,31,0,0,1,10.30
+35,DC,SH,1,Kuldeep Yadav,4,0,55,4,0,2,13.80
+35,DC,SH,1,Mukesh Kumar,4,0,57,1,0,0,14.20
+35,DC,SH,1,Axar,4,0,29,1,0,0,7.20
+36,RCB,KKR,1,Siraj,4,0,40,1,0,2,10.00
+36,RCB,KKR,1,Yash Dayal,4,0,56,2,1,3,14.00
+36,RCB,KKR,1,Lockie Ferguson,4,0,47,1,1,0,11.80
+36,RCB,KKR,1,Karn Sharma,4,0,33,0,0,0,8.20
+36,RCB,KKR,1,Green,4,0,35,2,0,2,8.80
+37,GT,PK,1,Azmatullah,2,0,13,0,0,0,6.50
+37,GT,PK,1,Warrier,1,0,21,0,1,0,21.00
+37,GT,PK,1,Mohit Sharma,4,0,32,2,0,1,8.00
+37,GT,PK,1,Rashid Khan,4,0,15,1,0,0,3.80
+37,GT,PK,1,Noor Ahmad,4,0,20,2,0,0,5.00
+37,GT,PK,1,Sai Kishore,4,0,33,4,0,1,8.20
+37,GT,PK,1,Shahrukh Khan,1,0,7,0,0,0,7.00
+38,RR,M,1,Boult,4,0,32,2,0,3,8.00
+38,RR,M,1,Sandeep Sharma,4,0,18,5,0,0,4.50
+38,RR,M,1,Avesh Khan,4,0,49,1,0,3,12.20
+38,RR,M,1,Ashwin,4,0,31,0,0,1,7.80
+38,RR,M,1,Chahal,4,0,48,1,0,2,12.00
+39,LSG,CSK,1,Matt Henry,4,0,28,1,0,0,7.00
+39,LSG,CSK,1,Mohsin Khan,4,0,50,1,0,0,12.50
+39,LSG,CSK,1,Ravi Bishnoi,2,0,19,0,0,0,9.50
+39,LSG,CSK,1,Yash Thakur,4,0,47,1,0,1,11.80
+39,LSG,CSK,1,Stoinis,4,0,49,0,0,1,12.20
+39,LSG,CSK,1,Krunal Pandya,2,0,15,0,0,0,7.50
+40,GT,DC,1,Azmatullah,4,0,33,0,0,0,8.20
+40,GT,DC,1,Warrier,3,0,15,3,0,1,5.00
+40,GT,DC,1,Rashid Khan,4,0,35,0,0,0,8.80
+40,GT,DC,1,Noor Ahmad,3,0,36,1,0,1,12.00
+40,GT,DC,1,Mohit Sharma,4,0,73,0,0,1,18.20
+40,GT,DC,1,Shahrukh Khan,1,0,8,0,0,0,8.00
+40,GT,DC,1,Sai Kishore,1,0,22,0,0,0,22.00
+41,SH,RCB,1,Abhishek Sharma,1,0,10,0,0,0,10.00
+41,SH,RCB,1,Bhuvneshwar,1,0,14,0,0,0,14.00
+41,SH,RCB,1,Cummins (c),4,0,55,1,0,1,13.80
+41,SH,RCB,1,T Natarajan,4,0,39,2,0,1,9.80
+41,SH,RCB,1,Shahbaz Ahmed,3,0,14,0,0,0,4.70
+41,SH,RCB,1,Markande,3,0,42,1,0,1,14.00
+41,SH,RCB,1,Jaydev Unadkat,4,0,30,3,0,2,7.50
+42,PK,KKR,1,Sam Curran (c),4,0,60,1,0,0,15.00
+42,PK,KKR,1,Arshdeep Singh,4,0,45,2,0,5,11.20
+42,PK,KKR,1,Harshal Patel,3,0,48,1,1,1,16.00
+42,PK,KKR,1,Rabada,3,0,52,0,0,4,17.30
+42,PK,KKR,1,Rahul Chahar,4,0,33,1,0,0,8.20
+42,PK,KKR,1,Harpreet Brar,2,0,21,0,0,0,10.50
+43,M,DC,1,Luke Wood,4,0,68,1,0,0,17.00
+43,M,DC,1,Bumrah,4,0,35,1,1,2,8.80
+43,M,DC,1,N Thushara,4,0,56,0,0,2,14.00
+43,M,DC,1,Chawla,4,0,36,1,0,2,9.00
+43,M,DC,1,Hardik Pandya (c),2,0,41,0,0,0,20.50
+43,M,DC,1,Nabi,2,0,20,1,0,0,10.00
+44,RR,LSG,1,Boult,4,0,41,1,0,6,10.20
+44,RR,LSG,1,Sandeep Sharma,4,0,31,2,0,1,7.80
+44,RR,LSG,1,Avesh Khan,4,0,42,1,1,1,10.50
+44,RR,LSG,1,Ashwin,4,0,39,1,0,6,9.80
+44,RR,LSG,1,Chahal,4,0,41,0,0,1,10.20
+45,RCB,GT,1,Swapnil Singh,3,0,23,1,0,0,7.70
+45,RCB,GT,1,Siraj,4,0,34,1,0,4,8.50
+45,RCB,GT,1,Yash Dayal,4,0,34,0,1,3,8.50
+45,RCB,GT,1,Maxwell,3,0,28,1,0,0,9.30
+45,RCB,GT,1,Karn Sharma,3,0,38,0,0,1,12.70
+45,RCB,GT,1,Green,3,0,42,0,0,1,14.00
+46,SH,CSK,1,Bhuvneshwar,4,0,38,1,0,0,9.50
+46,SH,CSK,1,Nitish Reddy,1,0,8,0,0,1,8.00
+46,SH,CSK,1,Shahbaz Ahmed,3,0,33,0,0,0,11.00
+46,SH,CSK,1,T Natarajan,4,0,43,1,0,3,10.80
+46,SH,CSK,1,Jaydev Unadkat,4,0,38,1,0,1,9.50
+46,SH,CSK,1,Cummins (c),4,0,49,0,0,1,12.20
+47,KKR,DC,1,Starc,3,0,43,1,0,6,14.30
+47,KKR,DC,1,Vaibhav Arora,4,0,29,2,1,2,7.20
+47,KKR,DC,1,Harshit Rana,4,0,28,2,0,1,7.00
+47,KKR,DC,1,Narine,4,0,24,1,0,0,6.00
+47,KKR,DC,1,Chakaravarthy,4,0,16,3,0,0,4.00
+47,KKR,DC,1,Russell,1,0,10,0,0,0,10.00
+48,LSG,M,1,Stoinis,3,0,19,1,0,1,6.30
+48,LSG,M,1,Mohsin Khan,4,0,36,2,0,0,9.00
+48,LSG,M,1,Naveen-ul-Haq,3.5,0,15,1,1,0,3.90
+48,LSG,M,1,Mayank Yadav,3.1,0,31,1,1,2,9.80
+48,LSG,M,1,Ravi Bishnoi,4,0,28,1,0,1,7.00
+48,LSG,M,1,Deepak Hooda,2,0,13,0,0,0,6.50
+49,PK,CSK,1,Rabada,4,0,23,1,0,1,5.80
+49,PK,CSK,1,Arshdeep Singh,4,0,52,1,0,5,13.00
+49,PK,CSK,1,Sam Curran (c),3,0,37,0,1,0,12.30
+49,PK,CSK,1,Harpreet Brar,4,0,17,2,0,1,4.20
+49,PK,CSK,1,Rahul Chahar,4,0,16,2,0,0,4.00
+49,PK,CSK,1,Harshal Patel,1,0,12,0,0,5,12.00
+50,RR,SH,1,Boult,4,0,33,0,0,1,8.20
+50,RR,SH,1,Ashwin,4,0,36,0,0,1,9.00
+50,RR,SH,1,Avesh Khan,4,0,39,2,0,3,9.80
+50,RR,SH,1,Sandeep Sharma,4,0,31,1,0,2,7.80
+50,RR,SH,1,Chahal,4,0,62,0,0,1,15.50
+51,M,KKR,1,N Thushara,4,0,42,3,1,3,10.50
+51,M,KKR,1,Bumrah,3.5,0,18,3,0,0,4.70
+51,M,KKR,1,Gerald Coetzee,2,0,24,0,0,0,12.00
+51,M,KKR,1,Hardik Pandya (c),4,0,44,2,0,1,11.00
+51,M,KKR,1,Naman Dhir,3,0,25,0,0,1,8.30
+51,M,KKR,1,Chawla,3,0,15,1,0,0,5.00
+52,RCB,GT,1,Swapnil Singh,1,0,1,0,0,0,1.00
+52,RCB,GT,1,Siraj,4,0,29,2,0,3,7.20
+52,RCB,GT,1,Yash Dayal,4,0,21,2,0,0,5.20
+52,RCB,GT,1,Green,4,0,28,1,0,0,7.00
+52,RCB,GT,1,Vijaykumar Vyshak,3.3,0,23,2,0,1,6.60
+52,RCB,GT,1,Karn Sharma,3,0,42,1,0,0,14.00
+53,PK,CSK,1,Rabada,3,0,24,0,0,1,8.00
+53,PK,CSK,1,Arshdeep Singh,4,0,42,2,0,1,10.50
+53,PK,CSK,1,Sam Curran (c),4,0,34,1,0,0,8.50
+53,PK,CSK,1,Harpreet Brar,1,0,19,0,0,0,19.00
+53,PK,CSK,1,Rahul Chahar,4,0,23,3,0,1,5.80
+53,PK,CSK,1,Harshal Patel,4,0,24,3,0,2,6.00
+54,LSG,KKR,1,Stoinis,2,0,29,0,0,0,14.50
+54,LSG,KKR,1,Mohsin Khan,2,0,28,0,0,1,14.00
+54,LSG,KKR,1,Naveen-ul-Haq,4,0,49,3,0,1,12.20
+54,LSG,KKR,1,Yash Thakur,4,0,46,1,0,3,11.50
+54,LSG,KKR,1,Krunal Pandya,2,0,26,0,0,6,13.00
+54,LSG,KKR,1,Ravi Bishnoi,4,0,33,1,0,2,8.20
+54,LSG,KKR,1,Yudhvir Singh,2,0,24,1,0,0,12.00
+55,M,SH,1,N Thushara,4,0,42,0,1,4,10.50
+55,M,SH,1,Anshul Kamboj,4,0,42,1,2,1,10.50
+55,M,SH,1,Bumrah,4,0,23,1,0,1,5.80
+55,M,SH,1,Hardik Pandya (c),4,0,31,3,0,1,7.80
+55,M,SH,1,Chawla,4,0,33,3,0,2,8.20
+56,RR,DC,1,Boult,4,0,48,1,0,0,12.00
+56,RR,DC,1,Sandeep Sharma,4,0,42,1,0,0,10.50
+56,RR,DC,1,Avesh Khan,2,0,42,0,0,0,21.00
+56,RR,DC,1,Ashwin,4,0,24,3,0,0,6.00
+56,RR,DC,1,Riyan Parag,2,0,17,0,0,1,8.50
+56,RR,DC,1,Chahal,4,0,48,1,0,0,12.00
+57,SH,LSG,1,Bhuvneshwar,4,0,12,2,0,0,3.00
+57,SH,LSG,1,Cummins (c),4,0,47,1,0,0,11.80
+57,SH,LSG,1,Shahbaz Ahmed,2,0,9,0,0,0,4.50
+57,SH,LSG,1,V Viyaskanth,4,0,27,0,0,0,6.80
+57,SH,LSG,1,Jaydev Unadkat,2,0,19,0,0,0,9.50
+57,SH,LSG,1,T Natarajan,4,0,50,0,0,3,12.50
+58,PK,RCB,1,Vidhwath Kaverappa,4,0,36,2,0,0,9.00
+58,PK,RCB,1,Arshdeep Singh,3,0,41,1,0,2,13.70
+58,PK,RCB,1,Sam Curran (c),3,0,50,1,0,2,16.70
+58,PK,RCB,1,Harshal Patel,4,0,38,3,0,1,9.50
+58,PK,RCB,1,Rahul Chahar,3,0,47,0,1,0,15.70
+58,PK,RCB,1,Livingstone,3,0,28,0,0,1,9.30
+59,CSK,GT,1,Santner,2,0,31,0,0,0,15.50
+59,CSK,GT,1,Tushar Deshpande,4,0,33,2,0,2,8.20
+59,CSK,GT,1,Thakur,4,0,25,0,0,0,6.20
+59,CSK,GT,1,Simarjeet Singh,4,0,60,0,0,2,15.00
+59,CSK,GT,1,Ravindra Jadeja,2,0,29,0,0,0,14.50
+59,CSK,GT,1,Daryl Mitchell,4,0,52,0,0,1,13.00
+60,M,KKR,1,N Thushara,3,0,31,1,0,2,10.30
+60,M,KKR,1,Bumrah,4,0,39,2,0,0,9.80
+60,M,KKR,1,Anshul Kamboj,3,0,24,1,0,1,8.00
+60,M,KKR,1,Hardik Pandya (c),3,0,32,0,0,0,10.70
+60,M,KKR,1,Chawla,3,0,28,2,0,0,9.30
+61,CSK,RR,1,Tushar Deshpande,4,0,30,2,0,0,7.50
+61,CSK,RR,1,M Theekshana,4,0,28,0,0,0,7.00
+61,CSK,RR,1,Thakur,4,0,32,0,0,0,8.00
+61,CSK,RR,1,Simarjeet Singh,4,0,26,3,0,4,6.50
+61,CSK,RR,1,Ravindra Jadeja,4,0,24,0,0,0,6.00
+62,DC,RCB,1,Ishant,3,0,31,1,0,3,10.30
+62,DC,RCB,1,Khaleel Ahmed,4,0,31,2,0,0,7.80
+62,DC,RCB,1,Mukesh Kumar,3,0,23,1,0,0,7.70
+62,DC,RCB,1,Axar (c),3,0,24,0,0,0,8.00
+62,DC,RCB,1,Kuldeep Yadav,4,0,52,1,0,1,13.00
+62,DC,RCB,1,Rasikh Salam,3,0,23,2,0,3,7.70
+64,LSG,DC,1,Arshad Khan,3,0,45,1,0,5,15.00
+64,LSG,DC,1,Mohsin Khan,4,0,29,0,0,0,7.20
+64,LSG,DC,1,Yudhvir Singh,2,0,28,0,0,0,14.00
+64,LSG,DC,1,Naveen-ul-Haq,4,0,51,2,0,1,12.80
+64,LSG,DC,1,Ravi Bishnoi,4,0,26,1,0,0,6.50
+64,LSG,DC,1,Krunal Pandya,2,0,20,0,0,1,10.00
+64,LSG,DC,1,Deepak Hooda,1,0,9,0,0,1,9.00
+65,PK,RR,1,Sam Curran (c),3,0,24,2,0,0,8.00
+65,PK,RR,1,Arshdeep Singh,4,0,31,1,0,0,7.80
+65,PK,RR,1,Nathan Ellis,4,0,24,1,0,0,6.00
+65,PK,RR,1,Harshal Patel,4,0,28,2,0,1,7.00
+65,PK,RR,1,Rahul Chahar,4,0,26,2,0,0,6.50
+65,PK,RR,1,Harpreet Brar,1,0,10,0,0,0,10.00
+67,M,LSG,1,N Thushara,4,0,28,3,0,2,7.00
+67,M,LSG,1,Arjun Tendulkar,2.2,0,22,0,0,1,9.40
+67,M,LSG,1,Anshul Kamboj,3,0,48,0,0,4,16.00
+67,M,LSG,1,Chawla,4,0,29,3,0,0,7.20
+67,M,LSG,1,Nehal Wadhera,2,0,13,0,0,0,6.50
+67,M,LSG,1,Hardik Pandya (c),2,0,27,0,0,0,13.50
+67,M,LSG,1,Naman Dhir,0.4,0,17,0,0,0,25.50
+67,M,LSG,1,Romario Shepherd,2,0,30,0,0,4,15.00
+68,CSK,RCB,1,Tushar Deshpande,4,0,49,1,0,4,12.20
+68,CSK,RCB,1,Thakur,4,0,61,2,0,0,15.20
+68,CSK,RCB,1,M Theekshana,4,0,25,0,0,1,6.20
+68,CSK,RCB,1,Santner,4,0,23,1,0,0,5.80
+68,CSK,RCB,1,Ravindra Jadeja,3,0,40,0,0,0,13.30
+68,CSK,RCB,1,Simarjeet Singh,1,0,19,0,0,2,19.00
+69,SH,PK,1,Bhuvneshwar,4,0,36,0,0,0,9.00
+69,SH,PK,1,Cummins (c),4,0,36,1,0,0,9.00
+69,SH,PK,1,T Natarajan,4,0,33,2,0,2,8.20
+69,SH,PK,1,V Viyaskanth,4,0,37,1,0,0,9.20
+69,SH,PK,1,Shahbaz Ahmed,1,0,13,0,0,0,13.00
+69,SH,PK,1,Nitish Reddy,3,0,54,0,1,2,18.00
+71,KKR,SH,1,Starc,4,0,34,3,0,1,8.50
+71,KKR,SH,1,Vaibhav Arora,2,0,17,1,1,2,8.50
+71,KKR,SH,1,Harshit Rana,4,0,27,1,0,1,6.80
+71,KKR,SH,1,Narine,4,0,40,1,0,0,10.00
+71,KKR,SH,1,Russell,1.3,0,15,1,0,0,10.00
+71,KKR,SH,1,Chakaravarthy,4,0,26,2,1,1,6.50
+72,RR,RCB,1,Boult,4,0,16,1,0,0,4.00
+72,RR,RCB,1,Sandeep Sharma,4,0,48,1,0,0,12.00
+72,RR,RCB,1,Avesh Khan,4,0,44,3,0,0,11.00
+72,RR,RCB,1,Ashwin,4,0,19,2,0,2,4.80
+72,RR,RCB,1,Chahal,4,0,43,1,0,0,10.80
+73,RR,SH,1,Boult,4,0,45,3,0,2,11.20
+73,RR,SH,1,Ashwin,4,0,43,0,0,0,10.80
+73,RR,SH,1,Sandeep Sharma,4,0,25,2,0,1,6.20
+73,RR,SH,1,Avesh Khan,4,0,27,3,0,2,6.80
+73,RR,SH,1,Chahal,4,0,34,0,0,2,8.50
+74,KKR,SH,1,Starc,3,0,14,2,0,0,4.70
+74,KKR,SH,1,Vaibhav Arora,3,0,24,1,0,4,8.00
+74,KKR,SH,1,Harshit Rana,4,1,24,2,0,1,6.00
+74,KKR,SH,1,Narine,4,0,16,1,0,0,4.00
+74,KKR,SH,1,Russell,2.3,0,19,3,0,1,7.60
+74,KKR,SH,1,Chakaravarthy,2,0,9,1,0,0,4.50
+1,RCB,CSK,2,Mohammed Siraj,4,0,38,0,0,1,9.50
+1,RCB,CSK,2,Yash Dayal,3,0,28,1,0,0,9.30
+1,RCB,CSK,2,Alzarri Joseph,3.4,0,38,0,0,4,10.40
+1,RCB,CSK,2,Karn Sharma,2,0,24,1,0,0,12.00
+1,RCB,CSK,2,Mayank Dagar,2,0,6,0,0,0,3.00
+1,RCB,CSK,2,Cameron Green,3,0,27,2,0,3,9.00
+1,RCB,CSK,2,Glenn Maxwell,1,0,7,0,0,0,7.00
+2,DC,PK,2,Khaleel Ahmed,4,0,43,2,0,0,10.80
+2,DC,PK,2,Ishant Sharma,2,0,16,1,0,3,8.00
+2,DC,PK,2,Mitchell Marsh,4,0,52,0,0,1,13.00
+2,DC,PK,2,Axar Patel,4,0,25,0,0,0,6.20
+2,DC,PK,2,Kuldeep Yadav,4,0,20,2,0,0,5.00
+2,DC,PK,2,Sumit Kumar,1.2,0,19,0,0,2,14.20
+3,KKR,SH,2,Mitchell Starc,4,0,53,0,0,6,13.20
+3,KKR,SH,2,Harshit Rana,4,0,33,3,0,0,8.20
+3,KKR,SH,2,Varun Chakaravarthy,4,0,55,1,0,0,13.80
+3,KKR,SH,2,Sunil Narine,4,0,19,1,0,0,4.80
+3,KKR,SH,2,Andre Russell,2,0,25,2,0,0,12.50
+3,KKR,SH,2,Suyash Sharma,2,0,18,0,0,0,9.00
+4,RR,LSG,2,Trent Boult,4,0,35,2,0,0,8.80
+4,RR,LSG,2,Nandre Burger,3,0,30,1,0,0,10.00
+4,RR,LSG,2,Ravichandran Ashwin,4,0,35,1,0,5,8.80
+4,RR,LSG,2,Avesh Khan,3,0,21,0,0,2,7.00
+4,RR,LSG,2,Yuzvendra Chahal,3,0,25,1,0,1,8.30
+4,RR,LSG,2,Sandeep Sharma,3,0,22,1,0,1,7.30
+5,GT,M,2,Azmatullah Omarzai,3,0,27,2,0,2,9.00
+5,GT,M,2,Umesh Yadav,3,0,31,2,0,0,10.30
+5,GT,M,2,Rashid Khan,4,0,23,0,0,0,5.80
+5,GT,M,2,Ravisrinivasan Sai Kishore,4,0,24,1,0,0,6.00
+5,GT,M,2,Spencer Johnson,2,0,25,2,0,0,12.50
+5,GT,M,2,Mohit Sharma,4,0,32,2,0,1,8.00
+6,PK,RCB,2,Sam Curran,3,0,30,1,0,0,10.00
+6,PK,RCB,2,Arshdeep Singh,3.2,0,40,0,0,3,12.00
+6,PK,RCB,2,Kagiso Rabada,4,0,23,2,0,1,5.80
+6,PK,RCB,2,Harpreet Brar,4,0,13,2,0,0,3.20
+6,PK,RCB,2,Harshal Patel,4,0,45,1,0,3,11.20
+6,PK,RCB,2,Rahul Chahar,1,0,16,0,0,0,16.00
+7,CSK,GT,2,Deepak Chahar,4,0,28,2,0,3,7.00
+7,CSK,GT,2,Mustafizur Rahman,4,0,30,2,0,0,7.50
+7,CSK,GT,2,Tushar Deshpande,4,0,21,2,0,0,5.20
+7,CSK,GT,2,Ravindra Jadeja,2,0,15,0,0,0,7.50
+7,CSK,GT,2,Daryl Mitchell,2,0,18,1,0,1,9.00
+7,CSK,GT,2,Matheesha Pathirana,4,0,29,1,0,5,7.20
+8,SH,M,2,Bhuvneshwar Kumar,4,0,53,0,0,0,13.20
+8,SH,M,2,Jaydev Unadkat,4,0,47,2,0,2,11.80
+8,SH,M,2,Shahbaz Ahmed,3,0,39,1,0,0,13.00
+8,SH,M,2,Pat Cummins (c),4,0,35,2,0,1,8.80
+8,SH,M,2,Umran Malik,1,0,15,0,0,1,15.00
+8,SH,M,2,Mayank Markande,4,0,52,0,1,1,13.00
+9,RR,DC,2,Trent Boult,3,0,29,0,0,0,9.70
+9,RR,DC,2,Nandre Burger,3,0,29,2,0,0,9.70
+9,RR,DC,2,Ravichandran Ashwin,3,0,30,0,0,1,10.00
+9,RR,DC,2,Avesh Khan,4,0,29,1,0,1,7.20
+9,RR,DC,2,Yuzvendra Chahal,3,0,19,2,0,0,6.30
+9,RR,DC,2,Sandeep Sharma,4,0,36,0,0,2,9.00
+10,RCB,KKR,2,Mohammed Siraj,3,0,46,0,0,2,15.30
+10,RCB,KKR,2,Yash Dayal,4,0,46,1,0,6,11.50
+10,RCB,KKR,2,Alzarri Joseph,2,0,34,0,0,0,17.00
+10,RCB,KKR,2,Mayank Dagar,2.5,0,23,1,0,0,8.10
+10,RCB,KKR,2,Vijaykumar Vyshak,4,0,23,1,0,0,5.80
+10,RCB,KKR,2,Cameron Green,1,0,7,0,0,0,7.00
+11,LSG,PK,2,Manimaran Siddharth,2,0,21,0,0,0,10.50
+11,LSG,PK,2,Naveen-ul-Haq,4,0,43,0,0,1,10.80
+11,LSG,PK,2,Mohsin Khan,4,0,34,2,0,1,8.50
+11,LSG,PK,2,Krunal Pandya,3,0,26,0,0,0,8.70
+11,LSG,PK,2,Ravi Bishnoi,3,0,25,0,0,0,8.30
+11,LSG,PK,2,Mayank Yadav,4,0,27,3,0,0,6.80
+12,SH,GT,2,Bhuvneshwar Kumar,4,0,27,0,0,1,6.80
+12,SH,GT,2,Shahbaz Ahmed,2,0,20,1,0,0,10.00
+12,SH,GT,2,Jaydev Unadkat,3.1,0,33,0,0,0,10.40
+12,SH,GT,2,Washington Sundar,3,0,27,0,0,0,9.00
+12,SH,GT,2,Mayank Markande,3,0,33,1,0,2,11.00
+12,SH,GT,2,Pat Cummins (c),4,0,28,1,0,1,7.00
+13,DC,CSK,2,Khaleel Ahmed,4,1,21,2,0,4,5.20
+13,DC,CSK,2,Ishant Sharma,3,0,23,0,1,1,7.70
+13,DC,CSK,2,Anrich Nortje,4,0,43,0,0,1,10.80
+13,DC,CSK,2,Axar Patel,3,0,20,1,0,0,6.70
+13,DC,CSK,2,Rasikh Dar Salam,2,0,25,0,0,0,12.50
+13,DC,CSK,2,Mitchell Marsh,1,0,14,0,0,1,14.00
+13,DC,CSK,2,Mukesh Kumar,3,0,21,3,0,1,7.00
+14,M,RR,2,Kwena Maphaka,2,0,23,1,0,0,11.50
+14,M,RR,2,Jasprit Bumrah,4,0,26,0,0,9,6.50
+14,M,RR,2,Akash Madhwal,4,0,20,3,0,1,5.00
+14,M,RR,2,Gerald Coetzee,2.3,0,36,0,0,0,14.40
+14,M,RR,2,Piyush Chawla,3,0,18,0,0,0,6.00
+15,LSG,RCB,2,Manimaran Siddharth,3,0,21,1,0,0,7.00
+15,LSG,RCB,2,Krunal Pandya,1,0,10,0,0,0,10.00
+15,LSG,RCB,2,Naveen-ul-Haq,3.4,0,25,2,0,1,6.80
+15,LSG,RCB,2,Mayank Yadav,4,0,14,3,0,0,3.50
+15,LSG,RCB,2,Ravi Bishnoi,3,0,33,0,0,2,11.00
+15,LSG,RCB,2,Yash Thakur,4,0,38,1,0,0,9.50
+15,LSG,RCB,2,Marcus Stoinis,1,0,9,1,0,5,9.00
+16,KKR,DC,2,Mitchell Starc,3,0,25,2,0,0,8.30
+16,KKR,DC,2,Vaibhav Arora,4,0,27,3,0,3,6.80
+16,KKR,DC,2,Andre Russell,1.2,0,14,1,0,0,10.50
+16,KKR,DC,2,Sunil Narine,4,0,29,1,0,0,7.20
+16,KKR,DC,2,Varun Chakaravarthy,4,0,33,3,1,2,8.20
+16,KKR,DC,2,Venkatesh Iyer,1,0,28,0,0,0,28.00
+17,GT,PK,2,Azmatullah Omarzai,4,0,41,1,0,1,10.20
+17,GT,PK,2,Umesh Yadav,3,0,35,1,0,0,11.70
+17,GT,PK,2,Rashid Khan,4,0,40,1,0,0,10.00
+17,GT,PK,2,Noor Ahmad,4,0,32,2,0,3,8.00
+17,GT,PK,2,Mohit Sharma,4,0,38,1,0,0,9.50
+17,GT,PK,2,Darshan Nalkande,0.5,0,6,1,0,1,7.20
+18,CSK,SH,2,Deepak Chahar,3.1,0,32,1,0,0,10.10
+18,CSK,SH,2,Mukesh Choudhary,1,0,27,0,1,0,27.00
+18,CSK,SH,2,Maheesh Theekshana,4,0,27,1,0,0,6.80
+18,CSK,SH,2,Tushar Deshpande,2,0,20,0,0,0,10.00
+18,CSK,SH,2,Ravindra Jadeja,4,0,30,0,0,0,7.50
+18,CSK,SH,2,Moeen Ali,3,0,23,2,0,1,7.70
+18,CSK,SH,2,Rachin Ravindra,1,0,3,0,0,0,3.00
+19,RCB,RR,2,Reece Topley,4,0,27,2,0,1,6.80
+19,RCB,RR,2,Yash Dayal,4,0,37,1,0,0,9.20
+19,RCB,RR,2,Mohammed Siraj,4,0,35,1,0,1,8.80
+19,RCB,RR,2,Mayank Dagar,2,0,34,0,0,0,17.00
+19,RCB,RR,2,Cameron Green,3.1,0,27,0,0,1,8.50
+19,RCB,RR,2,Himanshu Sharma,2,0,29,0,0,0,14.50
+20,M,DC,2,Gerald Coetzee,4,0,34,4,0,0,8.50
+20,M,DC,2,Jasprit Bumrah,4,0,22,2,0,0,5.50
+20,M,DC,2,Akash Madhwal,4,0,45,0,1,0,11.20
+20,M,DC,2,Romario Shepherd,4,0,54,1,0,1,13.50
+20,M,DC,2,Mohammad Nabi,2,0,17,0,0,0,8.50
+20,M,DC,2,Piyush Chawla,2,0,32,0,0,0,16.00
+21,LSG,GT,2,Manimaran Siddharth,4,0,29,0,3,2,7.20
+21,LSG,GT,2,Naveen-ul-Haq,4,0,37,1,1,1,9.20
+21,LSG,GT,2,Mayank Yadav,1,0,13,0,0,0,13.00
+21,LSG,GT,2,Yash Thakur,3.5,1,30,5,0,2,7.80
+21,LSG,GT,2,Krunal Pandya,4,0,11,3,0,0,2.80
+21,LSG,GT,2,Ravi Bishnoi,2,0,8,1,0,1,4.00
+22,KKR,CSK,2,Mitchell Starc,3,0,29,0,0,2,9.70
+22,KKR,CSK,2,Vaibhav Arora,4,0,28,2,0,0,7.00
+22,KKR,CSK,2,Anukul Roy,1.4,0,18,0,0,0,10.80
+22,KKR,CSK,2,Sunil Narine,4,0,30,1,0,0,7.50
+22,KKR,CSK,2,Varun Chakaravarthy,4,0,26,0,0,0,6.50
+22,KKR,CSK,2,Andre Russell,1,0,8,0,0,1,8.00
+23,SH,PK,2,Bhuvneshwar Kumar,4,1,32,2,0,2,8.00
+23,SH,PK,2,Pat Cummins (c),4,0,22,1,0,0,5.50
+23,SH,PK,2,T Natarajan,4,0,33,1,0,0,8.20
+23,SH,PK,2,Nitish Reddy,3,0,33,1,0,1,11.00
+23,SH,PK,2,Jaydev Unadkat,4,0,49,1,0,3,12.20
+23,SH,PK,2,Shahbaz Ahmed,1,0,10,0,0,0,10.00
+24,RR,GT,2,Trent Boult,2,0,8,0,0,0,4.00
+24,RR,GT,2,Avesh Khan,4,0,48,1,0,2,12.00
+24,RR,GT,2,Keshav Maharaj,2,0,16,0,0,0,8.00
+24,RR,GT,2,Ravichandran Ashwin,4,0,40,0,0,0,10.00
+24,RR,GT,2,Yuzvendra Chahal,4,0,43,2,0,1,10.80
+24,RR,GT,2,Kuldeep Sen,4,0,41,3,1,4,10.20
+25,RCB,M,2,Reece Topley,3,0,34,0,0,1,11.30
+25,RCB,M,2,Mohammed Siraj,3,0,37,0,0,0,12.30
+25,RCB,M,2,Akash Deep,3.3,0,55,1,0,2,15.70
+25,RCB,M,2,Glenn Maxwell,1,0,17,0,0,0,17.00
+25,RCB,M,2,Vijaykumar Vyshak,3,0,32,1,0,0,10.70
+25,RCB,M,2,Will Jacks,2,0,24,1,0,0,12.00
+26,LSG,DC,2,Arshad Khan,3.1,0,34,0,0,0,10.70
+26,LSG,DC,2,Naveen-ul-Haq,3,0,24,1,0,0,8.00
+26,LSG,DC,2,Yash Thakur,4,0,31,1,0,0,7.80
+26,LSG,DC,2,Krunal Pandya,3,0,45,0,0,7,15.00
+26,LSG,DC,2,Ravi Bishnoi,4,0,25,2,0,0,6.20
+26,LSG,DC,2,Marcus Stoinis,1,0,10,0,0,0,10.00
+27,PK,RR,2,Arshdeep Singh,3.5,0,45,1,0,1,11.70
+27,PK,RR,2,Kagiso Rabada,4,0,18,2,0,0,4.50
+27,PK,RR,2,Sam Curran (c),4,0,25,2,0,1,6.20
+27,PK,RR,2,Liam Livingstone,3,0,21,1,0,1,7.00
+27,PK,RR,2,Harshal Patel,2,0,21,1,0,0,10.50
+27,PK,RR,2,Harpreet Brar,3,0,22,0,0,0,7.30
+28,LSG,KKR,2,Shamar Joseph,4,0,47,0,3,7,11.80
+28,LSG,KKR,2,Mohsin Khan,4,0,29,2,0,1,7.20
+28,LSG,KKR,2,Krunal Pandya,1,0,14,0,0,0,14.00
+28,LSG,KKR,2,Yash Thakur,2,0,25,0,0,1,12.50
+28,LSG,KKR,2,Arshad Khan,2,0,24,0,0,2,12.00
+28,LSG,KKR,2,Ravi Bishnoi,2.4,0,17,0,0,2,6.40
+29,CSK,M,2,Tushar Deshpande,4,0,29,1,0,0,7.20
+29,CSK,M,2,Mustafizur Rahman,4,0,55,1,0,3,13.80
+29,CSK,M,2,Shardul Thakur,4,0,35,0,0,0,8.80
+29,CSK,M,2,Ravindra Jadeja,4,0,37,0,0,0,9.20
+29,CSK,M,2,Matheesha Pathirana,4,0,28,4,0,2,7.00
+30,SH,RCB,2,Abhishek Sharma,1,0,10,0,0,0,10.00
+30,SH,RCB,2,Bhuvneshwar Kumar,4,0,60,0,0,4,15.00
+30,SH,RCB,2,Shahbaz Ahmed,1,0,18,0,0,0,18.00
+30,SH,RCB,2,T Natarajan,4,0,47,1,0,4,11.80
+30,SH,RCB,2,Pat Cummins (c),4,0,43,3,0,1,10.80
+30,SH,RCB,2,Mayank Markande,4,0,46,2,0,3,11.50
+30,SH,RCB,2,Jaydev Unadkat,2,0,37,0,0,1,18.50
+31,KKR,RR,2,Mitchell Starc,4,0,50,0,0,9,12.50
+31,KKR,RR,2,Vaibhav Arora,3,0,45,1,1,0,15.00
+31,KKR,RR,2,Harshit Rana,4,0,45,2,0,1,11.20
+31,KKR,RR,2,Sunil Narine,4,0,30,2,0,3,7.50
+31,KKR,RR,2,Varun Chakaravarthy,4,0,36,2,0,1,9.00
+31,KKR,RR,2,Andre Russell,1,0,17,0,0,0,17.00
+32,GT,DC,2,Sandeep Warrier,3,0,40,2,0,0,13.30
+32,GT,DC,2,Spencer Johnson,2,0,22,1,0,2,11.00
+32,GT,DC,2,Rashid Khan,2,0,12,1,0,0,6.00
+32,GT,DC,2,Noor Ahmad,1.5,0,14,0,0,0,7.60
+33,M,PK,2,Gerald Coetzee,4,0,32,3,0,6,8.00
+33,M,PK,2,Jasprit Bumrah,4,0,21,3,1,1,5.20
+33,M,PK,2,Akash Madhwal,3.1,0,46,1,1,4,14.50
+33,M,PK,2,Hardik Pandya (c),4,0,33,1,0,3,8.20
+33,M,PK,2,Shreyas Gopal,2,0,26,1,0,0,13.00
+33,M,PK,2,Romario Shepherd,2,0,20,0,0,0,10.00
+34,CSK,LSG,2,Deepak Chahar,3,0,26,0,0,0,8.70
+34,CSK,LSG,2,Tushar Deshpande,4,0,42,0,1,4,10.50
+34,CSK,LSG,2,Mustafizur Rahman,4,0,43,1,0,2,10.80
+34,CSK,LSG,2,Ravindra Jadeja,3,0,32,0,0,1,10.70
+34,CSK,LSG,2,Matheesha Pathirana,4,0,29,1,0,2,7.20
+34,CSK,LSG,2,Moeen Ali,1,0,5,0,0,0,5.00
+35,SH,DC,2,Washington Sundar,2,0,46,1,0,0,23.00
+35,SH,DC,2,Bhuvneshwar Kumar,4,0,33,1,0,3,8.20
+35,SH,DC,2,Pat Cummins (c),4,0,35,0,0,0,8.80
+35,SH,DC,2,T Natarajan,4,1,19,4,0,1,4.80
+35,SH,DC,2,Mayank Markande,2,0,26,2,0,2,13.00
+35,SH,DC,2,Shahbaz Ahmed,1,0,22,0,0,0,22.00
+35,SH,DC,2,Nitish Reddy,2.1,0,17,2,0,1,7.80
+36,KKR,RCB,2,Harshit Rana,4,0,33,2,0,1,8.20
+36,KKR,RCB,2,Mitchell Starc,3,0,55,1,0,1,18.30
+36,KKR,RCB,2,Varun Chakaravarthy,4,0,36,1,0,0,9.00
+36,KKR,RCB,2,Sunil Narine,4,0,34,2,0,0,8.50
+36,KKR,RCB,2,Suyash Sharma,2,0,33,0,0,1,16.50
+36,KKR,RCB,2,Andre Russell,3,0,25,3,0,1,8.30
+37,PK,GT,2,Kagiso Rabada,4,0,40,0,0,0,10.00
+37,PK,GT,2,Arshdeep Singh,2.1,0,17,1,0,0,7.80
+37,PK,GT,2,Harshal Patel,3,0,15,3,0,0,5.00
+37,PK,GT,2,Sam Curran (c),2,0,18,1,0,0,9.00
+37,PK,GT,2,Harpreet Brar,4,0,35,0,0,0,8.80
+37,PK,GT,2,Liam Livingstone,4,0,19,2,0,1,4.80
+38,M,RR,2,Hardik Pandya (c),2,0,21,0,0,0,10.50
+38,M,RR,2,Jasprit Bumrah,4,0,37,0,1,1,9.20
+38,M,RR,2,Nuwan Thushara,3,0,28,0,0,0,9.30
+38,M,RR,2,Gerald Coetzee,2,0,25,0,0,3,12.50
+38,M,RR,2,Mohammad Nabi,3,0,30,0,0,0,10.00
+38,M,RR,2,Piyush Chawla,4,0,33,1,0,0,8.20
+38,M,RR,2,Tilak Varma,0.4,0,8,0,0,0,12.00
+39,CSK,LSG,2,Deepak Chahar,2,0,11,1,0,0,5.50
+39,CSK,LSG,2,Tushar Deshpande,3,0,34,0,1,0,11.30
+39,CSK,LSG,2,Mustafizur Rahman,3.3,0,51,1,1,0,14.60
+39,CSK,LSG,2,Shardul Thakur,3,0,42,0,0,1,14.00
+39,CSK,LSG,2,Moeen Ali,2,0,21,0,0,0,10.50
+39,CSK,LSG,2,Ravindra Jadeja,2,0,16,0,1,0,8.00
+39,CSK,LSG,2,Matheesha Pathirana,4,0,35,2,0,2,8.80
+40,DC,GT,2,Khaleel Ahmed,2,0,26,0,0,1,13.00
+40,DC,GT,2,Anrich Nortje,3,0,48,1,0,0,16.00
+40,DC,GT,2,Rasikh Dar Salam,4,0,44,3,0,1,11.00
+40,DC,GT,2,Mukesh Kumar,4,0,41,1,1,0,10.20
+40,DC,GT,2,Axar Patel,3,0,28,1,0,0,9.30
+40,DC,GT,2,Kuldeep Yadav,4,0,29,2,0,1,7.20
+41,RCB,SH,2,Will Jacks,2,0,23,1,0,0,11.50
+41,RCB,SH,2,Mohammed Siraj,4,0,20,0,0,2,5.00
+41,RCB,SH,2,Yash Dayal,3,0,18,1,0,3,6.00
+41,RCB,SH,2,Swapnil Singh,3,0,40,2,1,0,13.30
+41,RCB,SH,2,Karn Sharma,4,0,29,2,0,2,7.20
+41,RCB,SH,2,Lockie Ferguson,2,0,28,0,0,0,14.00
+41,RCB,SH,2,Cameron Green,2,0,12,2,0,1,6.00
+42,KKR,PK,2,Dushmantha Chameera,3,0,48,0,0,1,16.00
+42,KKR,PK,2,Harshit Rana,4,0,61,0,0,1,15.20
+42,KKR,PK,2,Anukul Roy,2,0,36,0,0,0,18.00
+42,KKR,PK,2,Sunil Narine,4,0,24,1,0,0,6.00
+42,KKR,PK,2,Varun Chakaravarthy,3,0,46,0,0,0,15.30
+42,KKR,PK,2,Andre Russell,2,0,36,0,0,2,18.00
+42,KKR,PK,2,Ramandeep Singh,0.4,0,9,0,0,0,13.50
+43,DC,M,2,Lizaad Williams,3,0,34,0,1,8,11.30
+43,DC,M,2,Khaleel Ahmed,4,0,45,2,0,0,11.20
+43,DC,M,2,Mukesh Kumar,4,0,59,3,0,0,14.80
+43,DC,M,2,Kuldeep Yadav,3,0,47,0,0,1,15.70
+43,DC,M,2,Axar Patel,2,0,24,0,0,0,12.00
+43,DC,M,2,Rasikh Dar Salam,4,0,34,3,0,3,8.50
+44,LSG,RR,2,Matt Henry,3,0,32,0,0,0,10.70
+44,LSG,RR,2,Mohsin Khan,4,0,52,0,0,0,13.00
+44,LSG,RR,2,Yash Thakur,4,0,50,1,0,2,12.50
+44,LSG,RR,2,Marcus Stoinis,1,0,3,1,0,0,3.00
+44,LSG,RR,2,Krunal Pandya,4,0,24,0,0,0,6.00
+44,LSG,RR,2,Amit Mishra,2,0,20,1,0,0,10.00
+44,LSG,RR,2,Ravi Bishnoi,1,0,16,0,0,0,16.00
+45,GT,RCB,2,Azmatullah Omarzai,2,0,18,0,0,0,9.00
+45,GT,RCB,2,Sandeep Warrier,1,0,15,0,0,2,15.00
+45,GT,RCB,2,Ravisrinivasan Sai Kishore,3,0,30,1,0,0,10.00
+45,GT,RCB,2,Rashid Khan,4,0,51,0,0,0,12.80
+45,GT,RCB,2,Noor Ahmad,4,0,43,0,0,1,10.80
+45,GT,RCB,2,Mohit Sharma,2,0,41,0,1,0,20.50
+46,CSK,SH,2,Deepak Chahar,3,0,22,0,0,0,7.30
+46,CSK,SH,2,Tushar Deshpande,3,0,27,4,0,0,9.00
+46,CSK,SH,2,Mustafizur Rahman,2.5,0,19,2,0,0,6.70
+46,CSK,SH,2,Ravindra Jadeja,4,0,22,1,0,0,5.50
+46,CSK,SH,2,Shardul Thakur,4,0,27,1,1,0,6.80
+46,CSK,SH,2,Matheesha Pathirana,2,0,17,2,0,2,8.50
+47,DC,KKR,2,Lizaad Williams,3,0,38,1,1,1,12.70
+47,DC,KKR,2,Khaleel Ahmed,3,0,28,0,0,0,9.30
+47,DC,KKR,2,Rasikh Dar Salam,2.3,0,30,0,0,0,12.00
+47,DC,KKR,2,Axar Patel,4,0,25,2,0,0,6.20
+47,DC,KKR,2,Kuldeep Yadav,4,0,34,0,0,0,8.50
+48,M,LSG,2,Nuwan Thushara,4,0,30,1,0,3,7.50
+48,M,LSG,2,Jasprit Bumrah,4,0,17,0,0,0,4.20
+48,M,LSG,2,Gerald Coetzee,3,0,29,1,0,3,9.70
+48,M,LSG,2,Piyush Chawla,3,0,23,0,0,0,7.70
+48,M,LSG,2,Hardik Pandya (c),4,0,26,2,0,1,6.50
+48,M,LSG,2,Mohammad Nabi,1.2,0,16,1,0,0,12.00
+49,CSK,PK,2,Deepak Chahar,0.2,0,4,0,0,0,12.00
+49,CSK,PK,2,Shardul Thakur,3.4,0,48,1,1,1,13.10
+49,CSK,PK,2,Richard Gleeson,3.5,0,30,1,1,1,7.80
+49,CSK,PK,2,Mustafizur Rahman,4,1,22,0,0,5,5.50
+49,CSK,PK,2,Ravindra Jadeja,3,0,22,0,0,0,7.30
+49,CSK,PK,2,Moeen Ali,2,0,22,0,0,0,11.00
+49,CSK,PK,2,Shivam Dube,1,0,14,1,0,0,14.00
+50,SH,RR,2,Bhuvneshwar Kumar,4,0,41,3,0,0,10.20
+50,SH,RR,2,Marco Jansen,4,0,44,0,2,4,11.00
+50,SH,RR,2,Pat Cummins (c),4,0,34,2,0,0,8.50
+50,SH,RR,2,T Natarajan,4,0,35,2,0,3,8.80
+50,SH,RR,2,Jaydev Unadkat,2,0,23,0,0,2,11.50
+50,SH,RR,2,Nitish Reddy,1,0,12,0,0,2,12.00
+50,SH,RR,2,Shahbaz Ahmed,1,0,11,0,0,0,11.00
+51,KKR,M,2,Vaibhav Arora,3,0,35,0,1,1,11.70
+51,KKR,M,2,Mitchell Starc,3.5,0,33,4,0,3,8.60
+51,KKR,M,2,Varun Chakaravarthy,4,0,22,2,0,0,5.50
+51,KKR,M,2,Sunil Narine,4,0,22,2,0,1,5.50
+51,KKR,M,2,Andre Russell,4,0,30,2,0,1,7.50
+52,GT,RCB,2,Mohit Sharma,2,0,32,0,0,0,16.00
+52,GT,RCB,2,Joshua Little,4,0,45,4,0,1,11.20
+52,GT,RCB,2,Manav Suthar,2,0,26,0,0,0,13.00
+52,GT,RCB,2,Noor Ahmad,4,0,23,2,0,0,5.80
+52,GT,RCB,2,Rashid Khan,1.4,0,25,0,0,0,15.00
+53,CSK,PK,2,Mitchell Santner,3,0,10,1,0,0,3.30
+53,CSK,PK,2,Tushar Deshpande,4,0,35,2,0,1,8.80
+53,CSK,PK,2,Richard Gleeson,4,0,41,0,0,2,10.20
+53,CSK,PK,2,Ravindra Jadeja,4,0,20,3,0,0,5.00
+53,CSK,PK,2,Simarjeet Singh,3,0,16,2,0,0,5.30
+53,CSK,PK,2,Shardul Thakur,2,0,12,1,0,1,6.00
+54,KKR,LSG,2,Vaibhav Arora,2,0,21,0,0,1,10.50
+54,KKR,LSG,2,Mitchell Starc,2,0,22,1,0,0,11.00
+54,KKR,LSG,2,Sunil Narine,4,0,22,1,0,1,5.50
+54,KKR,LSG,2,Harshit Rana,3.1,0,24,3,0,1,7.60
+54,KKR,LSG,2,Varun Chakaravarthy,3,0,30,3,0,0,10.00
+54,KKR,LSG,2,Andre Russell,2,0,17,2,0,3,8.50
+55,SH,M,2,Bhuvneshwar Kumar,4,1,22,1,0,1,5.50
+55,SH,M,2,Marco Jansen,3,0,45,1,0,6,15.00
+55,SH,M,2,Pat Cummins (c),4,1,35,1,0,1,8.80
+55,SH,M,2,T Natarajan,3.2,0,31,0,0,0,9.30
+55,SH,M,2,Nitish Reddy,2,0,16,0,0,0,8.00
+55,SH,M,2,Shahbaz Ahmed,1,0,11,0,0,0,11.00
+56,DC,RR,2,Khaleel Ahmed,4,0,47,2,0,7,11.80
+56,DC,RR,2,Ishant Sharma,3,0,34,0,0,1,11.30
+56,DC,RR,2,Mukesh Kumar,3,0,30,2,0,1,10.00
+56,DC,RR,2,Axar Patel,3,0,25,1,0,0,8.30
+56,DC,RR,2,Kuldeep Yadav,4,0,25,2,1,0,6.20
+56,DC,RR,2,Rasikh Dar Salam,3,0,36,1,0,1,12.00
+57,LSG,SH,2,Krishnappa Gowtham,2,0,29,0,0,1,14.50
+57,LSG,SH,2,Yash Thakur,2.4,0,47,0,0,1,17.60
+57,LSG,SH,2,Ravi Bishnoi,2,0,34,0,0,0,17.00
+57,LSG,SH,2,Naveen-ul-Haq,2,0,37,0,0,0,18.50
+57,LSG,SH,2,Ayush Badoni,1,0,19,0,0,0,19.00
+58,RCB,PK,2,Swapnil Singh,3,0,28,2,0,0,9.30
+58,RCB,PK,2,Mohammed Siraj,4,0,43,3,0,3,10.80
+58,RCB,PK,2,Yash Dayal,2,0,22,0,0,1,11.00
+58,RCB,PK,2,Lockie Ferguson,3,0,29,2,0,0,9.70
+58,RCB,PK,2,Will Jacks,1,0,5,0,0,0,5.00
+58,RCB,PK,2,Cameron Green,1,0,16,0,0,0,16.00
+58,RCB,PK,2,Karn Sharma,3,0,36,2,0,0,12.00
+59,GT,CSK,2,Umesh Yadav,3,0,20,1,0,0,6.70
+59,GT,CSK,2,Sandeep Warrier,3,0,28,1,0,0,9.30
+59,GT,CSK,2,Kartik Tyagi,4,0,51,0,0,2,12.80
+59,GT,CSK,2,Noor Ahmad,2,0,25,0,0,0,12.50
+59,GT,CSK,2,Rashid Khan,4,0,38,2,0,0,9.50
+59,GT,CSK,2,Mohit Sharma,4,0,31,3,0,2,7.80
+60,KKR,M,2,Vaibhav Arora,2,0,16,0,1,1,8.00
+60,KKR,M,2,Mitchell Starc,1,0,11,0,0,0,11.00
+60,KKR,M,2,Harshit Rana,3,0,34,2,0,1,11.30
+60,KKR,M,2,Sunil Narine,3,0,21,1,0,0,7.00
+60,KKR,M,2,Varun Chakaravarthy,4,0,17,2,0,1,4.20
+60,KKR,M,2,Andre Russell,3,0,34,2,0,2,11.30
+61,RR,CSK,2,Trent Boult,2.2,0,24,0,0,1,10.30
+61,RR,CSK,2,Sandeep Sharma,3,0,30,0,0,1,10.00
+61,RR,CSK,2,Ravichandran Ashwin,4,0,35,2,0,1,8.80
+61,RR,CSK,2,Nandre Burger,3,0,21,1,0,0,7.00
+61,RR,CSK,2,Yuzvendra Chahal,4,0,22,1,0,1,5.50
+61,RR,CSK,2,Avesh Khan,2,0,12,0,0,1,6.00
+62,RCB,DC,2,Swapnil Singh,1,0,9,1,0,0,9.00
+62,RCB,DC,2,Mohammed Siraj,4,0,33,1,0,2,8.20
+62,RCB,DC,2,Yash Dayal,3.1,0,20,3,0,1,6.30
+62,RCB,DC,2,Karn Sharma,2,0,19,0,0,0,9.50
+62,RCB,DC,2,Lockie Ferguson,4,0,23,2,0,0,5.80
+62,RCB,DC,2,Cameron Green,4,0,19,1,0,2,4.80
+62,RCB,DC,2,Will Jacks,1,0,16,0,0,0,16.00
+64,DC,LSG,2,Ishant Sharma,4,0,34,3,0,2,8.50
+64,DC,LSG,2,Khaleel Ahmed,2,0,22,1,0,1,11.00
+64,DC,LSG,2,Axar Patel,1,0,20,1,0,0,20.00
+64,DC,LSG,2,Mukesh Kumar,4,0,33,1,0,2,8.20
+64,DC,LSG,2,Kuldeep Yadav,4,0,33,1,0,0,8.20
+64,DC,LSG,2,Tristan Stubbs,1,0,4,1,0,0,4.00
+64,DC,LSG,2,Gulbadin Naib,1,0,12,0,0,0,12.00
+64,DC,LSG,2,Rasikh Dar Salam,3,0,30,0,0,0,10.00
+65,RR,PK,2,Trent Boult,3,0,27,1,0,0,9.00
+65,RR,PK,2,Sandeep Sharma,4,0,28,0,0,0,7.00
+65,RR,PK,2,Avesh Khan,3.5,0,28,2,0,0,7.30
+65,RR,PK,2,Ravichandran Ashwin,4,0,31,0,0,0,7.80
+65,RR,PK,2,Yuzvendra Chahal,4,0,31,2,0,1,7.80
+67,LSG,M,2,Arshad Khan,2,0,11,0,0,3,5.50
+67,LSG,M,2,Matt Henry,2,0,24,0,0,2,12.00
+67,LSG,M,2,Krunal Pandya,4,0,29,1,0,1,7.20
+67,LSG,M,2,Mohsin Khan,4,0,45,1,0,3,11.20
+67,LSG,M,2,Naveen-ul-Haq,4,0,50,2,1,1,12.50
+67,LSG,M,2,Ravi Bishnoi,4,0,37,2,0,0,9.20
+68,RCB,CSK,2,Glenn Maxwell,4,0,25,1,0,5,6.20
+68,RCB,CSK,2,Mohammed Siraj,4,0,35,1,0,1,8.80
+68,RCB,CSK,2,Yash Dayal,4,0,42,2,0,0,10.50
+68,RCB,CSK,2,Swapnil Singh,2,0,13,0,0,1,6.50
+68,RCB,CSK,2,Karn Sharma,1,0,14,0,0,0,14.00
+68,RCB,CSK,2,Lockie Ferguson,3,0,39,1,2,0,13.00
+68,RCB,CSK,2,Cameron Green,2,0,18,1,0,1,9.00
+69,PK,SH,2,Arshdeep Singh,4,0,37,2,0,1,9.20
+69,PK,SH,2,Rishi Dhawan,3,0,35,0,0,1,11.70
+69,PK,SH,2,Harshal Patel,4,0,49,2,1,2,12.20
+69,PK,SH,2,Rahul Chahar,4,0,43,0,0,1,10.80
+69,PK,SH,2,Harpreet Brar,3,0,36,1,0,5,12.00
+69,PK,SH,2,Shashank Singh,1,0,5,1,0,0,5.00
+69,PK,SH,2,Atharva Taide,0.1,0,4,0,0,0,24.00
+71,SH,KKR,2,Bhuvneshwar Kumar,3,0,28,0,0,0,9.30
+71,SH,KKR,2,Pat Cummins (c),3,0,38,1,0,1,12.70
+71,SH,KKR,2,T Natarajan,3,0,22,1,0,1,7.30
+71,SH,KKR,2,Vijayakanth Viyaskanth,2,0,22,0,0,0,11.00
+71,SH,KKR,2,Travis Head,1.4,0,32,0,0,0,19.20
+71,SH,KKR,2,Nitish Reddy,1,0,13,0,0,0,13.00
+72,RCB,RR,2,Swapnil Singh,2,0,19,0,0,0,9.50
+72,RCB,RR,2,Mohammed Siraj,4,0,33,2,0,3,8.20
+72,RCB,RR,2,Yash Dayal,3,0,37,0,0,0,12.30
+72,RCB,RR,2,Lockie Ferguson,4,0,37,1,0,0,9.20
+72,RCB,RR,2,Karn Sharma,2,0,19,1,0,2,9.50
+72,RCB,RR,2,Cameron Green,4,0,28,1,0,0,7.00
+73,SH,RR,2,Bhuvneshwar Kumar,3,0,33,0,0,0,11.00
+73,SH,RR,2,Pat Cummins (c),4,0,30,1,0,1,7.50
+73,SH,RR,2,T Natarajan,3,0,13,1,0,1,4.30
+73,SH,RR,2,Jaydev Unadkat,1,0,5,0,0,1,5.00
+73,SH,RR,2,Shahbaz Ahmed,4,0,23,3,0,0,5.80
+73,SH,RR,2,Abhishek Sharma,4,0,24,2,0,0,6.00
+73,SH,RR,2,Aiden Markram,1,0,10,0,1,0,10.00
+74,SH,KKR,2,Bhuvneshwar Kumar,2,0,25,0,0,1,12.50
+74,SH,KKR,2,Pat Cummins (c),2,0,18,1,0,2,9.00
+74,SH,KKR,2,T Natarajan,2,0,29,0,0,2,14.50
+74,SH,KKR,2,Shahbaz Ahmed,2.3,0,22,1,0,0,8.80
+74,SH,KKR,2,Jaydev Unadkat,1,0,9,0,0,0,9.00
+74,SH,KKR,2,Aiden Markram,1,0,5,0,0,0,5.00
