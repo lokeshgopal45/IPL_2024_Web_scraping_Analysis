@@ -100,4 +100,4 @@ def map_actions(action):
 df['Action'], df['Runs'] = zip(*df['Actions'].apply(map_actions))
 
 df.drop(columns=['Actions'], inplace=True)
-df.to_csv('ball_by_ball_scrapper.csv',index=False)
+df.to_csv('data/ball_by_ball_scrapper.csv',index=False)
